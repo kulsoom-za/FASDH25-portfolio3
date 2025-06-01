@@ -1,0 +1,16 @@
+filename-1,filename-2,similarity,title-1,year-1,month-1,day-1,title-2,year-2,month-2,day-2,topic_1,topic_2
+2022-08-06_4030.txt,2023-05-11_3576.txt,0.6924254351681132,Gaza attack: What is the Palestinian Islamic Jihad?,2022,8,6,Israel’s prime target: What is Palestinian Islamic Jihad?,2023,5,11,0.0,0.0
+2022-10-26_3899.txt,2022-11-11_3879.txt,0.5885363770478133,Who are the Lions’ Den armed group in the occupied West Bank?,2022,10,26,Inside the Lions’ Den: Will Palestinian resistance keep growing?,2022,11,11,0.0,0.0
+2021-10-13_4349.txt,2021-10-17_4345.txt,0.5562700734451904,Palestine olive harvest: Campaign begins to protect farmers,2021,10,13,Settler attacks wreak havoc on Palestinians during olive harvest,2021,10,17,0.0,0.0
+2021-10-14_4347.txt,2021-10-17_4345.txt,0.5045903934657185,Infographic: Palestine’s olive industry,2021,10,14,Settler attacks wreak havoc on Palestinians during olive harvest,2021,10,17,0.0,0.0
+2023-02-22_3721.txt,2023-02-23_3718.txt,0.5517598144410403,Israeli forces kill 11 Palestinians in Nablus raid,2023,2,22,"Israel bombs Gaza after rocket fire, deadly Nablus raid",2023,2,23,0.0,0.0
+2023-06-02_3528.txt,2023-06-09_3518.txt,0.5471675124566145,Palestinian toddler seriously wounded by Israeli fire,2023,6,2,Palestinian killed by Israeli forces at Rantis checkpoint,2023,6,9,0.0,0.0
+2023-06-02_3528.txt,2023-06-15_3510.txt,0.504229738822438,Palestinian toddler seriously wounded by Israeli fire,2023,6,2,Israel says Palestinian toddler killed ‘unintentionally’,2023,6,15,0.0,0.0
+2023-06-23_3486.txt,2023-06-24_3482.txt,0.529234409595105,UN slams Israel’s use of ‘advanced military weaponry’ in Jenin,2023,6,23,Israeli forces kill Palestinian teen after checkpoint shooting,2023,6,24,0.0,0.0
+2023-02-04_3744.txt,2023-02-04_3746.txt,0.5296598181696347,Palestinians wounded after Israeli forces raid camp in West Bank,2023,2,4,Israeli forces kill unarmed Palestinian man in occupied West Bank,2023,2,4,0.0,0.0
+2023-05-30_3532.txt,2023-06-02_3528.txt,0.5259827889272124,Israeli shot dead near illegal settlement in occupied West Bank,2023,5,30,Palestinian toddler seriously wounded by Israeli fire,2023,6,2,0.0,0.0
+2022-02-15_4274.txt,2022-03-08_4269.txt,0.5146819250879183,Palestinian teen shot and killed by Israeli forces in West Bank,2022,2,15,Israeli troops demolish Palestinian homes in West Bank,2022,3,8,0.0,0.0
+2023-11-09_2455.txt,2023-11-10_2443.txt,0.5145034926546088,Deadly assault on Jenin refugee camp as Israel raids on West Bank intensify,2023,11,9,Israel intensifies raids in the occupied West Bank,2023,11,10,0.0,0.0
+2024-01-21_1330.txt,2024-01-22_1306.txt,0.5141957065510819,Palestinian-American teen one of hundreds killed by Israelis in West Bank,2024,1,21,US demands ‘urgent’ Israeli probe into Palestinian-American child’s death,2024,1,22,0.0,0.0
+2022-06-01_4105.txt,2022-06-02_4102.txt,0.5061493876343689,Israeli forces kill Palestinian woman in occupied West Bank,2022,6,1,Israeli forces kill four Palestinians in occupied West Bank,2022,6,2,0.0,0.0
+2021-06-25_4478.txt,2021-06-30_4469.txt,0.5010224669582667,Israeli settlers refuse to vacate illegal West Bank settlement,2021,6,25,Settlers in occupied West Bank agree to evacuate illegal outpost,2021,6,30,0.0,0.0
