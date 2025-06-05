@@ -5,7 +5,7 @@ import os
 os.makedirs('outputs', exist_ok=True)
 
 # Load data
-df = pd.read_csv('Topic_model_and_tfidf_sorted_by_topic.csv')
+df = pd.read_csv('../outputs/Topic_model_and_tfidf_sorted_by_topic.csv')
 
 # 2. Create the edges list (using original filenames)
 edges = df[['filename-1', 'filename-2', 'similarity']]
@@ -25,5 +25,5 @@ nodes = pd.concat([source_nodes, target_nodes]).drop_duplicates(subset='Id')
 nodes['Label'] = nodes['Id']
 
 # 4. Save to CSV
-edges.to_csv('kulsoom-zaman-edges.csv', encoding='utf-8-sig', index=False)
-nodes.to_csv('kulsoom-zaman-nodes.csv', encoding='utf-8-sig', index=False)
+edges.to_csv('../outputs/kulsoom-zaman-edges.csv', encoding='utf-8-sig', index=False)
+nodes.to_csv('../outputs/kulsoom-zaman-nodes.csv', encoding='utf-8-sig', index=False)

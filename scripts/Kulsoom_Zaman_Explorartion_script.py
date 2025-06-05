@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Loading TF-IDF similarity data and topic model results
-tfidf_df = pd.read_csv('tfidf/tfidf-over-0.3.csv')
+tfidf_df = pd.read_csv('../data/dataframes/tfidf/tfidf-over-0.3.csv')
 
 #EXPLORING TF-IDF
 
@@ -38,7 +38,7 @@ print(f"Maximum similarity score: {tfidf_df['similarity'].max()}")
 #EXPLORING TOPIC-MODELING DATAFRAME
 
 #Topic model
-topics_df = pd.read_csv('topic-model/topic-model.csv').rename(columns={'Topic': 'topic'})
+topics_df = pd.read_csv('../data/dataframes/topic-model/topic-model.csv').rename(columns={'Topic': 'topic'})
 print(topics_df.head())
 print(topics_df.columns)
 
@@ -98,5 +98,5 @@ print(filtered_df.head())
 print(filtered_df.columns)
 
 # Saving the final filtered and sorted DataFrame to CSV
-filtered_df.to_csv('Topic_model_and_tfidf_sorted_by_topic.csv', index=False)
+filtered_df.to_csv('../outputs/Topic_model_and_tfidf_sorted_by_topic.csv', index=False)
 print("Saved")
