@@ -1,963 +1,963 @@
 filename,year_month,title,avg_sentiment
-2023-10-20_2973.txt,2023-10,EU-US summit to stress unity amid Israel-Hamas and Russia-Ukraine wars,0.8095238095238095
-2024-01-08_1470.txt,2024-01,Hezbollah says Israel kills top commander amid fears of Gaza war escalation,0.7647058823529411
-2023-10-13_3168.txt,2023-10,"Israel using white phosphorus in Gaza, Lebanon, endangering civilians: HRW",0.6842105263157895
-2024-01-04_1510.txt,2024-01,Photos: Palestinians flee Nuseirat refugee camp once again amid attacks,0.35294117647058826
-2024-01-15_1391.txt,2024-01,Turkey frees Israeli footballer detained over Gaza war reference in match,0.7222222222222222
-2024-01-16_1375.txt,2024-01,Israel’s new $15bn war budget: What’s it for and what gets cut?,0.8157894736842105
+2023-10-20_2973.txt,2023-10,EU-US summit to stress unity amid Israel-Hamas and Russia-Ukraine wars,0.81
+2024-01-08_1470.txt,2024-01,Hezbollah says Israel kills top commander amid fears of Gaza war escalation,0.76
+2023-10-13_3168.txt,2023-10,"Israel using white phosphorus in Gaza, Lebanon, endangering civilians: HRW",0.68
+2024-01-04_1510.txt,2024-01,Photos: Palestinians flee Nuseirat refugee camp once again amid attacks,0.35
+2024-01-15_1391.txt,2024-01,Turkey frees Israeli footballer detained over Gaza war reference in match,0.72
+2024-01-16_1375.txt,2024-01,Israel’s new $15bn war budget: What’s it for and what gets cut?,0.82
 2023-10-09_3270.txt,2023-10,Israel-Hamas war updates: Israeli bombing rocks Gaza through the night,1.0
-2023-10-14_3120.txt,2023-10,Israeli army and settler attacks against Palestinians in West Bank increase,0.7115384615384616
+2023-10-14_3120.txt,2023-10,Israeli army and settler attacks against Palestinians in West Bank increase,0.71
 2024-01-08_1469.txt,2024-01,Israel says it is scaling down north Gaza operations. What does that mean?,0.75
 2023-10-25_2871.txt,2023-10,US resists ceasefire call in UN Security Council debate on Israel-Gaza war,0.6
-2024-01-06_1486.txt,2024-01,Safe zones: Israel’s technologies of genocide,0.5833333333333334
+2024-01-06_1486.txt,2024-01,Safe zones: Israel’s technologies of genocide,0.58
 2024-01-25_1279.txt,2024-01,Is Israel’s war on Gaza a watershed moment in history?,0.8
-2023-10-06_3313.txt,2023-10,How the October War changed the world,0.8070175438596491
-2023-10-09_3263.txt,2023-10,Rafah crossing between Gaza and Egypt disrupted by Israeli air raids,0.4666666666666667
-2023-10-16_3078.txt,2023-10,Funeral in US for Palestinian-American boy killed in suspected hate crime,0.6666666666666666
-2023-10-10_3246.txt,2023-10,"The bombs raining down on Gaza from Israel are beyond scary, beyond crazy",0.6521739130434783
-2024-01-25_1278.txt,2024-01,Why is Canada asking Palestinians to list scars on Gaza visa applications?,0.7307692307692307
-2023-10-11_3229.txt,2023-10,Gaza’s Rimal neighbourhood wiped out by Israeli air strikes,0.631578947368421
-2023-10-25_2872.txt,2023-10,Gaza’s kidney patients face dialysis crisis at jam-packed hospitals,0.7241379310344828
-2023-10-18_3034.txt,2023-10,"Nice’s Atal, Mainz’s El Ghazi suspended for Israel-Palestine conflict posts",0.8222222222222222
-2023-10-09_3282.txt,2023-10,‘Dozens’ of civilians being held hostage by Hamas: Israeli military,0.7692307692307693
-2023-10-23_2907.txt,2023-10,US ‘urges delay’ in ground invasion as Israel continues to pound Gaza,0.48148148148148145
+2023-10-06_3313.txt,2023-10,How the October War changed the world,0.81
+2023-10-09_3263.txt,2023-10,Rafah crossing between Gaza and Egypt disrupted by Israeli air raids,0.47
+2023-10-16_3078.txt,2023-10,Funeral in US for Palestinian-American boy killed in suspected hate crime,0.67
+2023-10-10_3246.txt,2023-10,"The bombs raining down on Gaza from Israel are beyond scary, beyond crazy",0.65
+2024-01-25_1278.txt,2024-01,Why is Canada asking Palestinians to list scars on Gaza visa applications?,0.73
+2023-10-11_3229.txt,2023-10,Gaza’s Rimal neighbourhood wiped out by Israeli air strikes,0.63
+2023-10-25_2872.txt,2023-10,Gaza’s kidney patients face dialysis crisis at jam-packed hospitals,0.72
+2023-10-18_3034.txt,2023-10,"Nice’s Atal, Mainz’s El Ghazi suspended for Israel-Palestine conflict posts",0.82
+2023-10-09_3282.txt,2023-10,‘Dozens’ of civilians being held hostage by Hamas: Israeli military,0.77
+2023-10-23_2907.txt,2023-10,US ‘urges delay’ in ground invasion as Israel continues to pound Gaza,0.48
 2023-10-24_2880.txt,2023-10,The Take: A new era of solidarity for the Palestinian cause,1.1
-2023-10-15_3115.txt,2023-10,Tens of thousands rally around the world in solidarity with Palestine,0.6666666666666666
-2024-01-02_1531.txt,2024-01,What’s really at stake in the US moves to target TikTok?,0.7121212121212122
-2023-10-26_2836.txt,2023-10,Celtic fans defy club to fly Palestine flags in Champions League match,0.7142857142857143
-2024-01-31_1219.txt,2024-01,The Take – ‘Lost trust’: Gaza residents await ceasefire deal,0.9166666666666666
-2024-01-04_1504.txt,2024-01,US to send top diplomats to Middle East as regional tensions spread,0.7407407407407407
-2023-10-20_2969.txt,2023-10,Investigations reveal discrepancies in Israel’s Gaza hospital attack claims,0.49056603773584906
+2023-10-15_3115.txt,2023-10,Tens of thousands rally around the world in solidarity with Palestine,0.67
+2024-01-02_1531.txt,2024-01,What’s really at stake in the US moves to target TikTok?,0.71
+2023-10-26_2836.txt,2023-10,Celtic fans defy club to fly Palestine flags in Champions League match,0.71
+2024-01-31_1219.txt,2024-01,The Take – ‘Lost trust’: Gaza residents await ceasefire deal,0.92
+2024-01-04_1504.txt,2024-01,US to send top diplomats to Middle East as regional tensions spread,0.74
+2023-10-20_2969.txt,2023-10,Investigations reveal discrepancies in Israel’s Gaza hospital attack claims,0.49
 2024-01-07_1477.txt,2024-01,Israel signals bombardment of northern Gaza set to end,0.56
-2023-10-31_2693.txt,2023-10,Dozens killed in Israeli air attack on Jabalia refugee camp: Gaza official,0.7333333333333333
+2023-10-31_2693.txt,2023-10,Dozens killed in Israeli air attack on Jabalia refugee camp: Gaza official,0.73
 2023-10-30_2732.txt,2023-10,Heavy clashes as Israeli tanks briefly reach Gaza City outskirts,0.48
-2024-01-28_1247.txt,2024-01,Could Red Sea attacks push up prices and fuel inflation?,0.42857142857142855
+2024-01-28_1247.txt,2024-01,Could Red Sea attacks push up prices and fuel inflation?,0.43
 2023-10-10_3233.txt,2023-10,Israel-Hamas war updates: Hamas claims release of woman and children,1.0
 2024-01-27_1251.txt,2024-01,"Cold, rainy weather making war-wracked Gaza ‘completely uninhabitable’",0.4
-2023-10-08_3290.txt,2023-10,Tel Aviv’s residents start venturing out,0.6666666666666666
-2023-10-04_3316.txt,2023-10,Fears for Khaled El Qaisi’s wellbeing after his release in Israel,0.6153846153846154
-2023-10-30_2731.txt,2023-10,"‘Our turn to die’: A Gaza blackout, the roar of Israeli jets and screams",0.7352941176470589
-2023-10-27_2795.txt,2023-10,"My student Yehia Dahdouh survived an Israeli bombing, but his pain is huge",0.8372093023255814
-2023-10-30_2714.txt,2023-10,Hamas releases video of three Gaza hostages addressing Netanyahu,0.8076923076923077
-2023-10-12_3181.txt,2023-10,The chaos at X since Elon Musk’s takeover has gotten worse,0.6176470588235294
-2023-10-29_2744.txt,2023-10,"Impeding aid to Gaza could be crime under ICC jurisdiction, says prosecutor",0.7058823529411765
+2023-10-08_3290.txt,2023-10,Tel Aviv’s residents start venturing out,0.67
+2023-10-04_3316.txt,2023-10,Fears for Khaled El Qaisi’s wellbeing after his release in Israel,0.62
+2023-10-30_2731.txt,2023-10,"‘Our turn to die’: A Gaza blackout, the roar of Israeli jets and screams",0.74
+2023-10-27_2795.txt,2023-10,"My student Yehia Dahdouh survived an Israeli bombing, but his pain is huge",0.84
+2023-10-30_2714.txt,2023-10,Hamas releases video of three Gaza hostages addressing Netanyahu,0.81
+2023-10-12_3181.txt,2023-10,The chaos at X since Elon Musk’s takeover has gotten worse,0.62
+2023-10-29_2744.txt,2023-10,"Impeding aid to Gaza could be crime under ICC jurisdiction, says prosecutor",0.71
 2023-10-12_3189.txt,2023-10,Middle East Roundup: Israel lays waste to Gaza after Hamas attack,0.72
-2023-10-30_2740.txt,2023-10,The Take: Israel’s ground war on Gaza begins,0.875
-2023-10-18_3035.txt,2023-10,What has been US President Biden’s stance on Israel-Gaza war so far?,0.6041666666666666
-2024-01-23_1300.txt,2024-01,Israeli military ‘encircles’ Khan Younis after 24 soldiers killed in Gaza,0.6666666666666666
-2024-01-20_1335.txt,2024-01,Palestinians accuse Israeli forces of executing 19 civilians in Gaza,0.6956521739130435
-2024-01-27_1254.txt,2024-01,"‘Israel’s supporters have been put on notice’, say experts on ICJ verdict",0.7142857142857143
+2023-10-30_2740.txt,2023-10,The Take: Israel’s ground war on Gaza begins,0.88
+2023-10-18_3035.txt,2023-10,What has been US President Biden’s stance on Israel-Gaza war so far?,0.6
+2024-01-23_1300.txt,2024-01,Israeli military ‘encircles’ Khan Younis after 24 soldiers killed in Gaza,0.67
+2024-01-20_1335.txt,2024-01,Palestinians accuse Israeli forces of executing 19 civilians in Gaza,0.7
+2024-01-27_1254.txt,2024-01,"‘Israel’s supporters have been put on notice’, say experts on ICJ verdict",0.71
 2024-01-11_1439.txt,2024-01,Protests as UN top court hears genocide case against Israel over Gaza war,0.5
-2024-01-20_1333.txt,2024-01,Residential building destroyed in attack that killed IRGC members in Syria,0.4444444444444444
+2024-01-20_1333.txt,2024-01,Residential building destroyed in attack that killed IRGC members in Syria,0.44
 2023-10-11_3217.txt,2023-10,History Illustrated: The story of Hamas and its fight for Palestine,1.0
-2023-10-13_3172.txt,2023-10,‘I want to see his body’: Nepali dreams turn into Israeli nightmare,0.775
-2023-10-22_2931.txt,2023-10,"Israeli air raids kill at least 55 in Gaza overnight, Hamas says",0.5789473684210527
-2023-10-15_3119.txt,2023-10,In Jerusalem’s Old City Israel soldiers ‘do what they want’ to Palestinians,0.625
-2023-10-28_2768.txt,2023-10,"Palestinians in West Bank face closures, attacks amid Israeli offensive",0.7424242424242424
-2023-10-23_2912.txt,2023-10,It’s a time for choosing,0.803921568627451
-2023-10-28_2773.txt,2023-10,"Israel ‘expanding’ troops in Gaza, Hamas to counter with ‘full force’",0.6857142857142857
-2023-10-11_3232.txt,2023-10,‘Fantasy land’: How Biden’s normalisation drive ignored Palestinians,0.8372093023255814
+2023-10-13_3172.txt,2023-10,‘I want to see his body’: Nepali dreams turn into Israeli nightmare,0.78
+2023-10-22_2931.txt,2023-10,"Israeli air raids kill at least 55 in Gaza overnight, Hamas says",0.58
+2023-10-15_3119.txt,2023-10,In Jerusalem’s Old City Israel soldiers ‘do what they want’ to Palestinians,0.62
+2023-10-28_2768.txt,2023-10,"Palestinians in West Bank face closures, attacks amid Israeli offensive",0.74
+2023-10-23_2912.txt,2023-10,It’s a time for choosing,0.8
+2023-10-28_2773.txt,2023-10,"Israel ‘expanding’ troops in Gaza, Hamas to counter with ‘full force’",0.69
+2023-10-11_3232.txt,2023-10,‘Fantasy land’: How Biden’s normalisation drive ignored Palestinians,0.84
 2023-10-07_3307.txt,2023-10,Why the Palestinian group Hamas launched an attack on Israel? All to know,1.0
 2024-01-10_1452.txt,2024-01,Terrified people flee Israeli attacks at Al-Aqsa Martyrs Hospital,0.5
-2024-01-31_1222.txt,2024-01,How escalating Red Sea crisis poses billions of dollars of risk for India,0.6363636363636364
-2023-10-23_2904.txt,2023-10,The Take: Censorship and disinformation – the online war on Gaza,0.9333333333333333
+2024-01-31_1222.txt,2024-01,How escalating Red Sea crisis poses billions of dollars of risk for India,0.64
+2023-10-23_2904.txt,2023-10,The Take: Censorship and disinformation – the online war on Gaza,0.93
 2024-01-24_1290.txt,2024-01,ICJ to decide on emergency measures in Israel-Gaza genocide case on Friday,0.68
-2024-01-06_1483.txt,2024-01,Pro-Palestine protesters block bridge outside UK parliament,0.2857142857142857
-2023-10-24_2886.txt,2023-10,Gaza hospital generators to run out of fuel in 48 hours: Health Ministry,0.26666666666666666
+2024-01-06_1483.txt,2024-01,Pro-Palestine protesters block bridge outside UK parliament,0.29
+2023-10-24_2886.txt,2023-10,Gaza hospital generators to run out of fuel in 48 hours: Health Ministry,0.27
 2023-10-08_3293.txt,2023-10,What is Hamas? A simple guide to the armed Palestinian group,0.85
 2023-10-17_3057.txt,2023-10,Iran’s Khamenei demands Israel stop bombardment of Gaza,0.7
-2024-01-09_1462.txt,2024-01,How does the war on Gaza affect mental health of Palestinian children?,0.5714285714285714
-2024-01-29_1230.txt,2024-01,"Israeli intelligence accuses UNRWA staff of kidnap, seizing body",0.6666666666666666
+2024-01-09_1462.txt,2024-01,How does the war on Gaza affect mental health of Palestinian children?,0.57
+2024-01-29_1230.txt,2024-01,"Israeli intelligence accuses UNRWA staff of kidnap, seizing body",0.67
 2024-01-15_1394.txt,2024-01,"Israel’s war on Gaza: List of key events, day 101",1.0
-2024-01-11_1434.txt,2024-01,Any US attack on Yemen’s Houthis will ‘not go without response’,0.6842105263157895
-2024-01-21_1323.txt,2024-01,"Gaza death toll surpasses 25,000 as Israel escalates assault",0.6666666666666666
-2023-10-19_3011.txt,2023-10,Jewish activists arrested at US Congress anti-Israel protest amid Gaza war,0.6956521739130435
-2023-10-17_3075.txt,2023-10,‘Every second in danger’: Gaza journalists race against deadlines and death,0.6666666666666666
-2023-10-25_2855.txt,2023-10,What we know about UN draft resolutions on the Israel-Hamas war so far,0.7692307692307693
+2024-01-11_1434.txt,2024-01,Any US attack on Yemen’s Houthis will ‘not go without response’,0.68
+2024-01-21_1323.txt,2024-01,"Gaza death toll surpasses 25,000 as Israel escalates assault",0.67
+2023-10-19_3011.txt,2023-10,Jewish activists arrested at US Congress anti-Israel protest amid Gaza war,0.7
+2023-10-17_3075.txt,2023-10,‘Every second in danger’: Gaza journalists race against deadlines and death,0.67
+2023-10-25_2855.txt,2023-10,What we know about UN draft resolutions on the Israel-Hamas war so far,0.77
 2023-10-28_2770.txt,2023-10,"Communication blackout, fuel shortages worsen the situation in Gaza",0.5
-2023-10-12_3201.txt,2023-10,White House walks back Biden’s claim he saw children beheaded by Hamas,0.3125
+2023-10-12_3201.txt,2023-10,White House walks back Biden’s claim he saw children beheaded by Hamas,0.31
 2023-10-24_2881.txt,2023-10,"‘Son of Maryam’, a birth seen as a victory against Israel’s raids on Gaza",0.58
-2023-10-31_2689.txt,2023-10,Photos: Dozens killed in Israeli air attack on Jabalia refugee camp in Gaza,0.3333333333333333
-2023-10-26_2843.txt,2023-10,Two more resolutions to halt Israel-Gaza war fail at UN Security Council,0.6666666666666666
-2023-10-25_2864.txt,2023-10,"Israeli air raids flatten homes, kill dozens at a time in southern Gaza",0.5714285714285714
+2023-10-31_2689.txt,2023-10,Photos: Dozens killed in Israeli air attack on Jabalia refugee camp in Gaza,0.33
+2023-10-26_2843.txt,2023-10,Two more resolutions to halt Israel-Gaza war fail at UN Security Council,0.67
+2023-10-25_2864.txt,2023-10,"Israeli air raids flatten homes, kill dozens at a time in southern Gaza",0.57
 2024-01-17_1363.txt,2024-01,Israel ramps up attacks on Khan Younis as aid for Gaza arrives in Egypt,0.5
-2023-10-20_2967.txt,2023-10,The Take: The backlash to supporting Palestine,0.9230769230769231
-2023-10-11_3210.txt,2023-10,"Hamas video appears to show release of woman, two children",0.631578947368421
+2023-10-20_2967.txt,2023-10,The Take: The backlash to supporting Palestine,0.92
+2023-10-11_3210.txt,2023-10,"Hamas video appears to show release of woman, two children",0.63
 2023-10-24_2889.txt,2023-10,Are social media giants censoring pro-Palestine voices amid Israel’s war?,0.8
-2024-01-16_1380.txt,2024-01,"Altruism, opportunism or both: What pushed South Africa to ICJ over Gaza?",0.7959183673469388
-2023-10-10_3241.txt,2023-10,‘Why bomb schools?’ Gaza families have no safe space amid Israeli attacks,0.7857142857142857
-2024-01-03_1519.txt,2024-01,Photos: Ruin and desperation in Gaza as Israeli onslaught continues to rage,0.45454545454545453
+2024-01-16_1380.txt,2024-01,"Altruism, opportunism or both: What pushed South Africa to ICJ over Gaza?",0.8
+2023-10-10_3241.txt,2023-10,‘Why bomb schools?’ Gaza families have no safe space amid Israeli attacks,0.79
+2024-01-03_1519.txt,2024-01,Photos: Ruin and desperation in Gaza as Israeli onslaught continues to rage,0.45
 2023-10-16_3084.txt,2023-10,Guardian cartoonist’s contract not renewed after Netanyahu drawing,0.5
-2023-10-11_3216.txt,2023-10,Why is Gaza out of fuel — and what now?,0.6785714285714286
-2024-01-03_1513.txt,2024-01,"‘Israeli warning’: Beirut bombing sparks anger, fear in Lebanon",0.6666666666666666
+2023-10-11_3216.txt,2023-10,Why is Gaza out of fuel — and what now?,0.68
+2024-01-03_1513.txt,2024-01,"‘Israeli warning’: Beirut bombing sparks anger, fear in Lebanon",0.67
 2023-10-14_3134.txt,2023-10,"Israel-Hamas war: List of key events, day 8",1.0
-2023-10-25_2854.txt,2023-10,‘I want him back’: Families of Israeli hostages demand government save them,0.6666666666666666
-2024-01-27_1249.txt,2024-01,‘War criminal’: Arab Americans rebuff Biden campaign outreach over Gaza,0.813953488372093
-2023-10-25_2865.txt,2023-10,Israel to refuse visas to UN officials after Guterres speech on Gaza war,0.7368421052631579
-2023-10-22_2923.txt,2023-10,South of Gaza Strip pounded by air strikes as civilians seek refuge,0.3333333333333333
+2023-10-25_2854.txt,2023-10,‘I want him back’: Families of Israeli hostages demand government save them,0.67
+2024-01-27_1249.txt,2024-01,‘War criminal’: Arab Americans rebuff Biden campaign outreach over Gaza,0.81
+2023-10-25_2865.txt,2023-10,Israel to refuse visas to UN officials after Guterres speech on Gaza war,0.74
+2023-10-22_2923.txt,2023-10,South of Gaza Strip pounded by air strikes as civilians seek refuge,0.33
 2024-01-24_1295.txt,2024-01,"Israel’s war on Gaza: List of key events, day 110",1.0
-2023-10-25_2869.txt,2023-10,At least five killed in Israeli raids in occupied West Bank: Ministry,0.6428571428571429
-2023-10-16_3082.txt,2023-10,UN begins shipping aid for Gaza to Egypt amid uncertainty,0.7241379310344828
-2023-10-30_2721.txt,2023-10,Israel is forcibly disappearing Gaza,0.5483870967741935
-2023-10-10_3245.txt,2023-10,Which airlines paused or cancelled flights to Israel after Hamas attacks?,0.6666666666666666
-2023-10-27_2815.txt,2023-10,Palestinian PM: Will Israel’s war on Gaza bring Hamas and Fatah together?,0.8333333333333334
-2024-01-09_1460.txt,2024-01,Israel’s war on Gaza and the ‘obligation to prevent genocide’,0.8888888888888888
-2024-01-26_1265.txt,2024-01,UNRWA probes employees over suspected involvement in October 7 attack,0.3888888888888889
-2023-10-24_2893.txt,2023-10,Israel vows ‘unrelenting’ attacks as dozens reported killed in Gaza strikes,0.6086956521739131
-2023-10-24_2877.txt,2023-10,"More than 700 killed in overnight Israeli attacks, Gaza officials say",0.45454545454545453
-2023-10-25_2859.txt,2023-10,Gaza needed billions in aid before Israel-Hamas war: UN,0.38461538461538464
+2023-10-25_2869.txt,2023-10,At least five killed in Israeli raids in occupied West Bank: Ministry,0.64
+2023-10-16_3082.txt,2023-10,UN begins shipping aid for Gaza to Egypt amid uncertainty,0.72
+2023-10-30_2721.txt,2023-10,Israel is forcibly disappearing Gaza,0.55
+2023-10-10_3245.txt,2023-10,Which airlines paused or cancelled flights to Israel after Hamas attacks?,0.67
+2023-10-27_2815.txt,2023-10,Palestinian PM: Will Israel’s war on Gaza bring Hamas and Fatah together?,0.83
+2024-01-09_1460.txt,2024-01,Israel’s war on Gaza and the ‘obligation to prevent genocide’,0.89
+2024-01-26_1265.txt,2024-01,UNRWA probes employees over suspected involvement in October 7 attack,0.39
+2023-10-24_2893.txt,2023-10,Israel vows ‘unrelenting’ attacks as dozens reported killed in Gaza strikes,0.61
+2023-10-24_2877.txt,2023-10,"More than 700 killed in overnight Israeli attacks, Gaza officials say",0.45
+2023-10-25_2859.txt,2023-10,Gaza needed billions in aid before Israel-Hamas war: UN,0.38
 2023-10-12_3205.txt,2023-10,"Israel-Hamas war: List of key events, day 6",1.0
-2024-01-10_1454.txt,2024-01,Israeli army appears to change tack on strike that killed Gaza journalists,0.43478260869565216
+2024-01-10_1454.txt,2024-01,Israeli army appears to change tack on strike that killed Gaza journalists,0.43
 2023-10-08_3287.txt,2023-10,"US to hike military aid, send military ships and aircraft closer to Israel",0.85
-2024-01-15_1396.txt,2024-01,Israel’s war on Gaza updates: Israeli attacks kill 25 overnight in Gaza,0.6495726495726496
-2023-10-25_2847.txt,2023-10,Al Jazeera condemns Israeli killing of journalist Wael Al-Dahdouh’s family,0.8333333333333334
-2024-01-02_1528.txt,2024-01,"Israel maintains onslaught as Gaza death toll tops 22,000",0.6129032258064516
+2024-01-15_1396.txt,2024-01,Israel’s war on Gaza updates: Israeli attacks kill 25 overnight in Gaza,0.65
+2023-10-25_2847.txt,2023-10,Al Jazeera condemns Israeli killing of journalist Wael Al-Dahdouh’s family,0.83
+2024-01-02_1528.txt,2024-01,"Israel maintains onslaught as Gaza death toll tops 22,000",0.61
 2023-10-30_2736.txt,2023-10,"Australian ex-PMs condemn Hamas, urge Israel to avoid civilian deaths",0.5
 2023-10-25_2857.txt,2023-10,The Take: Why is Israel delaying a ground invasion of Gaza?,0.8
-2023-10-29_2759.txt,2023-10,"Taiwan takes security lessons from Hamas, Ukraine surprise attacks",0.9487179487179487
+2023-10-29_2759.txt,2023-10,"Taiwan takes security lessons from Hamas, Ukraine surprise attacks",0.95
 2023-10-06_3312.txt,2023-10,The October 1973 War: How it led to the first Arab recognition of Israel,0.76
-2024-01-18_1353.txt,2024-01,Israel’s Netanyahu reiterates rejection of Palestinian state after Gaza war,0.8333333333333334
+2024-01-18_1353.txt,2024-01,Israel’s Netanyahu reiterates rejection of Palestinian state after Gaza war,0.83
 2024-01-21_1329.txt,2024-01,"Israel’s war on Gaza: List of key events, day 107",1.0
-2023-10-11_3224.txt,2023-10,‘Nothing to do with this’: Thai families plead for Hamas captives’ release,0.575
-2023-10-27_2807.txt,2023-10,Will unconditional US support for Israel harm its ties with the Arab world?,0.6666666666666666
-2024-01-14_1407.txt,2024-01,A ‘cultural genocide’: Which of Gaza’s heritage sites have been destroyed?,0.7662337662337663
-2024-01-26_1264.txt,2024-01,Hundreds take to streets in The Hague in solidarity with Palestinians,0.8571428571428571
-2023-10-22_2917.txt,2023-10,Israeli air attacks kill 30 in Gaza’s Jabalia refugee camp: Civil defence,0.4666666666666667
+2023-10-11_3224.txt,2023-10,‘Nothing to do with this’: Thai families plead for Hamas captives’ release,0.57
+2023-10-27_2807.txt,2023-10,Will unconditional US support for Israel harm its ties with the Arab world?,0.67
+2024-01-14_1407.txt,2024-01,A ‘cultural genocide’: Which of Gaza’s heritage sites have been destroyed?,0.77
+2024-01-26_1264.txt,2024-01,Hundreds take to streets in The Hague in solidarity with Palestinians,0.86
+2023-10-22_2917.txt,2023-10,Israeli air attacks kill 30 in Gaza’s Jabalia refugee camp: Civil defence,0.47
 2023-10-11_3218.txt,2023-10,What is the Palestinian Authority and what is its relationship with Israel?,0.75
-2024-01-19_1344.txt,2024-01,Non-Aligned Movement criticises Israel’s war on Gaza at Kampala summit,0.8095238095238095
+2024-01-19_1344.txt,2024-01,Non-Aligned Movement criticises Israel’s war on Gaza at Kampala summit,0.81
 2023-10-21_2940.txt,2023-10,"London’s ‘March For Palestine’ draws 100,000 demanding Gaza ceasefire",1.0
-2024-01-01_1539.txt,2024-01,Analysis: Is the Israeli army as militarily successful as it claims?,0.6296296296296297
-2023-10-11_3226.txt,2023-10,Analysis: Why did Hamas attack now and what is next?,0.7272727272727273
-2024-01-12_1419.txt,2024-01,ICJ genocide case: What are Israel’s arguments and do they hold up?,0.5223880597014925
-2024-01-15_1385.txt,2024-01,Hamas claims two Israeli captives killed in Gaza air strikes,0.7142857142857143
-2024-01-09_1461.txt,2024-01,Blinken says civilian death toll in Gaza ‘far too high’,0.78125
+2024-01-01_1539.txt,2024-01,Analysis: Is the Israeli army as militarily successful as it claims?,0.63
+2023-10-11_3226.txt,2023-10,Analysis: Why did Hamas attack now and what is next?,0.73
+2024-01-12_1419.txt,2024-01,ICJ genocide case: What are Israel’s arguments and do they hold up?,0.52
+2024-01-15_1385.txt,2024-01,Hamas claims two Israeli captives killed in Gaza air strikes,0.71
+2024-01-09_1461.txt,2024-01,Blinken says civilian death toll in Gaza ‘far too high’,0.78
 2024-01-08_1472.txt,2024-01,"Israel’s war on Gaza: List of key events, day 94",0.8
-2024-01-16_1374.txt,2024-01,Yemen’s Houthis claim attack on ship in Red Sea as US confirms new strike,0.8636363636363636
+2024-01-16_1374.txt,2024-01,Yemen’s Houthis claim attack on ship in Red Sea as US confirms new strike,0.86
 2024-01-30_1225.txt,2024-01,Witness of war: Through Motaz’s lens,0.8
 2024-01-24_1292.txt,2024-01,Several killed in Israeli attack on UN shelter housing 800 in southern Gaza,0.7
-2023-10-26_2823.txt,2023-10,"EU leaders call for ‘humanitarian pauses’, aid corridors in Israel-Gaza war",0.46153846153846156
-2023-10-18_3027.txt,2023-10,Second day of protests across the Middle East after Gaza hospital strike,0.6153846153846154
+2023-10-26_2823.txt,2023-10,"EU leaders call for ‘humanitarian pauses’, aid corridors in Israel-Gaza war",0.46
+2023-10-18_3027.txt,2023-10,Second day of protests across the Middle East after Gaza hospital strike,0.62
 2023-10-27_2797.txt,2023-10,The Take: Wael Dahdouh’s family was killed in Gaza. He kept reporting.,1.0
-2023-10-12_3197.txt,2023-10,"Israel detains, expels to West Bank hundreds of Gaza Palestinian workers",0.6190476190476191
-2023-10-11_3214.txt,2023-10,"Today in Gaza, I no longer believe we’ll get out of Israel’s assault alive",0.5675675675675675
+2023-10-12_3197.txt,2023-10,"Israel detains, expels to West Bank hundreds of Gaza Palestinian workers",0.62
+2023-10-11_3214.txt,2023-10,"Today in Gaza, I no longer believe we’ll get out of Israel’s assault alive",0.57
 2023-10-22_2933.txt,2023-10,Israel-Gaza: Genocidal rhetoric and the fog of war,1.2
 2023-10-19_3007.txt,2023-10,Khan Younis homes in southern Gaza levelled by deadly Israeli bombardment,0.0
 2023-10-19_2987.txt,2023-10,What role can the United Nations play in the Gaza War?,0.4
-2023-10-12_3182.txt,2023-10,The impossibility of a stolen moment as Israeli bombs rain on Gaza,0.696969696969697
+2023-10-12_3182.txt,2023-10,The impossibility of a stolen moment as Israeli bombs rain on Gaza,0.7
 2023-10-31_2697.txt,2023-10,"In Rafah, Israeli bombing shatters buildings, shatters lives",0.5
-2024-01-16_1373.txt,2024-01,Qatar announces Israel-Hamas deal for medicine and aid to enter Gaza,0.9333333333333333
-2023-10-09_3281.txt,2023-10,"‘Necessary’ to stand with both Israelis, Palestinians, UN rapporteur says",0.7692307692307693
-2023-10-11_3231.txt,2023-10,Putin concerned over ‘catastrophic’ civilian deaths in Israel-Gaza war,0.5555555555555556
-2023-10-16_3102.txt,2023-10,China prepares for Belt and Road summit in shadow of Israel-Gaza war,0.8333333333333334
-2023-10-13_3167.txt,2023-10,Israel attacks on Gaza refugee camp kills dozens of Palestinians,0.4666666666666667
-2023-10-29_2750.txt,2023-10,Can Elon Musk’s Starlink provide internet service to Gaza?,0.7666666666666667
-2023-10-07_3304.txt,2023-10,Aftermath of the attacks on Israel in Ashkelon,0.5714285714285714
+2024-01-16_1373.txt,2024-01,Qatar announces Israel-Hamas deal for medicine and aid to enter Gaza,0.93
+2023-10-09_3281.txt,2023-10,"‘Necessary’ to stand with both Israelis, Palestinians, UN rapporteur says",0.77
+2023-10-11_3231.txt,2023-10,Putin concerned over ‘catastrophic’ civilian deaths in Israel-Gaza war,0.56
+2023-10-16_3102.txt,2023-10,China prepares for Belt and Road summit in shadow of Israel-Gaza war,0.83
+2023-10-13_3167.txt,2023-10,Israel attacks on Gaza refugee camp kills dozens of Palestinians,0.47
+2023-10-29_2750.txt,2023-10,Can Elon Musk’s Starlink provide internet service to Gaza?,0.77
+2023-10-07_3304.txt,2023-10,Aftermath of the attacks on Israel in Ashkelon,0.57
 2024-01-08_1466.txt,2024-01,US officials renew calls for Israel to reduce civilian casualties in Gaza,0.75
 2023-10-07_3308.txt,2023-10,Scenes from Hamas’s morning rocket attack on Israel,0.6
-2023-10-21_2954.txt,2023-10,"Atop a Jerusalem mountain, a cafe of rare coexistence in a divided city",0.9230769230769231
-2024-01-18_1359.txt,2024-01,"Aid for Israeli captives, Palestinians reaches Gaza despite challenges",0.6666666666666666
-2023-10-13_3143.txt,2023-10,"After outcry over Ukraine, big business muted on Israel-Hamas war",0.6774193548387096
-2023-10-30_2728.txt,2023-10,‘Many players have died’: Israel’s war on Gaza hits Palestinian football,0.7671232876712328
+2023-10-21_2954.txt,2023-10,"Atop a Jerusalem mountain, a cafe of rare coexistence in a divided city",0.92
+2024-01-18_1359.txt,2024-01,"Aid for Israeli captives, Palestinians reaches Gaza despite challenges",0.67
+2023-10-13_3143.txt,2023-10,"After outcry over Ukraine, big business muted on Israel-Hamas war",0.68
+2023-10-30_2728.txt,2023-10,‘Many players have died’: Israel’s war on Gaza hits Palestinian football,0.77
 2024-01-11_1436.txt,2024-01,Day one of the ICJ genocide hearing against Israel: Key takeaways,0.72
 2024-01-14_1403.txt,2024-01,"Portuguese FM: Ukraine can prevail, Russia a ‘Paper Tiger’",1.0
 2023-10-13_3150.txt,2023-10,"Israel is losing its value as an ally for the West, Arab states",0.75
-2023-10-16_3108.txt,2023-10,Analysis: Why is so much anti-Palestinian disinformation coming from India?,0.6923076923076923
+2023-10-16_3108.txt,2023-10,Analysis: Why is so much anti-Palestinian disinformation coming from India?,0.69
 2023-10-10_3253.txt,2023-10,"Israel and Hamas war: List of key events, day 4 after surprise attack",1.0
 2024-01-22_1306.txt,2024-01,US demands ‘urgent’ Israeli probe into Palestinian-American child’s death,0.7
 2024-01-26_1273.txt,2024-01,Has Israel realised that it can’t ‘eradicate’ Hamas?,0.6
-2024-01-06_1482.txt,2024-01,"Thousands protest in Israel demanding captive release, government to resign",0.875
-2023-10-13_3153.txt,2023-10,Celtic fans pledge ‘unequivocal support’ for Palestine despite backlash,0.8837209302325582
-2023-10-30_2737.txt,2023-10,‘I’ve lost contact’: Surviving Israeli bombs amid communications blackout,0.5932203389830508
-2024-01-09_1459.txt,2024-01,British FM ‘worried’ Israel may have breached international law in Gaza,0.5625
-2023-10-13_3147.txt,2023-10,Analysis: Israel’s Gaza invasion could test its occupation of the West Bank,0.6470588235294118
+2024-01-06_1482.txt,2024-01,"Thousands protest in Israel demanding captive release, government to resign",0.88
+2023-10-13_3153.txt,2023-10,Celtic fans pledge ‘unequivocal support’ for Palestine despite backlash,0.88
+2023-10-30_2737.txt,2023-10,‘I’ve lost contact’: Surviving Israeli bombs amid communications blackout,0.59
+2024-01-09_1459.txt,2024-01,British FM ‘worried’ Israel may have breached international law in Gaza,0.56
+2023-10-13_3147.txt,2023-10,Analysis: Israel’s Gaza invasion could test its occupation of the West Bank,0.65
 2023-10-09_3285.txt,2023-10,"Israel-Hamas war updates: Gaza under ‘total blockade’, refugee camp hit",1.0
-2023-10-26_2840.txt,2023-10,How the US has used its veto power at the UN in support of Israel,0.7333333333333333
+2023-10-26_2840.txt,2023-10,How the US has used its veto power at the UN in support of Israel,0.73
 2024-01-14_1405.txt,2024-01,"Israel’s war on Gaza: List of key events, day 100",1.0
-2024-01-08_1468.txt,2024-01,How a parkour group in Gaza turns war ruins into sporting arenas,0.9130434782608695
+2024-01-08_1468.txt,2024-01,How a parkour group in Gaza turns war ruins into sporting arenas,0.91
 2023-10-14_3126.txt,2023-10,The crucial context of Israel’s war on Gaza,1.0
-2024-01-25_1285.txt,2024-01,‘Medicine in Gaza’: A doctor’s guide to treating Gaza’s sick and wounded,0.7191011235955056
+2024-01-25_1285.txt,2024-01,‘Medicine in Gaza’: A doctor’s guide to treating Gaza’s sick and wounded,0.72
 2023-10-28_2780.txt,2023-10,Gaza’s journalists: Reporting under Israeli bombardment,1.0
-2024-01-15_1395.txt,2024-01,Palestine to Africa: How maps lie — and some tell the truth,0.9636363636363636
-2023-10-29_2753.txt,2023-10,Palestine Red Crescent says Israel orders evacuation of al-Quds Hospital,0.8260869565217391
-2024-01-06_1491.txt,2024-01,Why is Lebanon home to so many Palestinian refugees and leaders?,0.8214285714285714
+2024-01-15_1395.txt,2024-01,Palestine to Africa: How maps lie — and some tell the truth,0.96
+2023-10-29_2753.txt,2023-10,Palestine Red Crescent says Israel orders evacuation of al-Quds Hospital,0.83
+2024-01-06_1491.txt,2024-01,Why is Lebanon home to so many Palestinian refugees and leaders?,0.82
 2024-01-16_1376.txt,2024-01,US claims seizure of Iranian weapons bound for Yemen’s Houthis,0.75
-2023-10-27_2816.txt,2023-10,"Israeli air strikes kill dozens in Gaza overnight, Palestinian sources say",0.8571428571428571
-2024-01-30_1224.txt,2024-01,Hamas studying three-phase Gaza truce plan as Israeli hardliners warn PM,0.851063829787234
-2023-10-02_3317.txt,2023-10,"As Arab-Israeli normalisation expands, where do Palestinians fit?",1.0833333333333333
-2023-10-31_2695.txt,2023-10,Is the trajectory of Lebanon-Israel border conflict changing?,0.5909090909090909
-2023-10-13_3159.txt,2023-10,Palestinians pack ’emergency’ bags as Israeli bombs rain down on Gaza,0.625
-2024-01-02_1524.txt,2024-01,What does a ‘new phase’ in Israel’s war on Gaza entail?,0.8571428571428571
-2024-01-13_1415.txt,2024-01,Shot in ‘cold blood’: Killing of Palestinian grandmother sparks outcry,0.6346153846153846
-2024-01-16_1381.txt,2024-01,Palestinian village fears Israel wartime demolitions,0.6956521739130435
+2023-10-27_2816.txt,2023-10,"Israeli air strikes kill dozens in Gaza overnight, Palestinian sources say",0.86
+2024-01-30_1224.txt,2024-01,Hamas studying three-phase Gaza truce plan as Israeli hardliners warn PM,0.85
+2023-10-02_3317.txt,2023-10,"As Arab-Israeli normalisation expands, where do Palestinians fit?",1.08
+2023-10-31_2695.txt,2023-10,Is the trajectory of Lebanon-Israel border conflict changing?,0.59
+2023-10-13_3159.txt,2023-10,Palestinians pack ’emergency’ bags as Israeli bombs rain down on Gaza,0.62
+2024-01-02_1524.txt,2024-01,What does a ‘new phase’ in Israel’s war on Gaza entail?,0.86
+2024-01-13_1415.txt,2024-01,Shot in ‘cold blood’: Killing of Palestinian grandmother sparks outcry,0.63
+2024-01-16_1381.txt,2024-01,Palestinian village fears Israel wartime demolitions,0.7
 2024-01-17_1370.txt,2024-01,"Israel’s war on Gaza: List of key events, day 103",1.0
-2023-10-24_2876.txt,2023-10,UN chief says ‘clear violations of international humanitarian law’ in Gaza,0.4117647058823529
-2023-10-29_2743.txt,2023-10,"Biden discusses ‘accelerating’ aid to Gaza in calls with Netanyahu, el-Sisi",0.5882352941176471
-2024-01-14_1402.txt,2024-01,Iran vs Palestine 4-1: AFC Asian Cup 2023 – as it happened,1.3333333333333333
-2023-10-10_3259.txt,2023-10,"What we know: The number of foreigners killed, missing, abducted in Israel",0.5813953488372093
-2023-10-04_3315.txt,2023-10,Israeli settlers storm Al-Aqsa Mosque complex on fifth day of Sukkot,0.8695652173913043
-2023-10-26_2841.txt,2023-10,Israel stages large overnight ground raid into Gaza Strip,0.6666666666666666
-2024-01-03_1512.txt,2024-01,Hezbollah chief says group won’t ‘be silent’ after killing of Hamas leader,0.9615384615384616
-2024-01-18_1358.txt,2024-01,Maghazi residents left reeling after Israeli forces withdraw,0.6153846153846154
-2023-10-16_3100.txt,2023-10,"Hamas warns of environmental crisis as 1,000 bodies still under Gaza rubble",0.5714285714285714
+2023-10-24_2876.txt,2023-10,UN chief says ‘clear violations of international humanitarian law’ in Gaza,0.41
+2023-10-29_2743.txt,2023-10,"Biden discusses ‘accelerating’ aid to Gaza in calls with Netanyahu, el-Sisi",0.59
+2024-01-14_1402.txt,2024-01,Iran vs Palestine 4-1: AFC Asian Cup 2023 – as it happened,1.33
+2023-10-10_3259.txt,2023-10,"What we know: The number of foreigners killed, missing, abducted in Israel",0.58
+2023-10-04_3315.txt,2023-10,Israeli settlers storm Al-Aqsa Mosque complex on fifth day of Sukkot,0.87
+2023-10-26_2841.txt,2023-10,Israel stages large overnight ground raid into Gaza Strip,0.67
+2024-01-03_1512.txt,2024-01,Hezbollah chief says group won’t ‘be silent’ after killing of Hamas leader,0.96
+2024-01-18_1358.txt,2024-01,Maghazi residents left reeling after Israeli forces withdraw,0.62
+2023-10-16_3100.txt,2023-10,"Hamas warns of environmental crisis as 1,000 bodies still under Gaza rubble",0.57
 2023-10-18_3043.txt,2023-10,What can Biden’s Israel visit accomplish after Gaza hospital bombing?,0.55
-2023-10-14_3136.txt,2023-10,Israel-Gaza war: Why is Africa divided on supporting Palestine?,0.927536231884058
-2023-10-12_3200.txt,2023-10,Photos show scale of the destruction of Israel air attacks on Gaza,0.3333333333333333
-2024-01-15_1389.txt,2024-01,"This past week, we all became South Africans",0.5652173913043478
-2023-10-18_3025.txt,2023-10,‘No work back home’: Lebanon’s foreign domestic workers fear Israel war,0.7543859649122807
-2023-10-19_2986.txt,2023-10,"Palestinian teacher determined to stay in Gaza, whatever the cost",0.8837209302325582
-2024-01-11_1437.txt,2024-01,"Blinken says path to a Palestinian state can stabilise region, isolate Iran",0.7058823529411765
+2023-10-14_3136.txt,2023-10,Israel-Gaza war: Why is Africa divided on supporting Palestine?,0.93
+2023-10-12_3200.txt,2023-10,Photos show scale of the destruction of Israel air attacks on Gaza,0.33
+2024-01-15_1389.txt,2024-01,"This past week, we all became South Africans",0.57
+2023-10-18_3025.txt,2023-10,‘No work back home’: Lebanon’s foreign domestic workers fear Israel war,0.75
+2023-10-19_2986.txt,2023-10,"Palestinian teacher determined to stay in Gaza, whatever the cost",0.88
+2024-01-11_1437.txt,2024-01,"Blinken says path to a Palestinian state can stabilise region, isolate Iran",0.71
 2023-10-13_3161.txt,2023-10,What Gaza infrastructure has been damaged since Israel declared war?,0.75
-2023-10-18_3023.txt,2023-10,Could a warning by the ICC deter war crimes in Israel-Gaza conflict?,0.8214285714285714
-2024-01-15_1392.txt,2024-01,"‘Baba, this isn’t camping’: On being displaced by Israel’s war on Gaza",0.7068965517241379
-2023-10-30_2722.txt,2023-10,Analysis: The foreign factors in Israel’s war on Gaza,0.7674418604651163
-2023-10-23_2902.txt,2023-10,Western feminism and its blind spots in the Middle East,0.6071428571428571
-2024-01-06_1488.txt,2024-01,Hezbollah fires rockets at Israel in ‘response’ to Hamas leader’s killing,0.8846153846153846
-2024-01-12_1420.txt,2024-01,Israel rejects accusations of genocide in Gaza war at ICJ hearing,0.4444444444444444
-2023-10-19_2992.txt,2023-10,My struggle as a ‘displaced’ Gaza mother as Israel bombs my people,0.717948717948718
-2024-01-12_1417.txt,2024-01,‘Dangerous’: US attacks on Yemen’s Houthis belie push for de-escalation,0.6666666666666666
+2023-10-18_3023.txt,2023-10,Could a warning by the ICC deter war crimes in Israel-Gaza conflict?,0.82
+2024-01-15_1392.txt,2024-01,"‘Baba, this isn’t camping’: On being displaced by Israel’s war on Gaza",0.71
+2023-10-30_2722.txt,2023-10,Analysis: The foreign factors in Israel’s war on Gaza,0.77
+2023-10-23_2902.txt,2023-10,Western feminism and its blind spots in the Middle East,0.61
+2024-01-06_1488.txt,2024-01,Hezbollah fires rockets at Israel in ‘response’ to Hamas leader’s killing,0.88
+2024-01-12_1420.txt,2024-01,Israel rejects accusations of genocide in Gaza war at ICJ hearing,0.44
+2023-10-19_2992.txt,2023-10,My struggle as a ‘displaced’ Gaza mother as Israel bombs my people,0.72
+2024-01-12_1417.txt,2024-01,‘Dangerous’: US attacks on Yemen’s Houthis belie push for de-escalation,0.67
 2023-10-27_2810.txt,2023-10,"Israel-Hamas war: List of key events, day 21",1.0
-2023-10-31_2683.txt,2023-10,Has Israel achieved its objectives by launching wars on Gaza?,0.8333333333333334
+2023-10-31_2683.txt,2023-10,Has Israel achieved its objectives by launching wars on Gaza?,0.83
 2024-01-11_1438.txt,2024-01,ICJ hears South Africa’s genocide case against Israel over Gaza war,0.8
-2023-10-22_2922.txt,2023-10,Second aid convoy enters Gaza as Israel steps up bombardments,0.5833333333333334
-2023-10-31_2705.txt,2023-10,"Japan sanctions individuals, company over links to Hamas",0.8461538461538461
-2023-10-29_2755.txt,2023-10,‘It’s scary’: Israel war fears batter Lebanon’s struggling economy,0.7297297297297297
-2023-10-11_3221.txt,2023-10,Israel-Gaza: Collective punishment of millions not justified – Humza Yousaf,0.631578947368421
+2023-10-22_2922.txt,2023-10,Second aid convoy enters Gaza as Israel steps up bombardments,0.58
+2023-10-31_2705.txt,2023-10,"Japan sanctions individuals, company over links to Hamas",0.85
+2023-10-29_2755.txt,2023-10,‘It’s scary’: Israel war fears batter Lebanon’s struggling economy,0.73
+2023-10-11_3221.txt,2023-10,Israel-Gaza: Collective punishment of millions not justified – Humza Yousaf,0.63
 2023-10-22_2918.txt,2023-10,Will Hezbollah launch an all-out war on Israel?,0.8
-2024-01-16_1377.txt,2024-01,Strike threat over claim pro-Israeli lobby forced out Australian journalist,0.7391304347826086
-2023-10-25_2848.txt,2023-10,Analysis: Why hasn’t Israel launched a ground invasion of Gaza yet?,0.627906976744186
+2024-01-16_1377.txt,2024-01,Strike threat over claim pro-Israeli lobby forced out Australian journalist,0.74
+2023-10-25_2848.txt,2023-10,Analysis: Why hasn’t Israel launched a ground invasion of Gaza yet?,0.63
 2023-10-13_3174.txt,2023-10,Israel-Hamas updates: Thousands flee as Israel starts ground raids in Gaza,1.0
-2024-01-01_1535.txt,2024-01,Iran deploys warship to Red Sea amid soaring tensions,0.9130434782608695
-2023-10-09_3264.txt,2023-10,Hezbollah fires on Israel after several members killed in shelling,0.71875
-2024-01-19_1352.txt,2024-01,US says ‘not at war’ with Houthis; Biden admits strikes not halting attacks,0.7272727272727273
-2023-10-13_3145.txt,2023-10,At least 16 Palestinians killed by Israeli forces in the West Bank,0.6666666666666666
+2024-01-01_1535.txt,2024-01,Iran deploys warship to Red Sea amid soaring tensions,0.91
+2023-10-09_3264.txt,2023-10,Hezbollah fires on Israel after several members killed in shelling,0.72
+2024-01-19_1352.txt,2024-01,US says ‘not at war’ with Houthis; Biden admits strikes not halting attacks,0.73
+2023-10-13_3145.txt,2023-10,At least 16 Palestinians killed by Israeli forces in the West Bank,0.67
 2023-10-31_2703.txt,2023-10,"Israel-Hamas war: List of key events, day 25",1.0
-2024-01-21_1327.txt,2024-01,Israel’s Netanyahu doubles down on opposition to Palestinian statehood,0.4583333333333333
-2023-10-10_3248.txt,2023-10,What to know about the deadly Hamas attack on an Israeli music festival,0.6666666666666666
-2024-01-09_1458.txt,2024-01,Q&A: Former Biden appointee says US policy is ‘dehumanising’ Palestinians,0.7818181818181819
+2024-01-21_1327.txt,2024-01,Israel’s Netanyahu doubles down on opposition to Palestinian statehood,0.46
+2023-10-10_3248.txt,2023-10,What to know about the deadly Hamas attack on an Israeli music festival,0.67
+2024-01-09_1458.txt,2024-01,Q&A: Former Biden appointee says US policy is ‘dehumanising’ Palestinians,0.78
 2024-01-23_1303.txt,2024-01,Israel reportedly pushing deal to release captives without ending war,0.75
-2024-01-28_1242.txt,2024-01,UK says it thwarted Houthis’ drone attack in the Red Sea,0.875
+2024-01-28_1242.txt,2024-01,UK says it thwarted Houthis’ drone attack in the Red Sea,0.88
 2024-01-25_1284.txt,2024-01,"Israel’s war on Gaza: List of key events, day 111",1.0
-2024-01-17_1365.txt,2024-01,Trauma replaces joy for mothers giving birth during Israel’s war on Gaza,0.7727272727272727
-2023-10-26_2832.txt,2023-10,The Take: Ukraine and Gaza wars – is there a double standard at play?,1.1111111111111112
+2024-01-17_1365.txt,2024-01,Trauma replaces joy for mothers giving birth during Israel’s war on Gaza,0.77
+2023-10-26_2832.txt,2023-10,The Take: Ukraine and Gaza wars – is there a double standard at play?,1.11
 2024-01-16_1382.txt,2024-01,"Israel’s war on Gaza: List of key events, day 102",1.0
-2023-10-17_3049.txt,2023-10,Jordan cancels Biden summit after hundreds killed in Gaza hospital blast,0.625
+2023-10-17_3049.txt,2023-10,Jordan cancels Biden summit after hundreds killed in Gaza hospital blast,0.62
 2023-10-10_3256.txt,2023-10,Israel-Hamas updates: US set to deploy ‘additional assets’ to Middle East,1.0
 2024-01-25_1282.txt,2024-01,How is the White House spinning the media on the Gaza war?,1.0
 2023-10-13_3155.txt,2023-10,What is the Israeli unity government and what does it want to achieve?,0.9
-2023-10-14_3122.txt,2023-10,Gaza doctors warn of a humanitarian catastrophe after Israeli attacks,0.4772727272727273
-2023-10-16_3095.txt,2023-10,The myth of Israel’s ‘most moral army’,0.6470588235294118
+2023-10-14_3122.txt,2023-10,Gaza doctors warn of a humanitarian catastrophe after Israeli attacks,0.48
+2023-10-16_3095.txt,2023-10,The myth of Israel’s ‘most moral army’,0.65
 2023-10-27_2799.txt,2023-10,Angela Davis: ‘Palestine is a moral litmus test for the world’,1.2
-2023-10-29_2742.txt,2023-10,Angry crowd storms Russia’s Dagestan airport to protest flight from Israel,0.6774193548387096
+2023-10-29_2742.txt,2023-10,Angry crowd storms Russia’s Dagestan airport to protest flight from Israel,0.68
 2023-10-26_2824.txt,2023-10,Is anywhere in Gaza safe from Israeli attacks?,1.0
 2024-01-23_1304.txt,2024-01,"Israel’s war on Gaza: List of key events, day 109",1.0
-2023-10-31_2682.txt,2023-10,The Take: What is the risk of wider conflict between Israel and Hezbollah?,1.0909090909090908
-2023-10-14_3121.txt,2023-10,The Gaza medics who won’t give in to Israel’s evacuation demand,0.6153846153846154
-2023-10-12_3187.txt,2023-10,Israel cripples Syria’s two main airports in strikes: Syrian state media,0.4666666666666667
+2023-10-31_2682.txt,2023-10,The Take: What is the risk of wider conflict between Israel and Hezbollah?,1.09
+2023-10-14_3121.txt,2023-10,The Gaza medics who won’t give in to Israel’s evacuation demand,0.62
+2023-10-12_3187.txt,2023-10,Israel cripples Syria’s two main airports in strikes: Syrian state media,0.47
 2023-10-29_2747.txt,2023-10,Western coverage of Israel’s war on Gaza – bias or unprofessionalism?,0.75
-2024-01-14_1404.txt,2024-01,What will be the outcome of the ICJ genocide case against Israel?,0.8333333333333334
-2023-10-15_3113.txt,2023-10,Iran warns Israel of regional escalation if Gaza ground offensive launched,0.5714285714285714
+2024-01-14_1404.txt,2024-01,What will be the outcome of the ICJ genocide case against Israel?,0.83
+2023-10-15_3113.txt,2023-10,Iran warns Israel of regional escalation if Gaza ground offensive launched,0.57
 2023-10-10_3252.txt,2023-10,‘We can’t confuse Hamas with all Palestinians’: Spain says amid aid review,0.92
 2023-10-16_3092.txt,2023-10,Why reopening Egypt-Gaza Rafah crossing is crucial amid Israeli bombing,0.75
 2024-01-30_1226.txt,2024-01,"Israel’s war on Gaza: List of key events, day 116",1.0
-2024-01-02_1530.txt,2024-01,Survivors of Israel’s siege of Beirut see history repeating itself in Gaza,0.6382978723404256
+2024-01-02_1530.txt,2024-01,Survivors of Israel’s siege of Beirut see history repeating itself in Gaza,0.64
 2023-10-29_2749.txt,2023-10,Thousands continue to march in support of Gaza in multiple cities worldwide,1.0
-2024-01-14_1401.txt,2024-01,"Al Jazeera’s Samer Abudaqa was ‘targeted’, left to bleed by Israel: Report",0.625
-2023-10-18_3032.txt,2023-10,Alain Gresh: ‘Macron’s party has a strong anti-Palestinian position’,0.9069767441860465
-2024-01-22_1315.txt,2024-01,‘Let’s talk about it’: EU’s Borrell presses Israel on two-state solution,0.6666666666666666
-2023-10-23_2915.txt,2023-10,"China urges Gaza ceasefire, willing to do whatever needed to end violence",0.9333333333333333
-2024-01-21_1321.txt,2024-01,Wounded Palestinians treated on French warship off Egyptian shore,0.6875
-2023-10-10_3236.txt,2023-10,Fears of war with Israel grow in Lebanon after rockets exchanged,0.8055555555555556
+2024-01-14_1401.txt,2024-01,"Al Jazeera’s Samer Abudaqa was ‘targeted’, left to bleed by Israel: Report",0.62
+2023-10-18_3032.txt,2023-10,Alain Gresh: ‘Macron’s party has a strong anti-Palestinian position’,0.91
+2024-01-22_1315.txt,2024-01,‘Let’s talk about it’: EU’s Borrell presses Israel on two-state solution,0.67
+2023-10-23_2915.txt,2023-10,"China urges Gaza ceasefire, willing to do whatever needed to end violence",0.93
+2024-01-21_1321.txt,2024-01,Wounded Palestinians treated on French warship off Egyptian shore,0.69
+2023-10-10_3236.txt,2023-10,Fears of war with Israel grow in Lebanon after rockets exchanged,0.81
 2024-01-22_1318.txt,2024-01,"Netanyahu rejects Hamas deal to end war, release captives",0.75
 2024-01-25_1277.txt,2024-01,Hamas blasts Israel’s plan to create buffer zone in Gaza as a ‘crime’,0.64
-2024-01-11_1441.txt,2024-01,"French historian: Israel destroyed 4,000-year-old culture in Gaza",1.3333333333333333
-2023-10-20_2981.txt,2023-10,‘Silent annexation’: Settlers dispossess West Bank Bedouins amid Israel war,0.7012987012987013
-2024-01-29_1235.txt,2024-01,‘Israelism’: The promised land needs a new narrative,1.0545454545454545
+2024-01-11_1441.txt,2024-01,"French historian: Israel destroyed 4,000-year-old culture in Gaza",1.33
+2023-10-20_2981.txt,2023-10,‘Silent annexation’: Settlers dispossess West Bank Bedouins amid Israel war,0.7
+2024-01-29_1235.txt,2024-01,‘Israelism’: The promised land needs a new narrative,1.05
 2024-01-06_1485.txt,2024-01,"Former US general: Israel may win in Gaza, but fail in the region",0.75
-2024-01-19_1342.txt,2024-01,‘Criminal complaints’ filed against Israeli President Herzog in Switzerland,0.7272727272727273
-2023-10-21_2938.txt,2023-10,Hamas says Israel refused to receive 2 hostages; Israel calls it propaganda,0.7407407407407407
-2023-10-23_2905.txt,2023-10,"Gaza death toll tops 5,000, nearly half of them children: Officials",0.45454545454545453
-2023-10-26_2825.txt,2023-10,Palestinian ambassador urges UN to ‘stop the killing’ as Israel pounds Gaza,0.6551724137931034
+2024-01-19_1342.txt,2024-01,‘Criminal complaints’ filed against Israeli President Herzog in Switzerland,0.73
+2023-10-21_2938.txt,2023-10,Hamas says Israel refused to receive 2 hostages; Israel calls it propaganda,0.74
+2023-10-23_2905.txt,2023-10,"Gaza death toll tops 5,000, nearly half of them children: Officials",0.45
+2023-10-26_2825.txt,2023-10,Palestinian ambassador urges UN to ‘stop the killing’ as Israel pounds Gaza,0.66
 2024-01-19_1340.txt,2024-01,"‘Until Israel stops!’: Yemenis rally for Houthis, Palestinians in Sanaa",0.75
-2024-01-26_1262.txt,2024-01,Who is Julia Sebutinde? The judge against all ICJ rulings in Israel’s case,0.8918918918918919
-2023-10-11_3212.txt,2023-10,Is international law to protect civilians ignored in Gaza’s war?,0.625
-2024-01-21_1320.txt,2024-01,"Hamas says October 7 attack was a ‘necessary step’, admits to ‘some faults’",0.6666666666666666
-2023-10-22_2927.txt,2023-10,‘It is our duty’: The Syrian aid organisations rushing to Gaza,0.6486486486486487
-2023-10-16_3079.txt,2023-10,Have Israel and Hamas breached the laws of war in Gaza?,0.8571428571428571
-2023-10-13_3160.txt,2023-10,Caught between two wars: Syrians in Lebanon fear Israel-Hamas escalation,0.8297872340425532
+2024-01-26_1262.txt,2024-01,Who is Julia Sebutinde? The judge against all ICJ rulings in Israel’s case,0.89
+2023-10-11_3212.txt,2023-10,Is international law to protect civilians ignored in Gaza’s war?,0.62
+2024-01-21_1320.txt,2024-01,"Hamas says October 7 attack was a ‘necessary step’, admits to ‘some faults’",0.67
+2023-10-22_2927.txt,2023-10,‘It is our duty’: The Syrian aid organisations rushing to Gaza,0.65
+2023-10-16_3079.txt,2023-10,Have Israel and Hamas breached the laws of war in Gaza?,0.86
+2023-10-13_3160.txt,2023-10,Caught between two wars: Syrians in Lebanon fear Israel-Hamas escalation,0.83
 2024-01-26_1275.txt,2024-01,"Israel’s war on Gaza: List of key events, day 112",1.0
-2023-10-14_3124.txt,2023-10,"Analysis: Propaganda, deception, and fake news in the Israel-Hamas conflict",0.6571428571428571
-2023-10-30_2719.txt,2023-10,"Israel says German-Israeli woman Shani Louk, taken by Hamas, is dead",0.5238095238095238
-2024-01-06_1484.txt,2024-01,"US diplomat Blinken meets Turkey’s Erdogan, kicking off Gaza diplomacy tour",0.8928571428571429
-2023-10-12_3194.txt,2023-10,What is Israel’s Iron Dome defence system and is it effective? All to know,0.8611111111111112
+2023-10-14_3124.txt,2023-10,"Analysis: Propaganda, deception, and fake news in the Israel-Hamas conflict",0.66
+2023-10-30_2719.txt,2023-10,"Israel says German-Israeli woman Shani Louk, taken by Hamas, is dead",0.52
+2024-01-06_1484.txt,2024-01,"US diplomat Blinken meets Turkey’s Erdogan, kicking off Gaza diplomacy tour",0.89
+2023-10-12_3194.txt,2023-10,What is Israel’s Iron Dome defence system and is it effective? All to know,0.86
 2024-01-07_1474.txt,2024-01,What’s behind Antony Blinken’s latest visit to the Middle East?,0.75
-2024-01-17_1366.txt,2024-01,Gaza will be the grave of the Western-led world order,0.8125
+2024-01-17_1366.txt,2024-01,Gaza will be the grave of the Western-led world order,0.81
 2023-10-24_2874.txt,2023-10,Hundreds rally in Israel’s Tel Aviv to demand release of hostages,0.5
-2023-10-17_3061.txt,2023-10,Egyptian swimmer Sameh targeted for supporting Palestine amid Israel war,0.8285714285714286
-2023-10-27_2802.txt,2023-10,Israeli volunteers clean up kibbutz attacked by Hamas fighters on October 7,0.42857142857142855
-2023-10-16_3090.txt,2023-10,Can Lebanon’s Hezbollah afford to go to war with Israel?,0.9318181818181818
-2023-10-22_2930.txt,2023-10,"Syria says Israel hit Damascus, Aleppo airports again amid Gaza bombing",0.5714285714285714
-2023-10-09_3267.txt,2023-10,EU backtracks on previous suspension of Palestinian development aid,0.71875
-2024-01-26_1267.txt,2024-01,World reacts to ICJ interim ruling in Gaza genocide case against Israel,0.7111111111111111
-2023-10-18_3024.txt,2023-10,What is Israel’s narrative on the Gaza hospital explosion?,0.5555555555555556
-2023-10-14_3133.txt,2023-10,Russia’s UN ambassador calls for ceasefire in Israel-Hamas conflict,0.625
+2023-10-17_3061.txt,2023-10,Egyptian swimmer Sameh targeted for supporting Palestine amid Israel war,0.83
+2023-10-27_2802.txt,2023-10,Israeli volunteers clean up kibbutz attacked by Hamas fighters on October 7,0.43
+2023-10-16_3090.txt,2023-10,Can Lebanon’s Hezbollah afford to go to war with Israel?,0.93
+2023-10-22_2930.txt,2023-10,"Syria says Israel hit Damascus, Aleppo airports again amid Gaza bombing",0.57
+2023-10-09_3267.txt,2023-10,EU backtracks on previous suspension of Palestinian development aid,0.72
+2024-01-26_1267.txt,2024-01,World reacts to ICJ interim ruling in Gaza genocide case against Israel,0.71
+2023-10-18_3024.txt,2023-10,What is Israel’s narrative on the Gaza hospital explosion?,0.56
+2023-10-14_3133.txt,2023-10,Russia’s UN ambassador calls for ceasefire in Israel-Hamas conflict,0.62
 2024-01-31_1220.txt,2024-01,Houthis threaten more attacks against Western warships,0.95
-2023-10-10_3235.txt,2023-10,Analysis: Is Hamas a more sophisticated force than Israel imagined?,0.71875
-2023-10-27_2798.txt,2023-10,What does Gaza’s food shortage look like amid Israeli siege?,0.6451612903225806
-2023-10-22_2936.txt,2023-10,Israel strikes mosque in occupied West Bank refugee camp,0.5714285714285714
-2023-10-09_3271.txt,2023-10,"Palestinians in Lebanon ready to fight Israel, if Hezbollah helps them",0.8333333333333334
-2023-10-14_3135.txt,2023-10,"‘A second Nakba’: Echoes of 1948, as Israel orders Palestinians to leave",0.6666666666666666
+2023-10-10_3235.txt,2023-10,Analysis: Is Hamas a more sophisticated force than Israel imagined?,0.72
+2023-10-27_2798.txt,2023-10,What does Gaza’s food shortage look like amid Israeli siege?,0.65
+2023-10-22_2936.txt,2023-10,Israel strikes mosque in occupied West Bank refugee camp,0.57
+2023-10-09_3271.txt,2023-10,"Palestinians in Lebanon ready to fight Israel, if Hezbollah helps them",0.83
+2023-10-14_3135.txt,2023-10,"‘A second Nakba’: Echoes of 1948, as Israel orders Palestinians to leave",0.67
 2024-01-22_1307.txt,2024-01,"US, UK strike eight Houthi targets over Red Sea shipping attacks",0.76
-2023-10-13_3158.txt,2023-10,Tens of thousands rally around the world against Israel’s Gaza bombardment,0.7777777777777778
-2023-10-26_2831.txt,2023-10,Small moments of joy amid Israel-Gaza war for children at al-Shifa Hospital,0.7857142857142857
-2024-01-06_1489.txt,2024-01,Will the Houthi Red Sea attacks destabilise Yemen’s fragile peace?,0.8666666666666667
+2023-10-13_3158.txt,2023-10,Tens of thousands rally around the world against Israel’s Gaza bombardment,0.78
+2023-10-26_2831.txt,2023-10,Small moments of joy amid Israel-Gaza war for children at al-Shifa Hospital,0.79
+2024-01-06_1489.txt,2024-01,Will the Houthi Red Sea attacks destabilise Yemen’s fragile peace?,0.87
 2024-01-14_1398.txt,2024-01,How long can Israel’s war on Gaza continue?,0.4
-2023-10-19_3006.txt,2023-10,"Hamas killed my parents, but Israel’s war is not the answer",0.7941176470588235
+2023-10-19_3006.txt,2023-10,"Hamas killed my parents, but Israel’s war is not the answer",0.79
 2023-10-13_3154.txt,2023-10,Are Israel and Hamas guilty of war crimes?,0.4
-2023-10-30_2717.txt,2023-10,Al Jazeera reporter’s family receives Israeli threat to leave Gaza home,0.6666666666666666
-2024-01-19_1346.txt,2024-01,"Gaza’s morning ritual: Searching under rubble for dolls, books, loved ones",0.6666666666666666
+2023-10-30_2717.txt,2023-10,Al Jazeera reporter’s family receives Israeli threat to leave Gaza home,0.67
+2024-01-19_1346.txt,2024-01,"Gaza’s morning ritual: Searching under rubble for dolls, books, loved ones",0.67
 2023-10-12_3204.txt,2023-10,‘Smell of death is everywhere’: Inside Israeli kibbutz attacked by Hamas,0.5
-2023-10-08_3291.txt,2023-10,"Israel declares state of war, attacks on Gaza intensify",0.7142857142857143
-2024-01-23_1298.txt,2024-01,How Israel controls $188m of Palestinian money every month,0.7096774193548387
-2023-10-09_3278.txt,2023-10,Bank of Israel to sell $30bn of forex after shekel falls,0.5384615384615384
-2024-01-20_1337.txt,2024-01,Hijacking truth: How open source intel in Gaza fell prey to groupthink,0.8105263157894737
-2023-10-19_3002.txt,2023-10,UK’s PM Rishi Sunak in Israel. What’s on his agenda?,0.775
-2024-01-15_1383.txt,2024-01,Iran launches missile strikes in Iraq and Syria citing security threats,0.5853658536585366
-2023-10-20_2979.txt,2023-10,"Israel bombed a family home in Gaza, generations of Saqallahs were inside",0.7307692307692307
-2023-10-05_3314.txt,2023-10,Israelis kill four Palestinians in occupied West Bank confrontations,0.65625
-2023-10-26_2829.txt,2023-10,The ICC should urgently investigate what happened at al-Ahli Arab Hospital,0.7619047619047619
+2023-10-08_3291.txt,2023-10,"Israel declares state of war, attacks on Gaza intensify",0.71
+2024-01-23_1298.txt,2024-01,How Israel controls $188m of Palestinian money every month,0.71
+2023-10-09_3278.txt,2023-10,Bank of Israel to sell $30bn of forex after shekel falls,0.54
+2024-01-20_1337.txt,2024-01,Hijacking truth: How open source intel in Gaza fell prey to groupthink,0.81
+2023-10-19_3002.txt,2023-10,UK’s PM Rishi Sunak in Israel. What’s on his agenda?,0.78
+2024-01-15_1383.txt,2024-01,Iran launches missile strikes in Iraq and Syria citing security threats,0.59
+2023-10-20_2979.txt,2023-10,"Israel bombed a family home in Gaza, generations of Saqallahs were inside",0.73
+2023-10-05_3314.txt,2023-10,Israelis kill four Palestinians in occupied West Bank confrontations,0.66
+2023-10-26_2829.txt,2023-10,The ICC should urgently investigate what happened at al-Ahli Arab Hospital,0.76
 2024-01-10_1453.txt,2024-01,The Take: The Houthis’ grip on Red Sea trade,0.9
 2024-01-13_1413.txt,2024-01,"Israel’s war on Gaza: List of key events, day 99",1.0
-2024-01-25_1281.txt,2024-01,What will the ICJ announce on Israel’s Gaza war? The possible scenarios,0.723404255319149
-2023-10-29_2757.txt,2023-10,Hundreds of thousands march worldwide against Israeli bombardment of Gaza,0.7894736842105263
-2023-10-18_3029.txt,2023-10,Rethinking Palestine-Israel: Hegemonic security vs true justice,0.627906976744186
-2024-01-29_1231.txt,2024-01,The Full Report: Occupied and Imprisoned,0.5714285714285714
+2024-01-25_1281.txt,2024-01,What will the ICJ announce on Israel’s Gaza war? The possible scenarios,0.72
+2023-10-29_2757.txt,2023-10,Hundreds of thousands march worldwide against Israeli bombardment of Gaza,0.79
+2023-10-18_3029.txt,2023-10,Rethinking Palestine-Israel: Hegemonic security vs true justice,0.63
+2024-01-29_1231.txt,2024-01,The Full Report: Occupied and Imprisoned,0.57
 2023-10-09_3275.txt,2023-10,What military aid the US is sending to Israel after Hamas attack?,1.0
-2023-10-10_3249.txt,2023-10,How global firms are reacting to the Israel-Hamas conflict,1.0526315789473684
-2023-10-30_2720.txt,2023-10,Cyprus braces for refugee arrivals amid Lebanon war fears,0.7272727272727273
-2023-10-27_2813.txt,2023-10,Why are Palestinians supposed to take it – again and again?,0.6666666666666666
-2023-10-18_3022.txt,2023-10,Israel says it won’t block humanitarian aid entering Gaza from Egypt,0.5526315789473685
-2023-10-26_2827.txt,2023-10,‘Complete censorship’: Germany’s Palestinian diaspora fights crackdown,0.7636363636363637
-2023-10-21_2957.txt,2023-10,French intel says Palestinian rocket likely cause of Gaza hospital blast,0.5333333333333333
+2023-10-10_3249.txt,2023-10,How global firms are reacting to the Israel-Hamas conflict,1.05
+2023-10-30_2720.txt,2023-10,Cyprus braces for refugee arrivals amid Lebanon war fears,0.73
+2023-10-27_2813.txt,2023-10,Why are Palestinians supposed to take it – again and again?,0.67
+2023-10-18_3022.txt,2023-10,Israel says it won’t block humanitarian aid entering Gaza from Egypt,0.55
+2023-10-26_2827.txt,2023-10,‘Complete censorship’: Germany’s Palestinian diaspora fights crackdown,0.76
+2023-10-21_2957.txt,2023-10,French intel says Palestinian rocket likely cause of Gaza hospital blast,0.53
 2023-10-12_3176.txt,2023-10,What has been the effect of Western policy on Palestine and Israel?,1.0
-2024-01-20_1334.txt,2024-01,"Israel drops leaflets seeking intel on captives, as Gaza attacks continue",0.6333333333333333
-2023-10-14_3132.txt,2023-10,‘We will come from the ground’: Israel’s goals in a ground invasion of Gaza,0.7209302325581395
-2023-10-28_2772.txt,2023-10,‘So world knows’: Gaza parents mark children’s names on bodies amid bombing,0.5964912280701754
-2023-10-13_3151.txt,2023-10,"Food, toys and therapy: Tel Aviv residents help survivors of Hamas attack",0.8292682926829268
-2024-01-12_1425.txt,2024-01,What is South Africa’s five-point ICJ argument against Israel?,0.5833333333333334
-2023-10-25_2846.txt,2023-10,‘Our voices will go on’: Dahdouh’s Al Jazeera team stands behind him,0.71875
+2024-01-20_1334.txt,2024-01,"Israel drops leaflets seeking intel on captives, as Gaza attacks continue",0.63
+2023-10-14_3132.txt,2023-10,‘We will come from the ground’: Israel’s goals in a ground invasion of Gaza,0.72
+2023-10-28_2772.txt,2023-10,‘So world knows’: Gaza parents mark children’s names on bodies amid bombing,0.6
+2023-10-13_3151.txt,2023-10,"Food, toys and therapy: Tel Aviv residents help survivors of Hamas attack",0.83
+2024-01-12_1425.txt,2024-01,What is South Africa’s five-point ICJ argument against Israel?,0.58
+2023-10-25_2846.txt,2023-10,‘Our voices will go on’: Dahdouh’s Al Jazeera team stands behind him,0.72
 2024-01-25_1286.txt,2024-01,Israel-Gaza war spillover risk: Mapping recent strikes in Middle East,0.64
 2023-10-23_2909.txt,2023-10,Israel-Hamas war: Which countries have sent aid to Gaza so far?,0.6
-2023-10-17_3074.txt,2023-10,Vladimir Putin to meet Xi Jinping in Beijing: Five things to know,1.0476190476190477
-2023-10-24_2890.txt,2023-10,China’s Wang Yi to pay rare visit to US as two countries try to repair ties,0.875
-2023-10-10_3260.txt,2023-10,"Get this straight, Western media: Palestinians aren’t sub-human",0.7037037037037037
-2024-01-05_1496.txt,2024-01,What is Israel’s latest ‘day after’ plan for Gaza?,0.9666666666666667
-2023-10-19_3008.txt,2023-10,"‘Free world, where are you?’ Gaza hospital chief pleads amid Israel attacks",0.6923076923076923
-2023-10-23_2908.txt,2023-10,Where are Gaza’s neighbourhoods destroyed by Israel?,0.7464788732394366
+2023-10-17_3074.txt,2023-10,Vladimir Putin to meet Xi Jinping in Beijing: Five things to know,1.05
+2023-10-24_2890.txt,2023-10,China’s Wang Yi to pay rare visit to US as two countries try to repair ties,0.88
+2023-10-10_3260.txt,2023-10,"Get this straight, Western media: Palestinians aren’t sub-human",0.7
+2024-01-05_1496.txt,2024-01,What is Israel’s latest ‘day after’ plan for Gaza?,0.97
+2023-10-19_3008.txt,2023-10,"‘Free world, where are you?’ Gaza hospital chief pleads amid Israel attacks",0.69
+2023-10-23_2908.txt,2023-10,Where are Gaza’s neighbourhoods destroyed by Israel?,0.75
 2023-10-27_2800.txt,2023-10,The double standards of free speech on Palestine amid Israel’s war on Gaza,1.0
-2023-10-10_3244.txt,2023-10,Israel-Gaza war: Which international actors can play peacemaker?,0.8367346938775511
-2024-01-01_1534.txt,2024-01,Israel says it will pull out thousands of troops from Gaza,0.6521739130434783
-2023-10-25_2863.txt,2023-10,Pro-Israel rallies allowed in India but Palestine solidarity sees crackdown,0.7966101694915254
-2024-01-05_1494.txt,2024-01,Shipping giant Maersk to avoid Red Sea routes for ‘foreseeable future’,0.7333333333333333
-2023-10-22_2932.txt,2023-10,Thousands rally in Malaysia’s capital in support of Palestinians,0.7894736842105263
-2023-10-31_2691.txt,2023-10,Gaza has become a ‘graveyard’ for children amid Israeli attacks: UN,0.6153846153846154
-2024-01-31_1216.txt,2024-01,Defunding UNRWA is worse than collective punishment,0.6052631578947368
-2023-10-20_2963.txt,2023-10,‘We were baptised here and we will die here’: Gaza’s oldest church bombed,0.627906976744186
+2023-10-10_3244.txt,2023-10,Israel-Gaza war: Which international actors can play peacemaker?,0.84
+2024-01-01_1534.txt,2024-01,Israel says it will pull out thousands of troops from Gaza,0.65
+2023-10-25_2863.txt,2023-10,Pro-Israel rallies allowed in India but Palestine solidarity sees crackdown,0.8
+2024-01-05_1494.txt,2024-01,Shipping giant Maersk to avoid Red Sea routes for ‘foreseeable future’,0.73
+2023-10-22_2932.txt,2023-10,Thousands rally in Malaysia’s capital in support of Palestinians,0.79
+2023-10-31_2691.txt,2023-10,Gaza has become a ‘graveyard’ for children amid Israeli attacks: UN,0.62
+2024-01-31_1216.txt,2024-01,Defunding UNRWA is worse than collective punishment,0.61
+2023-10-20_2963.txt,2023-10,‘We were baptised here and we will die here’: Gaza’s oldest church bombed,0.63
 2023-10-11_3225.txt,2023-10,Gaza faces ‘humanitarian catastrophe’ as power plant running out of fuel,0.6
-2024-01-13_1414.txt,2024-01,US launches new strikes on Yemen’s Houthis as conflict escalates,0.7241379310344828
-2023-10-12_3202.txt,2023-10,Gaza ‘hospitals risk turning into morgues’: Rights groups call for action,0.5217391304347826
-2024-01-21_1330.txt,2024-01,Palestinian-American teen one of hundreds killed by Israelis in West Bank,0.8064516129032258
-2023-10-16_3101.txt,2023-10,"Games, YouTube, hugs: How Gaza mothers calm terrified kids amid Israel war",0.8405797101449275
-2023-10-09_3273.txt,2023-10,Reports of mass casualties as Israeli air attack hits refugee camp in Gaza,0.4583333333333333
-2023-10-30_2734.txt,2023-10,"At Gaza’s Indonesia Hospital, medics fight to save lives amid Israel raids",0.6285714285714286
+2024-01-13_1414.txt,2024-01,US launches new strikes on Yemen’s Houthis as conflict escalates,0.72
+2023-10-12_3202.txt,2023-10,Gaza ‘hospitals risk turning into morgues’: Rights groups call for action,0.52
+2024-01-21_1330.txt,2024-01,Palestinian-American teen one of hundreds killed by Israelis in West Bank,0.81
+2023-10-16_3101.txt,2023-10,"Games, YouTube, hugs: How Gaza mothers calm terrified kids amid Israel war",0.84
+2023-10-09_3273.txt,2023-10,Reports of mass casualties as Israeli air attack hits refugee camp in Gaza,0.46
+2023-10-30_2734.txt,2023-10,"At Gaza’s Indonesia Hospital, medics fight to save lives amid Israel raids",0.63
 2023-10-07_3309.txt,2023-10,Israel-Palestine escalation updates: Gaza under bombardment,1.0
-2023-10-25_2853.txt,2023-10,What has the UN done and said on the Israel-Palestine conflict?,0.6666666666666666
-2023-10-14_3131.txt,2023-10,Thousands of NYC protesters chant ‘Free Palestine’ amid Israeli bombing,0.5333333333333333
-2024-01-29_1240.txt,2024-01,Australia’s pro-Palestinian activists to continue targeting Israeli ships,0.7380952380952381
-2024-01-03_1522.txt,2024-01,Israel-Hamas updates: Nasrallah says not afraid of war after Beirut attack,0.7878787878787878
-2024-01-17_1367.txt,2024-01,Israel’s war on Gaza triggered a war on free speech in the West,0.5454545454545454
-2024-01-12_1418.txt,2024-01,"Oil prices steady despite Middle East tensions, but risks are rising",0.8421052631578947
+2023-10-25_2853.txt,2023-10,What has the UN done and said on the Israel-Palestine conflict?,0.67
+2023-10-14_3131.txt,2023-10,Thousands of NYC protesters chant ‘Free Palestine’ amid Israeli bombing,0.53
+2024-01-29_1240.txt,2024-01,Australia’s pro-Palestinian activists to continue targeting Israeli ships,0.74
+2024-01-03_1522.txt,2024-01,Israel-Hamas updates: Nasrallah says not afraid of war after Beirut attack,0.79
+2024-01-17_1367.txt,2024-01,Israel’s war on Gaza triggered a war on free speech in the West,0.55
+2024-01-12_1418.txt,2024-01,"Oil prices steady despite Middle East tensions, but risks are rising",0.84
 2023-10-15_3110.txt,2023-10,What are the military risks of an Israeli ground offensive in Gaza?,1.0
-2023-10-19_3004.txt,2023-10,Israel’s ‘war against Gaza’s children’ explained,0.7209302325581395
-2024-01-01_1538.txt,2024-01,US sinks Houthi boats in the Red Sea: How did the fight unfold?,0.6428571428571429
-2024-01-12_1423.txt,2024-01,Has Biden violated the US Constitution by bombing Yemen?,0.6792452830188679
+2023-10-19_3004.txt,2023-10,Israel’s ‘war against Gaza’s children’ explained,0.72
+2024-01-01_1538.txt,2024-01,US sinks Houthi boats in the Red Sea: How did the fight unfold?,0.64
+2024-01-12_1423.txt,2024-01,Has Biden violated the US Constitution by bombing Yemen?,0.68
 2023-10-08_3297.txt,2023-10,Israel-Hamas war updates: Death toll rises as Israeli jets pound Gaza,1.0
-2023-10-19_2988.txt,2023-10,"US, UK, Germany tell citizens to leave Lebanon as regional tensions rise",0.8571428571428571
-2023-10-12_3203.txt,2023-10,"Iran’s Raisi, Saudi Arabia’s MBS discuss Israel-Hamas war",0.7777777777777778
-2023-10-09_3266.txt,2023-10,Thousands of Gaza residents take refuge in UN schools from Israel air raids,0.7258064516129032
-2023-10-28_2777.txt,2023-10,Gaza’s communications blackout raises concerns of Israeli war crimes,0.48484848484848486
-2023-10-23_2900.txt,2023-10,Analysis: Two million human bargaining chips,0.8148148148148148
-2023-10-22_2921.txt,2023-10,At least seven injured as Israeli tank ‘accidentally’ hits Egyptian border,0.6875
-2024-01-10_1455.txt,2024-01,"‘Devastated, heartbroken’: Against the odds, Gaza aid providers keep going",0.6635514018691588
+2023-10-19_2988.txt,2023-10,"US, UK, Germany tell citizens to leave Lebanon as regional tensions rise",0.86
+2023-10-12_3203.txt,2023-10,"Iran’s Raisi, Saudi Arabia’s MBS discuss Israel-Hamas war",0.78
+2023-10-09_3266.txt,2023-10,Thousands of Gaza residents take refuge in UN schools from Israel air raids,0.73
+2023-10-28_2777.txt,2023-10,Gaza’s communications blackout raises concerns of Israeli war crimes,0.48
+2023-10-23_2900.txt,2023-10,Analysis: Two million human bargaining chips,0.81
+2023-10-22_2921.txt,2023-10,At least seven injured as Israeli tank ‘accidentally’ hits Egyptian border,0.69
+2024-01-10_1455.txt,2024-01,"‘Devastated, heartbroken’: Against the odds, Gaza aid providers keep going",0.66
 2023-10-22_2929.txt,2023-10,"Israel-Hamas war: List of key events, day 16",1.0
 2023-10-10_3240.txt,2023-10,Israel-Gaza war: What’s happening and why? | Start Here,0.5
-2023-10-21_2947.txt,2023-10,A PR stunt amid a massacre in Gaza,0.6129032258064516
-2024-01-28_1241.txt,2024-01,"Why is Benjamin Netanyahu lashing out at Egypt, Jordan and Qatar?",0.6666666666666666
-2023-10-10_3237.txt,2023-10,Israel-Palestine conflict and the Gaza War,0.6666666666666666
-2023-10-12_3186.txt,2023-10,Rizwan dedicates Pakistan’s cricket win to ‘brothers and sisters in Gaza’,0.9310344827586207
-2024-01-11_1446.txt,2024-01,UN Security Council demands Houthis stop Red Sea shipping attacks,0.9090909090909091
+2023-10-21_2947.txt,2023-10,A PR stunt amid a massacre in Gaza,0.61
+2024-01-28_1241.txt,2024-01,"Why is Benjamin Netanyahu lashing out at Egypt, Jordan and Qatar?",0.67
+2023-10-10_3237.txt,2023-10,Israel-Palestine conflict and the Gaza War,0.67
+2023-10-12_3186.txt,2023-10,Rizwan dedicates Pakistan’s cricket win to ‘brothers and sisters in Gaza’,0.93
+2024-01-11_1446.txt,2024-01,UN Security Council demands Houthis stop Red Sea shipping attacks,0.91
 2024-01-07_1479.txt,2024-01,"At least nine Palestinians, two Israelis killed in West Bank violence",0.6
-2023-10-08_3298.txt,2023-10,‘My voice is our lifeline’: Gaza journalist and family amid Israel bombing,0.9583333333333334
-2023-10-26_2833.txt,2023-10,"Middle East Roundup: In Gaza, mourning is a luxury",0.5588235294117647
+2023-10-08_3298.txt,2023-10,‘My voice is our lifeline’: Gaza journalist and family amid Israel bombing,0.96
+2023-10-26_2833.txt,2023-10,"Middle East Roundup: In Gaza, mourning is a luxury",0.56
 2024-01-11_1445.txt,2024-01,ICJ updates: South Africa’s genocide case against Israel over Gaza war,1.0
-2023-10-27_2792.txt,2023-10,Israel intensifies Gaza bombardment as internet and phone services go down,0.42105263157894735
-2023-10-18_3030.txt,2023-10,Palestinian Authority cracks down on protests over Israel Gaza attacks,0.6190476190476191
-2023-10-15_3116.txt,2023-10,Which countries have criticised Israeli attacks on Gaza?,0.7843137254901961
+2023-10-27_2792.txt,2023-10,Israel intensifies Gaza bombardment as internet and phone services go down,0.42
+2023-10-18_3030.txt,2023-10,Palestinian Authority cracks down on protests over Israel Gaza attacks,0.62
+2023-10-15_3116.txt,2023-10,Which countries have criticised Israeli attacks on Gaza?,0.78
 2024-01-28_1248.txt,2024-01,"Israel’s war on Gaza: List of key events, day 114",1.0
-2023-10-17_3055.txt,2023-10,Tensions surge at US universities as students rally over Israel-Hamas war,0.8064516129032258
-2023-10-12_3184.txt,2023-10,"Palestinian man, son attending funeral procession in West Bank shot dead",0.7419354838709677
-2023-10-23_2897.txt,2023-10,"More than 19,000 displaced in Lebanon as Israel border clashes escalate: UN",0.6666666666666666
-2023-10-27_2794.txt,2023-10,A day in the life of families sheltering at Gaza’s al-Shifa Hospital,0.631578947368421
-2023-10-17_3056.txt,2023-10,The mask is off: Gaza has exposed the hypocrisy of international law,0.926829268292683
-2023-10-30_2727.txt,2023-10,Katherine Maher replaces former Web Summit CEO following ‘war crimes’ post,0.7407407407407407
+2023-10-17_3055.txt,2023-10,Tensions surge at US universities as students rally over Israel-Hamas war,0.81
+2023-10-12_3184.txt,2023-10,"Palestinian man, son attending funeral procession in West Bank shot dead",0.74
+2023-10-23_2897.txt,2023-10,"More than 19,000 displaced in Lebanon as Israel border clashes escalate: UN",0.67
+2023-10-27_2794.txt,2023-10,A day in the life of families sheltering at Gaza’s al-Shifa Hospital,0.63
+2023-10-17_3056.txt,2023-10,The mask is off: Gaza has exposed the hypocrisy of international law,0.93
+2023-10-30_2727.txt,2023-10,Katherine Maher replaces former Web Summit CEO following ‘war crimes’ post,0.74
 2023-10-25_2866.txt,2023-10,"Israel-Hamas war: List of key events, day 19",1.0
-2023-10-20_2966.txt,2023-10,Photos: UNRWA camp in Gaza stirs painful memories of the Nakba,0.7058823529411765
-2023-10-08_3296.txt,2023-10,"Israel-Hamas conflict: List of key events, day 2 after surprise attack",0.3333333333333333
-2023-10-12_3192.txt,2023-10,Analysis: What will Israel do with all its mobilised soldiers?,0.9090909090909091
-2023-10-15_3117.txt,2023-10,"Israel, Hezbollah exchange fire amid fears of regional escalation",0.6666666666666666
+2023-10-20_2966.txt,2023-10,Photos: UNRWA camp in Gaza stirs painful memories of the Nakba,0.71
+2023-10-08_3296.txt,2023-10,"Israel-Hamas conflict: List of key events, day 2 after surprise attack",0.33
+2023-10-12_3192.txt,2023-10,Analysis: What will Israel do with all its mobilised soldiers?,0.91
+2023-10-15_3117.txt,2023-10,"Israel, Hezbollah exchange fire amid fears of regional escalation",0.67
 2023-10-23_2899.txt,2023-10,‘Not in my name’: The European Jews condemning Israel’s war on Gaza,0.7
-2024-01-14_1400.txt,2024-01,"Israel vows not to ‘stop’ as Gaza death toll nears 24,000 on day 100 of war",0.7058823529411765
-2023-10-09_3265.txt,2023-10,What’s the Israel-Palestine conflict about? A simple guide,0.6666666666666666
+2024-01-14_1400.txt,2024-01,"Israel vows not to ‘stop’ as Gaza death toll nears 24,000 on day 100 of war",0.71
+2023-10-09_3265.txt,2023-10,What’s the Israel-Palestine conflict about? A simple guide,0.67
 2023-10-27_2801.txt,2023-10,"The Gaza Strip: Under siege, at war with Israel",1.0
-2023-10-30_2730.txt,2023-10,Kamala Harris says no US troops to fight in Israel-Hamas war,0.7222222222222222
-2023-10-11_3227.txt,2023-10,Analysis: Why did it take Israel three days to return to Gaza’s boundary?,0.6129032258064516
-2023-10-13_3139.txt,2023-10,The Take: How an Israeli ‘intelligence failure’ informed the war on Gaza,0.9166666666666666
-2023-10-19_2989.txt,2023-10,"Analysis: Will Israel attack Gaza on the ground and if so, when and how?",0.6571428571428571
-2023-10-18_3026.txt,2023-10,Israel-Gaza: What international law says about the deadly hospital strike,0.6086956521739131
-2023-10-27_2818.txt,2023-10,Shifting politics make India a hotbed for Israel-Hamas war misinformation,0.9696969696969697
-2024-01-12_1421.txt,2024-01,The Take: Why South Africa is suing Israel for genocide in Gaza,0.9090909090909091
-2023-10-17_3066.txt,2023-10,Algeria offers to host Palestinian football matches amid Israel-Gaza war,0.9333333333333333
+2023-10-30_2730.txt,2023-10,Kamala Harris says no US troops to fight in Israel-Hamas war,0.72
+2023-10-11_3227.txt,2023-10,Analysis: Why did it take Israel three days to return to Gaza’s boundary?,0.61
+2023-10-13_3139.txt,2023-10,The Take: How an Israeli ‘intelligence failure’ informed the war on Gaza,0.92
+2023-10-19_2989.txt,2023-10,"Analysis: Will Israel attack Gaza on the ground and if so, when and how?",0.66
+2023-10-18_3026.txt,2023-10,Israel-Gaza: What international law says about the deadly hospital strike,0.61
+2023-10-27_2818.txt,2023-10,Shifting politics make India a hotbed for Israel-Hamas war misinformation,0.97
+2024-01-12_1421.txt,2024-01,The Take: Why South Africa is suing Israel for genocide in Gaza,0.91
+2023-10-17_3066.txt,2023-10,Algeria offers to host Palestinian football matches amid Israel-Gaza war,0.93
 2024-01-24_1291.txt,2024-01,Hundreds flee further south as Israeli forces advance in Khan Younis,0.6
 2024-01-14_1397.txt,2024-01,Palestine lose to Iran but win hearts on ‘special night’ at Asian Cup,1.0
-2024-01-11_1443.txt,2024-01,A quick guide to South Africa’s ICJ case against Israel,0.7777777777777778
-2023-10-24_2884.txt,2023-10,Qatari emir says Israel should not be given ‘free licence to kill’ in Gaza,0.7272727272727273
-2023-10-09_3279.txt,2023-10,‘It’s time to go’: How a Palestinian maths class became a victim of war,0.8142857142857143
-2023-10-24_2883.txt,2023-10,"Israeli captive endured ‘hell’ in attack, but treated ‘well’ in Gaza",0.6086956521739131
-2024-01-27_1258.txt,2024-01,Has the war on Gaza hurt Israel’s economy?,0.6792452830188679
-2024-01-02_1525.txt,2024-01,Senior Hamas official Saleh al-Arouri killed in Beirut suburb,0.9117647058823529
+2024-01-11_1443.txt,2024-01,A quick guide to South Africa’s ICJ case against Israel,0.78
+2023-10-24_2884.txt,2023-10,Qatari emir says Israel should not be given ‘free licence to kill’ in Gaza,0.73
+2023-10-09_3279.txt,2023-10,‘It’s time to go’: How a Palestinian maths class became a victim of war,0.81
+2023-10-24_2883.txt,2023-10,"Israeli captive endured ‘hell’ in attack, but treated ‘well’ in Gaza",0.61
+2024-01-27_1258.txt,2024-01,Has the war on Gaza hurt Israel’s economy?,0.68
+2024-01-02_1525.txt,2024-01,Senior Hamas official Saleh al-Arouri killed in Beirut suburb,0.91
 2024-01-01_1540.txt,2024-01,"Israel’s war on Gaza: List of key events, day 87",0.8
-2024-01-22_1311.txt,2024-01,The Take: What will remain of journalism in Gaza?,0.9230769230769231
+2024-01-22_1311.txt,2024-01,The Take: What will remain of journalism in Gaza?,0.92
 2023-10-27_2817.txt,2023-10,"As the UN votes on the Israel-Gaza war, Palestine can only observe",0.75
 2023-10-25_2849.txt,2023-10,Starvation used as a ‘weapon of war’ in Gaza amid Israeli siege: Oxfam,0.4
-2024-01-15_1390.txt,2024-01,UK’s alleged use of Cyprus bases to arm Israel and hit Yemen draw protests,0.918918918918919
-2023-10-07_3306.txt,2023-10,World reaction to surprise attack by Palestinian Hamas on Israel,0.7786885245901639
+2024-01-15_1390.txt,2024-01,UK’s alleged use of Cyprus bases to arm Israel and hit Yemen draw protests,0.92
+2023-10-07_3306.txt,2023-10,World reaction to surprise attack by Palestinian Hamas on Israel,0.78
 2023-10-16_3087.txt,2023-10,History Illustrated: The war on Al-Aqsa redux,1.0
-2023-10-21_2946.txt,2023-10,Angry Egyptians denounce staged pro-Palestine rallies amid Israel-Hamas war,0.7142857142857143
-2024-01-04_1507.txt,2024-01,Gaza women and the isdal robes that shield them as war strips their privacy,0.8947368421052632
-2023-10-18_3018.txt,2023-10,US vetoes UN resolution calling for humanitarian pause in Israel-Hamas war,0.4782608695652174
-2023-10-27_2814.txt,2023-10,Displaced cook volunteers to feed 50 Gaza families amidst Israeli bombing,0.6956521739130435
-2023-10-20_2976.txt,2023-10,US forces repel Middle East attacks as Israel-Hamas war threatens spillover,0.6976744186046512
+2023-10-21_2946.txt,2023-10,Angry Egyptians denounce staged pro-Palestine rallies amid Israel-Hamas war,0.71
+2024-01-04_1507.txt,2024-01,Gaza women and the isdal robes that shield them as war strips their privacy,0.89
+2023-10-18_3018.txt,2023-10,US vetoes UN resolution calling for humanitarian pause in Israel-Hamas war,0.48
+2023-10-27_2814.txt,2023-10,Displaced cook volunteers to feed 50 Gaza families amidst Israeli bombing,0.7
+2023-10-20_2976.txt,2023-10,US forces repel Middle East attacks as Israel-Hamas war threatens spillover,0.7
 2024-01-05_1499.txt,2024-01,"Israel’s war on Gaza: List of key events, day 91",0.6
 2023-10-11_3209.txt,2023-10,Israel-Hamas updates: 45 killed in Israel strike on Gaza apartment block,1.0
-2023-10-13_3142.txt,2023-10,Dozens killed while fleeing Gaza homes as Israel conducts ground raids,0.5641025641025641
-2023-10-20_2968.txt,2023-10,UN chief calls on Israel to open aid ‘lifeline’ for Gaza,0.6666666666666666
-2023-10-25_2856.txt,2023-10,Western media failures say more about the West than Gaza,0.6875
+2023-10-13_3142.txt,2023-10,Dozens killed while fleeing Gaza homes as Israel conducts ground raids,0.56
+2023-10-20_2968.txt,2023-10,UN chief calls on Israel to open aid ‘lifeline’ for Gaza,0.67
+2023-10-25_2856.txt,2023-10,Western media failures say more about the West than Gaza,0.69
 2023-10-31_2687.txt,2023-10,UN chief Guterres says aid trickling into Gaza is ‘completely inadequate’,0.5
-2024-01-15_1384.txt,2024-01,Israeli forces kill three Palestinians in occupied West Bank,0.6666666666666666
+2024-01-15_1384.txt,2024-01,Israeli forces kill three Palestinians in occupied West Bank,0.67
 2024-01-06_1492.txt,2024-01,Israel war on Gaza updates: Children dying ‘in every possible way’,1.0
-2023-10-15_3112.txt,2023-10,Palestinians in Gaza can go to ‘tent cities’: Former Israeli minister,0.7586206896551724
+2023-10-15_3112.txt,2023-10,Palestinians in Gaza can go to ‘tent cities’: Former Israeli minister,0.76
 2024-01-18_1360.txt,2024-01,"Israel’s war on Gaza: List of key events, day 104",1.0
-2023-10-31_2696.txt,2023-10,Where is the ‘responsibility to protect’ in Gaza?,0.8225806451612904
+2023-10-31_2696.txt,2023-10,Where is the ‘responsibility to protect’ in Gaza?,0.82
 2023-10-23_2895.txt,2023-10,What risk would an Israeli ground offensive pose to captives held by Hamas?,0.8
 2023-10-28_2766.txt,2023-10,"Mass graves, unclaimed bodies: Israel’s war robs Gazans of funeral rites",0.5
 2023-10-18_3017.txt,2023-10,Israel-Hamas war updates: Regional tensions soar as Israel bombs Gaza,1.0
-2023-10-09_3269.txt,2023-10,‘Israel doesn’t care about collateral damage’: Bunker busters used in Gaza,0.6285714285714286
+2023-10-09_3269.txt,2023-10,‘Israel doesn’t care about collateral damage’: Bunker busters used in Gaza,0.63
 2023-10-15_3109.txt,2023-10,"Israel-Hamas war updates: Up to 250 captives held in Gaza, Hamas says",1.0
-2024-01-29_1236.txt,2024-01,‘Sport is part of our resistance’: Palestine football chief Jibril Rajoub,1.1428571428571428
-2023-10-30_2739.txt,2023-10,"Reuters, Al Jazeera journalists ‘targeted’ in Lebanon strike: Press group",0.47058823529411764
-2024-01-11_1442.txt,2024-01,Nobel winner joins push to boycott German cultural institutions over Gaza,0.782608695652174
-2023-10-10_3254.txt,2023-10,Will global oil prices keep rising due to the Israel-Hamas war?,0.6071428571428571
-2024-01-14_1406.txt,2024-01,Namibia condemns Germany for defending Israel in ICJ genocide case,0.8333333333333334
+2024-01-29_1236.txt,2024-01,‘Sport is part of our resistance’: Palestine football chief Jibril Rajoub,1.14
+2023-10-30_2739.txt,2023-10,"Reuters, Al Jazeera journalists ‘targeted’ in Lebanon strike: Press group",0.47
+2024-01-11_1442.txt,2024-01,Nobel winner joins push to boycott German cultural institutions over Gaza,0.78
+2023-10-10_3254.txt,2023-10,Will global oil prices keep rising due to the Israel-Hamas war?,0.61
+2024-01-14_1406.txt,2024-01,Namibia condemns Germany for defending Israel in ICJ genocide case,0.83
 2024-01-18_1355.txt,2024-01,Israeli arrests of Palestinian journalists soared in 2023: CPJ,0.75
 2024-01-02_1529.txt,2024-01,The Take: Are Hezbollah and Israel close to an all-out war?,0.9
-2024-01-07_1473.txt,2024-01,Blinken says Palestinians displaced in Gaza must be able to return home,0.7352941176470589
-2023-10-13_3162.txt,2023-10,EU launches probe into Elon Musk’s X over Israel-Hamas war content,0.46153846153846156
-2024-01-04_1501.txt,2024-01,Will Iran retaliate after the deadly bombings in Kerman?,0.6666666666666666
+2024-01-07_1473.txt,2024-01,Blinken says Palestinians displaced in Gaza must be able to return home,0.74
+2023-10-13_3162.txt,2023-10,EU launches probe into Elon Musk’s X over Israel-Hamas war content,0.46
+2024-01-04_1501.txt,2024-01,Will Iran retaliate after the deadly bombings in Kerman?,0.67
 2023-10-21_2937.txt,2023-10,Israel-Hamas war updates: Hamas says repelled ground attack in Gaza,1.0
-2024-01-28_1244.txt,2024-01,"Why, as a Palestinian American journalist, I had to leave the news industry",0.7207207207207207
-2024-01-26_1268.txt,2024-01,ICJ rules Israel must prevent acts of genocide in Gaza: Key takeaways,0.6666666666666666
+2024-01-28_1244.txt,2024-01,"Why, as a Palestinian American journalist, I had to leave the news industry",0.72
+2024-01-26_1268.txt,2024-01,ICJ rules Israel must prevent acts of genocide in Gaza: Key takeaways,0.67
 2023-10-31_2686.txt,2023-10,Hamas says it will release some foreign hostages in coming days,0.75
 2023-10-13_3141.txt,2023-10,"Where do China, Russia and India stand on the Gaza war?",0.8
-2023-10-20_2960.txt,2023-10,Hamas releases two American hostages from Gaza after Qatari mediation,0.8823529411764706
-2024-01-04_1502.txt,2024-01,Beirut bombings: Israel’s long history of assassination attempts in Lebanon,0.5869565217391305
+2023-10-20_2960.txt,2023-10,Hamas releases two American hostages from Gaza after Qatari mediation,0.88
+2024-01-04_1502.txt,2024-01,Beirut bombings: Israel’s long history of assassination attempts in Lebanon,0.59
 2023-10-19_3010.txt,2023-10,"Israel-Hamas war: List of key events, day 13",1.0
-2023-10-17_3054.txt,2023-10,Gaza authorities say hundreds killed in Israeli air raid on hospital,0.48148148148148145
-2023-10-18_3021.txt,2023-10,A letter to Europe from a Palestinian,0.734375
-2024-01-07_1476.txt,2024-01,"Hamza, son of Al Jazeera’s Wael Dahdouh, killed in Israeli attack in Gaza",0.6538461538461539
-2023-10-27_2804.txt,2023-10,‘Solidarity with Palestine’: British protesters defy threats to hit streets,0.5357142857142857
-2023-10-25_2851.txt,2023-10,Florida Governor Ron DeSantis bans pro-Palestine student organisation,0.5238095238095238
-2023-10-24_2888.txt,2023-10,France’s Macron says anti-ISIL coalition should fight Hamas,0.8518518518518519
+2023-10-17_3054.txt,2023-10,Gaza authorities say hundreds killed in Israeli air raid on hospital,0.48
+2023-10-18_3021.txt,2023-10,A letter to Europe from a Palestinian,0.73
+2024-01-07_1476.txt,2024-01,"Hamza, son of Al Jazeera’s Wael Dahdouh, killed in Israeli attack in Gaza",0.65
+2023-10-27_2804.txt,2023-10,‘Solidarity with Palestine’: British protesters defy threats to hit streets,0.54
+2023-10-25_2851.txt,2023-10,Florida Governor Ron DeSantis bans pro-Palestine student organisation,0.52
+2023-10-24_2888.txt,2023-10,France’s Macron says anti-ISIL coalition should fight Hamas,0.85
 2024-01-07_1481.txt,2024-01,Israel war on Gaza updates: Condemnation after Israel kills 2 journalists,1.0
-2023-10-23_2903.txt,2023-10,Palestinian Roshdi Sarraj is the 23rd journalist killed by Israel-Gaza war,0.7575757575757576
-2024-01-19_1343.txt,2024-01,Israeli minister says only a deal can free captives as rifts split cabinet,0.5833333333333334
+2023-10-23_2903.txt,2023-10,Palestinian Roshdi Sarraj is the 23rd journalist killed by Israel-Gaza war,0.76
+2024-01-19_1343.txt,2024-01,Israeli minister says only a deal can free captives as rifts split cabinet,0.58
 2023-10-26_2839.txt,2023-10,"Israel-Hamas war: List of key events, day 20",1.0
 2023-10-23_2894.txt,2023-10,"Israel-Hamas war updates: WHO urges fuel, healthcare deliveries to Gaza",1.0
-2023-10-17_3064.txt,2023-10,"No medicines, water, food scarcity: All to know about Gaza after Israel war",0.6190476190476191
-2023-10-25_2870.txt,2023-10,We ‘die slowly every single day’: What survival means for one Gaza family,0.6585365853658537
+2023-10-17_3064.txt,2023-10,"No medicines, water, food scarcity: All to know about Gaza after Israel war",0.62
+2023-10-25_2870.txt,2023-10,We ‘die slowly every single day’: What survival means for one Gaza family,0.66
 2024-01-27_1259.txt,2024-01,ICJ ruling in Gaza genocide case renews calls to end Israel arms transfers,0.76
-2023-10-16_3088.txt,2023-10,"Israeli forces, tanks amass near Gaza",0.6041666666666666
-2023-10-13_3144.txt,2023-10,"When a family dies under Israel’s bombs, part of Gaza’s history disappears",0.6444444444444445
-2023-10-28_2784.txt,2023-10,New York police arrest hundreds after Israel-Hamas protest at Grand Central,0.6363636363636364
-2023-10-19_2995.txt,2023-10,Stop Israel now – the Middle East cannot take another major war,0.6046511627906976
-2024-01-03_1516.txt,2024-01,General strikes across West Bank after assassination of Hamas’s al-Arouri,0.8823529411764706
-2023-10-07_3301.txt,2023-10,What happened in Israel? A breakdown of how Hamas attack unfolded,0.3333333333333333
-2024-01-23_1302.txt,2024-01,Photojournalist Motaz Azaiza evacuates from Gaza,0.8823529411764706
-2023-10-16_3099.txt,2023-10,Malaysia’s Anwar rejects West’s ‘pressuring attitude’ to condemn Hamas,0.5789473684210527
-2023-10-12_3196.txt,2023-10,"Gaza medics say Israel targeting ambulances, health facilities",0.5348837209302325
+2023-10-16_3088.txt,2023-10,"Israeli forces, tanks amass near Gaza",0.6
+2023-10-13_3144.txt,2023-10,"When a family dies under Israel’s bombs, part of Gaza’s history disappears",0.64
+2023-10-28_2784.txt,2023-10,New York police arrest hundreds after Israel-Hamas protest at Grand Central,0.64
+2023-10-19_2995.txt,2023-10,Stop Israel now – the Middle East cannot take another major war,0.6
+2024-01-03_1516.txt,2024-01,General strikes across West Bank after assassination of Hamas’s al-Arouri,0.88
+2023-10-07_3301.txt,2023-10,What happened in Israel? A breakdown of how Hamas attack unfolded,0.33
+2024-01-23_1302.txt,2024-01,Photojournalist Motaz Azaiza evacuates from Gaza,0.88
+2023-10-16_3099.txt,2023-10,Malaysia’s Anwar rejects West’s ‘pressuring attitude’ to condemn Hamas,0.58
+2023-10-12_3196.txt,2023-10,"Gaza medics say Israel targeting ambulances, health facilities",0.53
 2024-01-21_1328.txt,2024-01,What’s the cost of the war on Gaza for Palestine and Israel?,0.2
-2023-10-11_3211.txt,2023-10,US death toll in Israel-Hamas war rises to 22: Officials,0.7142857142857143
-2023-10-27_2819.txt,2023-10,Fanatics vs generals: The strange Israeli rift over Gaza,0.6551724137931034
-2023-10-28_2782.txt,2023-10,Israel and Palestine: Is war the only way out?,0.7945205479452054
-2023-10-18_3031.txt,2023-10,"Where in Gaza is al-Ahli Arab Hospital, the site hit amid war with Israel?",0.6153846153846154
-2023-10-08_3289.txt,2023-10,"No place for Gaza residents to flee after Israel declares war, bombs homes",0.5675675675675675
-2023-10-10_3261.txt,2023-10,Major international airlines suspend flights to Israel amid war on Gaza,0.875
-2023-10-13_3163.txt,2023-10,"In Britain, the Israel-Hamas war reignites old tensions between communities",0.8095238095238095
-2023-10-16_3106.txt,2023-10,Desperate evacuees return to their homes in Gaza City despite Israeli order,0.5333333333333333
-2024-01-31_1215.txt,2024-01,UN chief says UNRWA is ‘backbone’ of Gaza aid response,0.6216216216216216
-2023-10-14_3130.txt,2023-10,Is Israel violating the laws of war meant to protect children?,0.6842105263157895
-2023-10-17_3048.txt,2023-10,Protesters clash with Palestinian police in West Bank,0.7272727272727273
-2023-10-31_2690.txt,2023-10,Protests in Lebanon express frustration at international support for Israel,0.8888888888888888
-2023-10-11_3223.txt,2023-10,How big is Israel’s military and how much funding does it get from the US?,0.9302325581395349
-2024-01-19_1348.txt,2024-01,Palestinians in Ukraine decry ‘double standard’ as Kyiv supports Israel,0.8181818181818182
-2023-10-19_2993.txt,2023-10,"On Egypt-Gaza border, blocked aid waits to reach Palestinians",0.7441860465116279
+2023-10-11_3211.txt,2023-10,US death toll in Israel-Hamas war rises to 22: Officials,0.71
+2023-10-27_2819.txt,2023-10,Fanatics vs generals: The strange Israeli rift over Gaza,0.66
+2023-10-28_2782.txt,2023-10,Israel and Palestine: Is war the only way out?,0.79
+2023-10-18_3031.txt,2023-10,"Where in Gaza is al-Ahli Arab Hospital, the site hit amid war with Israel?",0.62
+2023-10-08_3289.txt,2023-10,"No place for Gaza residents to flee after Israel declares war, bombs homes",0.57
+2023-10-10_3261.txt,2023-10,Major international airlines suspend flights to Israel amid war on Gaza,0.88
+2023-10-13_3163.txt,2023-10,"In Britain, the Israel-Hamas war reignites old tensions between communities",0.81
+2023-10-16_3106.txt,2023-10,Desperate evacuees return to their homes in Gaza City despite Israeli order,0.53
+2024-01-31_1215.txt,2024-01,UN chief says UNRWA is ‘backbone’ of Gaza aid response,0.62
+2023-10-14_3130.txt,2023-10,Is Israel violating the laws of war meant to protect children?,0.68
+2023-10-17_3048.txt,2023-10,Protesters clash with Palestinian police in West Bank,0.73
+2023-10-31_2690.txt,2023-10,Protests in Lebanon express frustration at international support for Israel,0.89
+2023-10-11_3223.txt,2023-10,How big is Israel’s military and how much funding does it get from the US?,0.93
+2024-01-19_1348.txt,2024-01,Palestinians in Ukraine decry ‘double standard’ as Kyiv supports Israel,0.82
+2023-10-19_2993.txt,2023-10,"On Egypt-Gaza border, blocked aid waits to reach Palestinians",0.74
 2023-10-29_2745.txt,2023-10,How can Israel’s blockade and destruction of Gaza be stopped?,0.5
 2023-10-10_3242.txt,2023-10,Rockets fired from southern Lebanon towards Israel as Gaza is bombed,0.85
-2024-01-08_1471.txt,2024-01,"Remembering Issa al-Souri, a little boy killed when Israel bombed a church",0.7037037037037037
+2024-01-08_1471.txt,2024-01,"Remembering Issa al-Souri, a little boy killed when Israel bombed a church",0.7
 2024-01-29_1234.txt,2024-01,Qatar vs Palestine 2-1: AFC Asian Cup 2023 – as it happened,1.0
 2023-10-23_2913.txt,2023-10,"Israel-Hamas war: List of key events, day 17",1.0
-2024-01-15_1393.txt,2024-01,‘Shame’: Palestine UN mission decries Blinken’s post ignoring Gaza killings,0.5882352941176471
-2023-10-17_3050.txt,2023-10,PA forces fire tear gas at West Bank protesters after Gaza hospital strike,0.35714285714285715
-2023-10-15_3118.txt,2023-10,"‘Will we return?’: For my Palestinian family, history is repeating itself",0.7910447761194029
-2023-10-13_3165.txt,2023-10,What is the white phosphorus that Israel is accused of using in Gaza?,0.7647058823529411
-2024-01-21_1325.txt,2024-01,"Palestinian industries falter as Israel bombs Gaza, locks down West Bank",0.4375
-2023-10-14_3123.txt,2023-10,Palestinians take refuge at Shifa Hospital amid Israeli bombing,0.6666666666666666
+2024-01-15_1393.txt,2024-01,‘Shame’: Palestine UN mission decries Blinken’s post ignoring Gaza killings,0.59
+2023-10-17_3050.txt,2023-10,PA forces fire tear gas at West Bank protesters after Gaza hospital strike,0.36
+2023-10-15_3118.txt,2023-10,"‘Will we return?’: For my Palestinian family, history is repeating itself",0.79
+2023-10-13_3165.txt,2023-10,What is the white phosphorus that Israel is accused of using in Gaza?,0.76
+2024-01-21_1325.txt,2024-01,"Palestinian industries falter as Israel bombs Gaza, locks down West Bank",0.44
+2023-10-14_3123.txt,2023-10,Palestinians take refuge at Shifa Hospital amid Israeli bombing,0.67
 2023-10-20_2984.txt,2023-10,Biden’s Israel trip displays ‘performative’ approach to Gaza war: analysts,0.75
-2023-10-28_2765.txt,2023-10,‘I am scared’: Bombing of Gaza sparks fears in southern Israel,0.7857142857142857
-2023-10-07_3300.txt,2023-10,"Buzzing Tel Aviv’s streets empty, as Israel-Hamas conflict escalates",0.5217391304347826
+2023-10-28_2765.txt,2023-10,‘I am scared’: Bombing of Gaza sparks fears in southern Israel,0.79
+2023-10-07_3300.txt,2023-10,"Buzzing Tel Aviv’s streets empty, as Israel-Hamas conflict escalates",0.52
 2023-10-28_2771.txt,2023-10,Is the US in trouble in the Middle East?,0.75
-2023-10-19_3014.txt,2023-10,Israel-Gaza war: Liverpool’s Mohamed Salah calls for end to ‘massacres’,0.625
-2023-10-13_3140.txt,2023-10,"‘Nowhere safe to go’: Confusion, fear after Israel’s warning to evacuate",0.7857142857142857
-2024-01-18_1354.txt,2024-01,Blackouts in Gaza must not be used as ‘weapons of war’: Rights group,0.5625
-2023-10-23_2896.txt,2023-10,Hamas releases two women held hostage after Egyptian-Qatari diplomacy,0.7619047619047619
-2023-10-18_3036.txt,2023-10,"Biden arrives in Tel Aviv, backs Israel’s narrative on Gaza hospital strike",0.7096774193548387
-2023-10-18_3037.txt,2023-10,Abbas accuses Israel of ‘hideous war massacre’ after Gaza hospital attack,0.8181818181818182
-2023-10-25_2862.txt,2023-10,"Israel-Hamas war affecting regional economies, warns IMF head",0.5789473684210527
-2024-01-17_1368.txt,2024-01,Aid headed into Gaza after Israel-Hamas seal first deal since truce ended,0.7666666666666667
-2024-01-12_1422.txt,2024-01,Who are the Houthis? A simple guide to the Yemeni group,0.868421052631579
+2023-10-19_3014.txt,2023-10,Israel-Gaza war: Liverpool’s Mohamed Salah calls for end to ‘massacres’,0.62
+2023-10-13_3140.txt,2023-10,"‘Nowhere safe to go’: Confusion, fear after Israel’s warning to evacuate",0.79
+2024-01-18_1354.txt,2024-01,Blackouts in Gaza must not be used as ‘weapons of war’: Rights group,0.56
+2023-10-23_2896.txt,2023-10,Hamas releases two women held hostage after Egyptian-Qatari diplomacy,0.76
+2023-10-18_3036.txt,2023-10,"Biden arrives in Tel Aviv, backs Israel’s narrative on Gaza hospital strike",0.71
+2023-10-18_3037.txt,2023-10,Abbas accuses Israel of ‘hideous war massacre’ after Gaza hospital attack,0.82
+2023-10-25_2862.txt,2023-10,"Israel-Hamas war affecting regional economies, warns IMF head",0.58
+2024-01-17_1368.txt,2024-01,Aid headed into Gaza after Israel-Hamas seal first deal since truce ended,0.77
+2024-01-12_1422.txt,2024-01,Who are the Houthis? A simple guide to the Yemeni group,0.87
 2023-10-13_3171.txt,2023-10,The Take: What media outlets get wrong on Israel and Palestine,1.0
-2023-10-26_2830.txt,2023-10,Al Jazeera Gaza reporter’s family grieves relatives in Israeli attack,0.717948717948718
-2023-10-12_3178.txt,2023-10,‘A message’: Why has Biden dispatched a US strike group during Gaza war?,0.8571428571428571
-2023-10-07_3299.txt,2023-10,Fears of a ground invasion of Gaza grow as Israel vows ‘mighty vengeance’,0.7407407407407407
-2023-10-12_3183.txt,2023-10,Israel is manufacturing a case for genocide,0.631578947368421
-2023-10-24_2885.txt,2023-10,Why is France’s Macron visiting Israel?,0.875
-2023-10-19_2996.txt,2023-10,Israel’s war on Gaza: Is the West Bank under increased attack too?,0.6764705882352942
-2023-10-25_2868.txt,2023-10,Child casualties in Gaza a ‘stain on our conscience’: UNICEF,0.5588235294117647
-2023-10-10_3247.txt,2023-10,At least six Palestinian journalists killed as Israel bombs Gaza,0.7575757575757576
-2024-01-25_1283.txt,2024-01,Qatar ‘appalled’ at alleged Netanyahu criticism of mediation in Gaza war,0.6206896551724138
-2024-01-09_1465.txt,2024-01,"Israel’s war on Gaza: List of key events, day 95",1.3333333333333333
-2024-01-26_1272.txt,2024-01,"Qatar PM to meet Israel, US intel chiefs on new Gaza captives deal",0.8181818181818182
-2023-10-20_2962.txt,2023-10,EU staffers criticise von der Leyen’s ‘uncontrolled’ support of Israel,0.7959183673469388
-2024-01-18_1357.txt,2024-01,Why does the US act as Israel’s lawyer?,0.3333333333333333
-2024-01-21_1324.txt,2024-01,"Remembering a vibrant artist and mother killed in Gaza, Baraa Abu Mohsen",0.78125
+2023-10-26_2830.txt,2023-10,Al Jazeera Gaza reporter’s family grieves relatives in Israeli attack,0.72
+2023-10-12_3178.txt,2023-10,‘A message’: Why has Biden dispatched a US strike group during Gaza war?,0.86
+2023-10-07_3299.txt,2023-10,Fears of a ground invasion of Gaza grow as Israel vows ‘mighty vengeance’,0.74
+2023-10-12_3183.txt,2023-10,Israel is manufacturing a case for genocide,0.63
+2023-10-24_2885.txt,2023-10,Why is France’s Macron visiting Israel?,0.88
+2023-10-19_2996.txt,2023-10,Israel’s war on Gaza: Is the West Bank under increased attack too?,0.68
+2023-10-25_2868.txt,2023-10,Child casualties in Gaza a ‘stain on our conscience’: UNICEF,0.56
+2023-10-10_3247.txt,2023-10,At least six Palestinian journalists killed as Israel bombs Gaza,0.76
+2024-01-25_1283.txt,2024-01,Qatar ‘appalled’ at alleged Netanyahu criticism of mediation in Gaza war,0.62
+2024-01-09_1465.txt,2024-01,"Israel’s war on Gaza: List of key events, day 95",1.33
+2024-01-26_1272.txt,2024-01,"Qatar PM to meet Israel, US intel chiefs on new Gaza captives deal",0.82
+2023-10-20_2962.txt,2023-10,EU staffers criticise von der Leyen’s ‘uncontrolled’ support of Israel,0.8
+2024-01-18_1357.txt,2024-01,Why does the US act as Israel’s lawyer?,0.33
+2024-01-21_1324.txt,2024-01,"Remembering a vibrant artist and mother killed in Gaza, Baraa Abu Mohsen",0.78
 2023-10-21_2948.txt,2023-10,"Israel tells citizens to leave Egypt, Jordan ‘as soon as possible’",0.8
-2023-10-21_2950.txt,2023-10,‘We went through hell’: Palestinian dual citizens hoping to leave Gaza,0.6491228070175439
-2023-10-27_2820.txt,2023-10,"US attacks facilities in Syria linked to Iran, Pentagon says",0.5833333333333334
+2023-10-21_2950.txt,2023-10,‘We went through hell’: Palestinian dual citizens hoping to leave Gaza,0.65
+2023-10-27_2820.txt,2023-10,"US attacks facilities in Syria linked to Iran, Pentagon says",0.58
 2023-10-28_2781.txt,2023-10,Israel’s war on Gaza: What’s the impact globally?,0.8
-2023-10-31_2694.txt,2023-10,"No privacy, no water: Gaza women use period-delaying pills amid Israel war",0.6170212765957447
-2023-10-15_3114.txt,2023-10,‘From friend to enemy’: Palestinians in Israel suspended from jobs over war,0.7678571428571429
-2024-01-27_1260.txt,2024-01,‘Can’t stop’: US teen’s family seeks elusive justice in West Bank killing,0.7439024390243902
-2023-10-27_2812.txt,2023-10,"Blasts hit two Egyptian Red Sea towns near Israel border, six injured",0.7916666666666666
+2023-10-31_2694.txt,2023-10,"No privacy, no water: Gaza women use period-delaying pills amid Israel war",0.62
+2023-10-15_3114.txt,2023-10,‘From friend to enemy’: Palestinians in Israel suspended from jobs over war,0.77
+2024-01-27_1260.txt,2024-01,‘Can’t stop’: US teen’s family seeks elusive justice in West Bank killing,0.74
+2023-10-27_2812.txt,2023-10,"Blasts hit two Egyptian Red Sea towns near Israel border, six injured",0.79
 2023-10-30_2741.txt,2023-10,Israel-Hamas war updates: Netanyahu rejects ceasefire after captive video,1.0
-2024-01-22_1313.txt,2024-01,Hospitals cut off as Israel batters southern Gaza,0.5925925925925926
-2023-10-19_3016.txt,2023-10,Gaza’s only cancer hospital could shut down amid Israel’s war and siege,0.5172413793103449
-2023-10-16_3096.txt,2023-10,Ten films to watch about the history of the Israel-Palestine conflict,0.8857142857142857
-2023-10-20_2974.txt,2023-10,Middle East Roundup: ‘Where our love grew’ – love and loss in Gaza,0.7727272727272727
-2023-10-09_3268.txt,2023-10,Dozens killed and wounded in Israel air raids on Gaza refugee camps,0.5625
-2023-10-24_2891.txt,2023-10,"No one is left to mourn in Gaza, as Israel’s bombs deliver daily death",0.6086956521739131
+2024-01-22_1313.txt,2024-01,Hospitals cut off as Israel batters southern Gaza,0.59
+2023-10-19_3016.txt,2023-10,Gaza’s only cancer hospital could shut down amid Israel’s war and siege,0.52
+2023-10-16_3096.txt,2023-10,Ten films to watch about the history of the Israel-Palestine conflict,0.89
+2023-10-20_2974.txt,2023-10,Middle East Roundup: ‘Where our love grew’ – love and loss in Gaza,0.77
+2023-10-09_3268.txt,2023-10,Dozens killed and wounded in Israel air raids on Gaza refugee camps,0.56
+2023-10-24_2891.txt,2023-10,"No one is left to mourn in Gaza, as Israel’s bombs deliver daily death",0.61
 2024-01-03_1517.txt,2024-01,EU foreign policy chief says world must ‘impose’ solution to Gaza war,0.85
 2024-01-19_1351.txt,2024-01,"Israel’s war on Gaza: List of key events, day 105",1.0
-2023-10-13_3169.txt,2023-10,Israel orders 1.1 million people in Gaza to move south: What to know,0.6956521739130435
-2023-10-20_2970.txt,2023-10,How have Latin American countries responded to the Israel-Hamas war?,0.7307692307692307
-2024-01-21_1326.txt,2024-01,US base attacked in Iraq hours after Iran vows revenge for Damascus attack,0.6333333333333333
+2023-10-13_3169.txt,2023-10,Israel orders 1.1 million people in Gaza to move south: What to know,0.7
+2023-10-20_2970.txt,2023-10,How have Latin American countries responded to the Israel-Hamas war?,0.73
+2024-01-21_1326.txt,2024-01,US base attacked in Iraq hours after Iran vows revenge for Damascus attack,0.63
 2024-01-03_1520.txt,2024-01,"Israel’s war on Gaza: List of key events, day 89",1.0
 2024-01-04_1500.txt,2024-01,Israeli defence minister outlines new phase in Gaza war,0.7
 2023-10-24_2875.txt,2023-10,What’s the extent of US military aid to Israel in its war on Gaza?,1.0
-2024-01-29_1238.txt,2024-01,"Two brothers shot by Israeli forces in Khan Younis, white flag ignored",0.6904761904761905
-2023-10-31_2688.txt,2023-10,Israel-Gaza war: Biden support plummets to 17 percent among Arab Americans,0.8085106382978723
-2023-10-20_2972.txt,2023-10,‘I struggle to envision life after Israel’s war on Gaza – if we survive’,0.5641025641025641
-2023-10-26_2838.txt,2023-10,Israel’s war in Gaza could spread beyond Middle East: Russia’s Putin,0.6666666666666666
-2024-01-19_1349.txt,2024-01,Palestinians welcome Chile and Mexico’s call for ICC probe into Gaza war,0.8125
+2024-01-29_1238.txt,2024-01,"Two brothers shot by Israeli forces in Khan Younis, white flag ignored",0.69
+2023-10-31_2688.txt,2023-10,Israel-Gaza war: Biden support plummets to 17 percent among Arab Americans,0.81
+2023-10-20_2972.txt,2023-10,‘I struggle to envision life after Israel’s war on Gaza – if we survive’,0.56
+2023-10-26_2838.txt,2023-10,Israel’s war in Gaza could spread beyond Middle East: Russia’s Putin,0.67
+2024-01-19_1349.txt,2024-01,Palestinians welcome Chile and Mexico’s call for ICC probe into Gaza war,0.81
 2023-10-31_2700.txt,2023-10,Philippines protesters slam gov’t abstention on UN’s Israel-Gaza resolution,0.8
-2024-01-24_1288.txt,2024-01,"Turkey, Iran agree on need for regional stability amid Israel’s war on Gaza",0.8333333333333334
-2023-10-18_3042.txt,2023-10,"The Take: When it comes to Gaza, when is it called a war crime?",0.9230769230769231
+2024-01-24_1288.txt,2024-01,"Turkey, Iran agree on need for regional stability amid Israel’s war on Gaza",0.83
+2023-10-18_3042.txt,2023-10,"The Take: When it comes to Gaza, when is it called a war crime?",0.92
 2023-10-20_2958.txt,2023-10,Israel-Gaza war updates: Hamas says Israel refused offer to free 2 hostages,1.0
-2024-01-13_1408.txt,2024-01,Hundreds of thousands rally globally for Gaza on eve of 100 days of war,0.7857142857142857
+2024-01-13_1408.txt,2024-01,Hundreds of thousands rally globally for Gaza on eve of 100 days of war,0.79
 2023-10-21_2941.txt,2023-10,Limited aid enters Gaza as Israeli bombing compounds dire situation,0.25
-2023-10-16_3107.txt,2023-10,"The Take: Facing ‘total collapse,’ Gaza doctors fight to remain a lifeline",0.7777777777777778
-2024-01-03_1511.txt,2024-01,US-led coalition warns Houthis of ‘consequences’ after Red Sea attacks,0.7857142857142857
+2023-10-16_3107.txt,2023-10,"The Take: Facing ‘total collapse,’ Gaza doctors fight to remain a lifeline",0.78
+2024-01-03_1511.txt,2024-01,US-led coalition warns Houthis of ‘consequences’ after Red Sea attacks,0.79
 2023-10-12_3195.txt,2023-10,"Stephen Walt: US, Israeli strategy on Palestine has failed",1.0
-2024-01-30_1228.txt,2024-01,"The Indian ‘lost tribe’ that wants to move to Israel, even ‘fight Hamas’",0.9272727272727272
+2024-01-30_1228.txt,2024-01,"The Indian ‘lost tribe’ that wants to move to Israel, even ‘fight Hamas’",0.93
 2023-10-09_3283.txt,2023-10,"Israel-Hamas conflict: List of key events, day 3 after surprise attack",1.0
-2023-10-29_2754.txt,2023-10,Netanyahu apologises for blaming Israeli security chiefs for Hamas attack,0.5806451612903226
-2023-10-31_2704.txt,2023-10,UK MP Paul Bristow sacked as aide after call for Israel-Gaza ceasefire,0.9090909090909091
-2023-10-10_3243.txt,2023-10,"Ukrainians stand with Israel amid war with Hamas, despite grievances",0.8571428571428571
+2023-10-29_2754.txt,2023-10,Netanyahu apologises for blaming Israeli security chiefs for Hamas attack,0.58
+2023-10-31_2704.txt,2023-10,UK MP Paul Bristow sacked as aide after call for Israel-Gaza ceasefire,0.91
+2023-10-10_3243.txt,2023-10,"Ukrainians stand with Israel amid war with Hamas, despite grievances",0.86
 2023-10-16_3103.txt,2023-10,Biden weighs Israel visit after Netanyahu extends invite amid Gaza war,0.8
 2023-10-27_2788.txt,2023-10,What trauma do children suffer in Israel’s war on Gaza?,1.0
-2024-01-27_1256.txt,2024-01,"‘Like a mafia’: Israeli settlers, forces squeeze Palestinian shepherds out",0.660377358490566
+2024-01-27_1256.txt,2024-01,"‘Like a mafia’: Israeli settlers, forces squeeze Palestinian shepherds out",0.66
 2023-10-21_2952.txt,2023-10,"Russia-Ukraine war: List of key events, day 605",1.0
-2023-10-27_2793.txt,2023-10,UN says Gaza Health Ministry death tolls in previous wars ‘credible’,0.6842105263157895
-2024-01-25_1280.txt,2024-01,"US, UK sanction senior Houthis as rebels say Red Sea attacks will continue",0.8235294117647058
-2024-01-12_1430.txt,2024-01,US and UK launch strikes against Yemen; Houthi rebels promise to retaliate,0.7380952380952381
-2023-10-17_3058.txt,2023-10,Will Israel actually allow much-needed aid into Gaza?,0.7419354838709677
+2023-10-27_2793.txt,2023-10,UN says Gaza Health Ministry death tolls in previous wars ‘credible’,0.68
+2024-01-25_1280.txt,2024-01,"US, UK sanction senior Houthis as rebels say Red Sea attacks will continue",0.82
+2024-01-12_1430.txt,2024-01,US and UK launch strikes against Yemen; Houthi rebels promise to retaliate,0.74
+2023-10-17_3058.txt,2023-10,Will Israel actually allow much-needed aid into Gaza?,0.74
 2024-01-08_1467.txt,2024-01,What international solidarity exists with journalists under Israeli attack?,0.8
-2023-10-21_2943.txt,2023-10,"Israel doubles number of Palestinian prisoners to 10,000 in two weeks",0.7142857142857143
-2024-01-23_1297.txt,2024-01,Columbia Uni bars people accused of spraying pro-Palestine protesters,0.5555555555555556
+2023-10-21_2943.txt,2023-10,"Israel doubles number of Palestinian prisoners to 10,000 in two weeks",0.71
+2024-01-23_1297.txt,2024-01,Columbia Uni bars people accused of spraying pro-Palestine protesters,0.56
 2024-01-10_1456.txt,2024-01,"Israel’s war on Gaza: List of key events, day 96",1.0
-2023-10-16_3080.txt,2023-10,"Israeli forces killed Abu Akleh ‘without justification’, UN inquiry says",0.5909090909090909
-2024-01-05_1498.txt,2024-01,Israel launches attacks across Gaza amid spike in regional tensions,0.3333333333333333
+2023-10-16_3080.txt,2023-10,"Israeli forces killed Abu Akleh ‘without justification’, UN inquiry says",0.59
+2024-01-05_1498.txt,2024-01,Israel launches attacks across Gaza amid spike in regional tensions,0.33
 2023-10-19_2997.txt,2023-10,Video investigation: What hit al-Ahli Hospital in Gaza?,0.8
 2023-10-08_3295.txt,2023-10,"Israeli strikes flatten buildings, mosques in Gaza",0.6
-2024-01-24_1289.txt,2024-01,Will a US court order Biden to stop ‘complicity’ in Gaza genocide?,0.8363636363636363
-2023-10-25_2845.txt,2023-10,Biden condemns Israeli settler attacks in occupied West Bank,0.59375
-2023-10-17_3073.txt,2023-10,A man and his donkey ensure Gaza people don’t go thirsty amid Israeli siege,0.9696969696969697
-2023-10-23_2906.txt,2023-10,"Guilt, anguish of Palestinians mourning Gaza from afar as Israel bombs it",0.7272727272727273
-2024-01-09_1464.txt,2024-01,A Gaza footballer’s journey from pitch to hospital amid Israel’s war,0.8813559322033898
+2024-01-24_1289.txt,2024-01,Will a US court order Biden to stop ‘complicity’ in Gaza genocide?,0.84
+2023-10-25_2845.txt,2023-10,Biden condemns Israeli settler attacks in occupied West Bank,0.59
+2023-10-17_3073.txt,2023-10,A man and his donkey ensure Gaza people don’t go thirsty amid Israeli siege,0.97
+2023-10-23_2906.txt,2023-10,"Guilt, anguish of Palestinians mourning Gaza from afar as Israel bombs it",0.73
+2024-01-09_1464.txt,2024-01,A Gaza footballer’s journey from pitch to hospital amid Israel’s war,0.88
 2024-01-12_1424.txt,2024-01,Will Morocco stay the course on Israel normalisation?,0.8
-2024-01-10_1451.txt,2024-01,‘Threatened with rape’: Lama Khater recalls horrors while in Israeli jails,0.43902439024390244
-2023-10-11_3220.txt,2023-10,Israeli flags adorn EU buildings after Hamas attacks. Is the bloc united?,0.7164179104477612
-2024-01-02_1523.txt,2024-01,Biden under pressure to act amid new fears of ‘ethnic cleansing’ in Gaza,0.7192982456140351
+2024-01-10_1451.txt,2024-01,‘Threatened with rape’: Lama Khater recalls horrors while in Israeli jails,0.44
+2023-10-11_3220.txt,2023-10,Israeli flags adorn EU buildings after Hamas attacks. Is the bloc united?,0.72
+2024-01-02_1523.txt,2024-01,Biden under pressure to act amid new fears of ‘ethnic cleansing’ in Gaza,0.72
 2024-01-06_1487.txt,2024-01,Genocide in Gaza: The context,0.8
-2023-10-21_2949.txt,2023-10,Can a humanitarian catastrophe in Gaza be averted?,0.2857142857142857
-2023-10-22_2934.txt,2023-10,"Life returns to an Israeli desert city, but fears of Hamas remain",0.8780487804878049
+2023-10-21_2949.txt,2023-10,Can a humanitarian catastrophe in Gaza be averted?,0.29
+2023-10-22_2934.txt,2023-10,"Life returns to an Israeli desert city, but fears of Hamas remain",0.88
 2024-01-22_1317.txt,2024-01,"Israel’s war on Gaza: List of key events, day 108",1.0
-2024-01-24_1293.txt,2024-01,How Israel has destroyed Gaza’s schools and universities,0.5454545454545454
-2023-10-12_3175.txt,2023-10,At least 45 Palestinians killed in Israeli strike on Gaza refugee camp,0.4666666666666667
-2023-10-28_2779.txt,2023-10,Will the Israel-Hamas war upend China’s Middle East ambitions?,0.8723404255319149
-2024-01-19_1341.txt,2024-01,"Palestine, the alchemy of big lies and future of the university",0.6190476190476191
-2023-10-17_3065.txt,2023-10,EU leaders to meet as bloc struggles for united message on Israel-Hamas war,0.8888888888888888
-2023-10-09_3262.txt,2023-10,‘We will never be safe’: A day of bombing in Gaza’s Jabalia refugee camp,0.7419354838709677
-2024-01-10_1457.txt,2024-01,"US, UK forces shoot down 21 drones and missiles fired by Houthis",0.7692307692307693
-2024-01-13_1416.txt,2024-01,Republican caucuses? Iowa’s Arabs and Muslims are more concerned with Gaza,0.8627450980392157
-2023-10-10_3258.txt,2023-10,The Take: Where do you go when Israel strikes down your home in Gaza?,0.9166666666666666
+2024-01-24_1293.txt,2024-01,How Israel has destroyed Gaza’s schools and universities,0.55
+2023-10-12_3175.txt,2023-10,At least 45 Palestinians killed in Israeli strike on Gaza refugee camp,0.47
+2023-10-28_2779.txt,2023-10,Will the Israel-Hamas war upend China’s Middle East ambitions?,0.87
+2024-01-19_1341.txt,2024-01,"Palestine, the alchemy of big lies and future of the university",0.62
+2023-10-17_3065.txt,2023-10,EU leaders to meet as bloc struggles for united message on Israel-Hamas war,0.89
+2023-10-09_3262.txt,2023-10,‘We will never be safe’: A day of bombing in Gaza’s Jabalia refugee camp,0.74
+2024-01-10_1457.txt,2024-01,"US, UK forces shoot down 21 drones and missiles fired by Houthis",0.77
+2024-01-13_1416.txt,2024-01,Republican caucuses? Iowa’s Arabs and Muslims are more concerned with Gaza,0.86
+2023-10-10_3258.txt,2023-10,The Take: Where do you go when Israel strikes down your home in Gaza?,0.92
 2024-01-20_1339.txt,2024-01,"Israel’s war on Gaza: List of key events, day 106",1.0
 2023-10-21_2955.txt,2023-10,Hollywood stars urge Biden to push for ceasefire in Israel-Hamas war,0.6
-2024-01-17_1371.txt,2024-01,US federal workers risk livelihoods in push for course change on Gaza war,0.8545454545454545
-2023-10-16_3094.txt,2023-10,"At least 199 people being held captive by Hamas, Israel says",0.5909090909090909
+2024-01-17_1371.txt,2024-01,US federal workers risk livelihoods in push for course change on Gaza war,0.85
+2023-10-16_3094.txt,2023-10,"At least 199 people being held captive by Hamas, Israel says",0.59
 2023-10-22_2916.txt,2023-10,Israel-Hamas war updates: Hamas releases two captives as Israel pounds Gaza,1.0
 2024-01-07_1480.txt,2024-01,"Israel’s war on Gaza: List of key events, day 93",1.0
-2023-10-18_3045.txt,2023-10,What we know so far about the deadly strike on a Gaza hospital,0.5897435897435898
+2023-10-18_3045.txt,2023-10,What we know so far about the deadly strike on a Gaza hospital,0.59
 2024-01-11_1444.txt,2024-01,"Israel’s war on Gaza: List of key events, day 97",1.0
-2023-10-28_2775.txt,2023-10,Thousands of Gaza workers go ‘missing’ in Israel amid wartime mass arrests,0.6274509803921569
-2023-10-09_3276.txt,2023-10,"Death toll soars to 1,300 as fighting between Hamas and Israel rages",0.4166666666666667
-2024-01-22_1312.txt,2024-01,Families of hostages storm Israeli parliament meeting,0.7407407407407407
-2023-10-28_2767.txt,2023-10,Hamas’s attack on Israel has changed the Middle East,0.8571428571428571
+2023-10-28_2775.txt,2023-10,Thousands of Gaza workers go ‘missing’ in Israel amid wartime mass arrests,0.63
+2023-10-09_3276.txt,2023-10,"Death toll soars to 1,300 as fighting between Hamas and Israel rages",0.42
+2024-01-22_1312.txt,2024-01,Families of hostages storm Israeli parliament meeting,0.74
+2023-10-28_2767.txt,2023-10,Hamas’s attack on Israel has changed the Middle East,0.86
 2024-01-12_1431.txt,2024-01,ICJ updates: Israel’s response to South Africa’s genocide case,1.0
-2023-10-19_2990.txt,2023-10,"Frustration, concern rise among Arab Americans over Israel’s war on Gaza",0.7230769230769231
+2023-10-19_2990.txt,2023-10,"Frustration, concern rise among Arab Americans over Israel’s war on Gaza",0.72
 2024-01-05_1495.txt,2024-01,A Hamas leader is killed – what’s the state of play in the Middle East?,1.0
-2024-01-03_1514.txt,2024-01,Who were the Hamas officials killed in Beirut?,0.9130434782608695
-2023-10-17_3069.txt,2023-10,"Israel bombs homes in southern Gaza, kills more than 70 people",0.8235294117647058
-2023-10-16_3085.txt,2023-10,Mapping protests in solidarity with Palestine against Is­rael’s assault,0.42857142857142855
+2024-01-03_1514.txt,2024-01,Who were the Hamas officials killed in Beirut?,0.91
+2023-10-17_3069.txt,2023-10,"Israel bombs homes in southern Gaza, kills more than 70 people",0.82
+2023-10-16_3085.txt,2023-10,Mapping protests in solidarity with Palestine against Is­rael’s assault,0.43
 2023-10-20_2959.txt,2023-10,What’s the impact of Israel’s Gaza war on Arab nations?,0.6
-2024-01-27_1255.txt,2024-01,US military destroys Houthi antiship missile after oil tanker attack,0.7647058823529411
-2023-10-13_3157.txt,2023-10,‘We reject the forced displacement’ in Gaza: Abbas tells Blinken in Jordan,0.7368421052631579
+2024-01-27_1255.txt,2024-01,US military destroys Houthi antiship missile after oil tanker attack,0.76
+2023-10-13_3157.txt,2023-10,‘We reject the forced displacement’ in Gaza: Abbas tells Blinken in Jordan,0.74
 2023-10-31_2708.txt,2023-10,"Israel-Hamas war updates: Dozens killed in Jabalia camp, Gaza official says",1.0
 2023-10-17_3046.txt,2023-10,Israel-Hamas war updates: Biden says 20 aid trucks to enter Gaza via Egypt,1.0
-2023-10-30_2718.txt,2023-10,Arab leaders must walk the talk on Palestine,0.7428571428571429
-2023-10-11_3230.txt,2023-10,‘Horrific scenes’ as dozens of bodies found in Israel’s Kfar Aza near Gaza,0.59375
-2023-10-20_2975.txt,2023-10,Palestinians stuck in Egypt desperate to return to Gaza amid Israel attacks,0.734375
+2023-10-30_2718.txt,2023-10,Arab leaders must walk the talk on Palestine,0.74
+2023-10-11_3230.txt,2023-10,‘Horrific scenes’ as dozens of bodies found in Israel’s Kfar Aza near Gaza,0.59
+2023-10-20_2975.txt,2023-10,Palestinians stuck in Egypt desperate to return to Gaza amid Israel attacks,0.73
 2024-01-29_1232.txt,2024-01,"The Take: As US and UK air strikes land, Yemenis wonder what’s next",1.0
 2024-01-30_1223.txt,2024-01,‘Frog being boiled’: US troop deaths in Jordan incite Republican Iran hawks,0.8
-2023-10-30_2726.txt,2023-10,"Bilal went out to harvest his olives, an Israeli settler shot him",0.8888888888888888
-2024-01-03_1515.txt,2024-01,How will Hamas react to the killing of one of its top leaders?,0.8333333333333334
+2023-10-30_2726.txt,2023-10,"Bilal went out to harvest his olives, an Israeli settler shot him",0.89
+2024-01-03_1515.txt,2024-01,How will Hamas react to the killing of one of its top leaders?,0.83
 2023-10-12_3198.txt,2023-10,"Egypt says Israel seeks to empty Gaza, rejects corridors for civilians",0.6
 2023-10-28_2762.txt,2023-10,Israel-Hamas war updates: Israel bombs areas near Gaza’s Al-Quds Hospital,0.5
-2023-10-16_3083.txt,2023-10,Analysis: Israel’s deadlines to Gaza’s Palestinians have failed,0.6363636363636364
+2023-10-16_3083.txt,2023-10,Analysis: Israel’s deadlines to Gaza’s Palestinians have failed,0.64
 2024-01-23_1299.txt,2024-01,Why has Belgium vowed to back the ICJ’s verdict on Gaza ‘genocide’?,0.88
 2024-01-28_1245.txt,2024-01,Thousands rally across Israel calling for Netanyahu’s resignation,0.5
-2023-10-27_2791.txt,2023-10,Hamas rejects Israeli claim over installations under al-Shifa hospital,0.4444444444444444
-2023-10-29_2756.txt,2023-10,"Palestinians break into Gaza UN aid warehouses as toll tops 8,000",0.39285714285714285
+2023-10-27_2791.txt,2023-10,Hamas rejects Israeli claim over installations under al-Shifa hospital,0.44
+2023-10-29_2756.txt,2023-10,"Palestinians break into Gaza UN aid warehouses as toll tops 8,000",0.39
 2023-10-27_2796.txt,2023-10,People with disabilities not spared by Israel’s war machine on Gaza Strip,0.75
-2023-10-31_2698.txt,2023-10,"Once pro-Palestinian, Greece is now one of Israel’s closest European allies",0.9642857142857143
-2024-01-11_1447.txt,2024-01,‘Still no endgame’ as Blinken concludes latest Middle East tour: Analysts,0.7142857142857143
-2023-10-12_3199.txt,2023-10,"‘No electric switch will be turned on’ until captives free, Israel says",0.631578947368421
-2023-10-29_2751.txt,2023-10,"In dehumanising the Palestinians, Biden has surpassed Trump",0.7380952380952381
-2024-01-07_1478.txt,2024-01,‘Victory photo’: Will Beirut killings help embattled Netanyahu politically?,0.6756756756756757
-2023-10-13_3173.txt,2023-10,"Israel-Hamas war sparks south Lebanon exodus, as people flee border areas",0.7666666666666667
-2023-10-10_3251.txt,2023-10,What is Hezbollah? A look at the Lebanese armed group backing Hamas,0.9130434782608695
-2023-10-21_2945.txt,2023-10,World leaders attend Cairo peace summit to ‘de-escalate’ Israel-Hamas war,0.7692307692307693
-2023-10-16_3098.txt,2023-10,I have to show the world what Israel’s doing in Gaza  | Close Up,0.875
-2024-01-16_1378.txt,2024-01,"Remembering Refaat Alareer, in the words of his student",1.1521739130434783
-2023-10-31_2692.txt,2023-10,Analysis: It’s a win-win for Hezbollah against Israel so far,0.9130434782608695
-2023-10-28_2769.txt,2023-10,Russia says Israeli bombardment of Gaza is against international law,0.6956521739130435
-2023-10-13_3137.txt,2023-10,"‘Mr President, put an end to this’: Palestinian Americans speak out on Gaza",0.8571428571428571
-2023-10-24_2882.txt,2023-10,Israel’s war in Gaza revives Sabra and Shatila massacre memories in Lebanon,0.6923076923076923
-2023-10-16_3091.txt,2023-10,Americans want US to help get Gaza civilians out of harm’s way: Survey,0.7567567567567568
+2023-10-31_2698.txt,2023-10,"Once pro-Palestinian, Greece is now one of Israel’s closest European allies",0.96
+2024-01-11_1447.txt,2024-01,‘Still no endgame’ as Blinken concludes latest Middle East tour: Analysts,0.71
+2023-10-12_3199.txt,2023-10,"‘No electric switch will be turned on’ until captives free, Israel says",0.63
+2023-10-29_2751.txt,2023-10,"In dehumanising the Palestinians, Biden has surpassed Trump",0.74
+2024-01-07_1478.txt,2024-01,‘Victory photo’: Will Beirut killings help embattled Netanyahu politically?,0.68
+2023-10-13_3173.txt,2023-10,"Israel-Hamas war sparks south Lebanon exodus, as people flee border areas",0.77
+2023-10-10_3251.txt,2023-10,What is Hezbollah? A look at the Lebanese armed group backing Hamas,0.91
+2023-10-21_2945.txt,2023-10,World leaders attend Cairo peace summit to ‘de-escalate’ Israel-Hamas war,0.77
+2023-10-16_3098.txt,2023-10,I have to show the world what Israel’s doing in Gaza  | Close Up,0.88
+2024-01-16_1378.txt,2024-01,"Remembering Refaat Alareer, in the words of his student",1.15
+2023-10-31_2692.txt,2023-10,Analysis: It’s a win-win for Hezbollah against Israel so far,0.91
+2023-10-28_2769.txt,2023-10,Russia says Israeli bombardment of Gaza is against international law,0.7
+2023-10-13_3137.txt,2023-10,"‘Mr President, put an end to this’: Palestinian Americans speak out on Gaza",0.86
+2023-10-24_2882.txt,2023-10,Israel’s war in Gaza revives Sabra and Shatila massacre memories in Lebanon,0.69
+2023-10-16_3091.txt,2023-10,Americans want US to help get Gaza civilians out of harm’s way: Survey,0.76
 2024-01-15_1386.txt,2024-01,"Yemen’s Houthis hit US-owned ship in missile attack, US military says",0.72
-2023-10-08_3292.txt,2023-10,Why are so many Palestinian prisoners in Israeli jails?,0.4594594594594595
+2023-10-08_3292.txt,2023-10,Why are so many Palestinian prisoners in Israeli jails?,0.46
 2023-10-20_2978.txt,2023-10,"Israel-Hamas war: List of key events, day 14",1.0
-2024-01-27_1252.txt,2024-01,Palestinians condemn suspension of UNRWA funding by Western nations,0.5897435897435898
-2023-10-29_2758.txt,2023-10,‘There is zero work’: Occupied West Bank paralysed as economy stalls,0.7307692307692307
-2024-01-26_1269.txt,2024-01,ICJ orders Israel to prevent acts of genocide in Gaza,0.7692307692307693
-2023-10-13_3146.txt,2023-10,"Israeli attack in southern Lebanon kills journalist, wounds several others",0.6052631578947368
-2023-10-23_2914.txt,2023-10,‘Beautiful solidarity’: Cooking for displaced Palestinians in southern Gaza,0.7959183673469388
+2024-01-27_1252.txt,2024-01,Palestinians condemn suspension of UNRWA funding by Western nations,0.59
+2023-10-29_2758.txt,2023-10,‘There is zero work’: Occupied West Bank paralysed as economy stalls,0.73
+2024-01-26_1269.txt,2024-01,ICJ orders Israel to prevent acts of genocide in Gaza,0.77
+2023-10-13_3146.txt,2023-10,"Israeli attack in southern Lebanon kills journalist, wounds several others",0.61
+2023-10-23_2914.txt,2023-10,‘Beautiful solidarity’: Cooking for displaced Palestinians in southern Gaza,0.8
 2024-01-22_1308.txt,2024-01,Could a divided Jewish base upend US Democrats’ presidential hopes?,0.9
-2023-10-19_2991.txt,2023-10,WHO says aid ‘ready to go’ into Gaza as Israeli bombardment continues,0.6785714285714286
-2023-10-17_3059.txt,2023-10,Israel accuses Spain of siding with Hamas after ‘genocide’ accusation,0.7818181818181819
-2023-10-28_2763.txt,2023-10,Prisoner exchange? Israeli captive families demand answers from Netanyahu,0.7941176470588235
-2024-01-12_1428.txt,2024-01,"From a Palestinian in Gaza, thank you South Africa!",0.7592592592592593
-2023-10-21_2939.txt,2023-10,Analysis: The military logic behind Israel’s ‘total’ Gaza siege,0.6888888888888889
-2023-10-07_3305.txt,2023-10,Israel army launches air attacks on Gaza,0.6666666666666666
+2023-10-19_2991.txt,2023-10,WHO says aid ‘ready to go’ into Gaza as Israeli bombardment continues,0.68
+2023-10-17_3059.txt,2023-10,Israel accuses Spain of siding with Hamas after ‘genocide’ accusation,0.78
+2023-10-28_2763.txt,2023-10,Prisoner exchange? Israeli captive families demand answers from Netanyahu,0.79
+2024-01-12_1428.txt,2024-01,"From a Palestinian in Gaza, thank you South Africa!",0.76
+2023-10-21_2939.txt,2023-10,Analysis: The military logic behind Israel’s ‘total’ Gaza siege,0.69
+2023-10-07_3305.txt,2023-10,Israel army launches air attacks on Gaza,0.67
 2023-10-19_2998.txt,2023-10,Israel-Gaza war Q&A | Start Here,0.5
-2023-10-22_2925.txt,2023-10,Is Turkey uniquely positioned to mediate between Palestinians and Israel?,0.8529411764705882
+2023-10-22_2925.txt,2023-10,Is Turkey uniquely positioned to mediate between Palestinians and Israel?,0.85
 2023-10-22_2920.txt,2023-10,"Israeli soldier killed during ground raid in Gaza, Israel’s army says",0.5
-2024-01-28_1243.txt,2024-01,"Three US service members killed in Jordan drone attack, Biden says",0.7777777777777778
+2024-01-28_1243.txt,2024-01,"Three US service members killed in Jordan drone attack, Biden says",0.78
 2024-01-11_1432.txt,2024-01,Gaza daily deaths exceed all other major conflicts in 21st century: Oxfam,0.6
-2023-10-27_2789.txt,2023-10,United Nations votes overwhelmingly in favour of humanitarian truce in Gaza,0.5714285714285714
+2023-10-27_2789.txt,2023-10,United Nations votes overwhelmingly in favour of humanitarian truce in Gaza,0.57
 2024-01-11_1433.txt,2024-01,What plans does Washington have for Gaza?,0.8
 2024-01-29_1233.txt,2024-01,"What is Tower 22, the Jordan-based US outpost targeted in a drone strike?",0.8
 2023-10-31_2701.txt,2023-10,"Yemen’s Houthis say they launched ballistic missiles, drones at Israel",0.85
 2024-01-06_1490.txt,2024-01,"Israel’s war on Gaza: List of key events, day 92",1.0
-2024-01-19_1347.txt,2024-01,"UN says Palestinians detained by Israeli forces humiliated, beaten",0.47619047619047616
-2023-10-25_2867.txt,2023-10,Why Israel’s ban on fuel to Gaza isn’t about stopping Hamas,0.5384615384615384
-2023-10-16_3077.txt,2023-10,US lawmakers introduce resolution urging ‘immediate’ Gaza ceasefire,0.782608695652174
-2023-10-11_3219.txt,2023-10,The Take: ‘The US has Israel’s back.’ How far could the war spread?,0.8181818181818182
+2024-01-19_1347.txt,2024-01,"UN says Palestinians detained by Israeli forces humiliated, beaten",0.48
+2023-10-25_2867.txt,2023-10,Why Israel’s ban on fuel to Gaza isn’t about stopping Hamas,0.54
+2023-10-16_3077.txt,2023-10,US lawmakers introduce resolution urging ‘immediate’ Gaza ceasefire,0.78
+2023-10-11_3219.txt,2023-10,The Take: ‘The US has Israel’s back.’ How far could the war spread?,0.82
 2023-10-24_2887.txt,2023-10,"Israel-Hamas war: List of key events, day 18",1.0
 2024-01-22_1310.txt,2024-01,"The olive tree, symbol of Palestine and mute victim of Israel’s war on Gaza",0.85
 2023-10-29_2761.txt,2023-10,Netanyahu says war entering ‘second stage’ as Israeli troops push into Gaza,0.56
-2023-10-18_3019.txt,2023-10,Why has the US consistently backed Israel?,0.8571428571428571
-2023-10-31_2706.txt,2023-10,‘No one trusts Netanyahu’: Israel’s war cabinet divided amid Gaza conflict,0.7368421052631579
-2023-10-28_2778.txt,2023-10,Israel’s war on Gaza in 10 explainers,0.8292682926829268
+2023-10-18_3019.txt,2023-10,Why has the US consistently backed Israel?,0.86
+2023-10-31_2706.txt,2023-10,‘No one trusts Netanyahu’: Israel’s war cabinet divided amid Gaza conflict,0.74
+2023-10-28_2778.txt,2023-10,Israel’s war on Gaza in 10 explainers,0.83
 2024-01-23_1301.txt,2024-01,"Pizza, Gaza and an Israeli-made famine",0.75
-2023-10-30_2723.txt,2023-10,Russia blames Ukraine and the West for Dagestan airport unrest,0.7666666666666667
-2023-10-30_2735.txt,2023-10,"Nameless on Earth, known in heaven: Victims of Israeli bombs buried in Gaza",0.5263157894736842
-2023-10-19_2999.txt,2023-10,Erasing Palestine,0.7105263157894737
-2023-10-10_3238.txt,2023-10,"Biden pledges military aid, political support for Israel amid Gaza war",0.8222222222222222
+2023-10-30_2723.txt,2023-10,Russia blames Ukraine and the West for Dagestan airport unrest,0.77
+2023-10-30_2735.txt,2023-10,"Nameless on Earth, known in heaven: Victims of Israeli bombs buried in Gaza",0.53
+2023-10-19_2999.txt,2023-10,Erasing Palestine,0.71
+2023-10-10_3238.txt,2023-10,"Biden pledges military aid, political support for Israel amid Gaza war",0.82
 2024-01-24_1287.txt,2024-01,Is Israel using food deprivation as a war tactic?,1.0
-2024-01-21_1319.txt,2024-01,Reporter’s Notebook: Covering an antiwar protest in Israel,0.9387755102040817
-2023-10-27_2808.txt,2023-10,"Ceasefire, pause or truce? What have Israel and Hamas agreed to?",0.7906976744186046
+2024-01-21_1319.txt,2024-01,Reporter’s Notebook: Covering an antiwar protest in Israel,0.94
+2023-10-27_2808.txt,2023-10,"Ceasefire, pause or truce? What have Israel and Hamas agreed to?",0.79
 2023-10-11_3228.txt,2023-10,"Israel-Hamas war: List of key events, day 5",0.5
-2023-10-23_2898.txt,2023-10,‘He’s not dead!’ Palestinian mourns her son slain by Israeli forces,0.7941176470588235
-2023-10-30_2712.txt,2023-10,Illinois man pleads not guilty in killing of Palestinian-American boy,0.8571428571428571
+2023-10-23_2898.txt,2023-10,‘He’s not dead!’ Palestinian mourns her son slain by Israeli forces,0.79
+2023-10-30_2712.txt,2023-10,Illinois man pleads not guilty in killing of Palestinian-American boy,0.86
 2023-10-30_2724.txt,2023-10,The aftermath of Israeli army’s raid in Jenin in occupied West Bank,0.25
-2023-10-12_3190.txt,2023-10,‘Not pro-Israeli’: Decoding Putin’s muted response to Hamas attacks,0.8421052631578947
-2024-01-02_1527.txt,2024-01,Israeli army launches attacks on targets in Syria and Lebanon,0.782608695652174
-2023-10-27_2806.txt,2023-10,Israel conducts second ground raid into northern Gaza with air support,0.5238095238095238
-2024-01-05_1497.txt,2024-01,‘He’s breathing’: My two hours under Gaza’s rubble after an Israeli strike,0.6933333333333334
+2023-10-12_3190.txt,2023-10,‘Not pro-Israeli’: Decoding Putin’s muted response to Hamas attacks,0.84
+2024-01-02_1527.txt,2024-01,Israeli army launches attacks on targets in Syria and Lebanon,0.78
+2023-10-27_2806.txt,2023-10,Israel conducts second ground raid into northern Gaza with air support,0.52
+2024-01-05_1497.txt,2024-01,‘He’s breathing’: My two hours under Gaza’s rubble after an Israeli strike,0.69
 2023-10-26_2822.txt,2023-10,Why does Biden doubt the Palestinian death count in the Israel-Gaza war?,0.78
 2023-10-30_2733.txt,2023-10,"Israel-Hamas war: List of key events, day 24",1.0
-2023-10-13_3149.txt,2023-10,Sport weekly: Football speaks out on the Israel-Hamas war,0.7857142857142857
+2023-10-13_3149.txt,2023-10,Sport weekly: Football speaks out on the Israel-Hamas war,0.79
 2024-01-04_1506.txt,2024-01,Israeli military strikes south Lebanon stoking fears of widening conflict,0.72
 2023-10-28_2776.txt,2023-10,"Israel-Hamas war: List of key events, day 22",1.0
-2023-10-26_2826.txt,2023-10,Analysis: What does Israel’s Gaza incursion propaganda video reveal?,0.7045454545454546
+2023-10-26_2826.txt,2023-10,Analysis: What does Israel’s Gaza incursion propaganda video reveal?,0.7
 2023-10-22_2919.txt,2023-10,US says it will retaliate if American forces are attacked in Middle East,0.5
-2024-01-05_1493.txt,2024-01,Hezbollah chief warns Lebanon could be ‘exposed’ to more Israeli attacks,0.8947368421052632
+2024-01-05_1493.txt,2024-01,Hezbollah chief warns Lebanon could be ‘exposed’ to more Israeli attacks,0.89
 2023-10-09_3274.txt,2023-10,Palestinian state ‘most reliable’ solution to conflict with Israel: Russia,0.8
 2023-10-28_2764.txt,2023-10,"Analysis: Israel’s ground attacks yield lots of bang, little success",0.68
 2024-01-16_1372.txt,2024-01,What might be the consequences of Israeli violence in occupied West Bank?,0.8
 2024-01-04_1503.txt,2024-01,"The Take: Israel, Palestine, BDS, and the right to boycott in the US",1.1
 2023-10-23_2911.txt,2023-10,"Israeli raids in occupied West Bank kill two, hundreds arrested",0.8
-2023-10-21_2951.txt,2023-10,"Egypt-Gaza Rafah crossing opens, allowing 20 aid trucks amid Israeli siege",0.5666666666666667
+2023-10-21_2951.txt,2023-10,"Egypt-Gaza Rafah crossing opens, allowing 20 aid trucks amid Israeli siege",0.57
 2023-10-12_3208.txt,2023-10,"The Take: As Israel unifies, Gaza pays the price",0.75
-2023-10-12_3180.txt,2023-10,"Israel says 6,000 bombs dropped on Gaza as war with Hamas nears a week",0.3055555555555556
-2023-10-11_3215.txt,2023-10,Turkey’s Erdogan calls Israeli siege and bombing of Gaza a ‘massacre’,0.631578947368421
+2023-10-12_3180.txt,2023-10,"Israel says 6,000 bombs dropped on Gaza as war with Hamas nears a week",0.31
+2023-10-11_3215.txt,2023-10,Turkey’s Erdogan calls Israeli siege and bombing of Gaza a ‘massacre’,0.63
 2023-10-20_2971.txt,2023-10,Israel-Gaza: When will the world say ‘Enough’?,0.5
-2023-10-29_2748.txt,2023-10,"Israel begins ‘second stage’ of war as Gaza death toll passes 8,000",0.4444444444444444
-2024-01-19_1345.txt,2024-01,The Take: Why is Germany supporting Israel at the ICJ?,1.0909090909090908
-2023-10-31_2702.txt,2023-10,"‘Despair’: UN deplores Gaza conditions, child casualties amid Israeli war",0.6428571428571429
-2023-10-09_3277.txt,2023-10,"In Gaza, ‘we hate the night for what Israel does to us’",0.7432432432432432
-2024-01-22_1309.txt,2024-01,Palestinians flee Khan Younis as Israel steps up ground operation,0.6923076923076923
-2023-10-13_3156.txt,2023-10,"Israel’s evacuation order for Gaza ‘death sentence’ for patients, WHO says",0.3333333333333333
-2024-01-24_1296.txt,2024-01,"Undeterred by Gaza war, thousands of Indians turn up for jobs in Israel",0.7160493827160493
-2023-10-18_3041.txt,2023-10,Why has Jordan cancelled Biden visit after bombing of Gaza hospital?,0.8536585365853658
+2023-10-29_2748.txt,2023-10,"Israel begins ‘second stage’ of war as Gaza death toll passes 8,000",0.44
+2024-01-19_1345.txt,2024-01,The Take: Why is Germany supporting Israel at the ICJ?,1.09
+2023-10-31_2702.txt,2023-10,"‘Despair’: UN deplores Gaza conditions, child casualties amid Israeli war",0.64
+2023-10-09_3277.txt,2023-10,"In Gaza, ‘we hate the night for what Israel does to us’",0.74
+2024-01-22_1309.txt,2024-01,Palestinians flee Khan Younis as Israel steps up ground operation,0.69
+2023-10-13_3156.txt,2023-10,"Israel’s evacuation order for Gaza ‘death sentence’ for patients, WHO says",0.33
+2024-01-24_1296.txt,2024-01,"Undeterred by Gaza war, thousands of Indians turn up for jobs in Israel",0.72
+2023-10-18_3041.txt,2023-10,Why has Jordan cancelled Biden visit after bombing of Gaza hospital?,0.85
 2024-01-11_1435.txt,2024-01,"Lebanon and Israel ‘prefer’ diplomatic end to tensions, US envoy says",1.0
-2023-10-16_3089.txt,2023-10,"‘War knows no religion’: Gaza’s oldest church shelters Muslims, Christians",0.8333333333333334
-2024-01-31_1218.txt,2024-01,West Bank human shield describes ‘100 breathless minutes’ held by Israel,0.5365853658536586
-2023-10-18_3044.txt,2023-10,American trapped in Gaza says he feels like ‘second-class citizen’,0.7368421052631579
-2024-01-18_1356.txt,2024-01,What the designation of ‘terrorist’ means for Yemen’s Houthis,0.7435897435897436
+2023-10-16_3089.txt,2023-10,"‘War knows no religion’: Gaza’s oldest church shelters Muslims, Christians",0.83
+2024-01-31_1218.txt,2024-01,West Bank human shield describes ‘100 breathless minutes’ held by Israel,0.54
+2023-10-18_3044.txt,2023-10,American trapped in Gaza says he feels like ‘second-class citizen’,0.74
+2024-01-18_1356.txt,2024-01,What the designation of ‘terrorist’ means for Yemen’s Houthis,0.74
 2023-10-21_2944.txt,2023-10,"Israel-Hamas war: List of key events, day 15",1.0
-2024-01-15_1387.txt,2024-01,Are the Houthi Red Sea interceptions going to bring about a regional war?,0.6875
-2024-01-19_1350.txt,2024-01,‘Credibility at stake’: Why did Iran strike inside Pakistan amid Gaza war?,0.8974358974358975
-2024-01-17_1362.txt,2024-01,Biden ‘playing with fire’ by re-designating Yemen’s Houthis as ‘terrorists’,0.8275862068965517
-2023-10-28_2785.txt,2023-10,"Protests, confrontations in Jerusalem and West Bank amid Israel-Gaza war",0.6666666666666666
-2023-10-27_2805.txt,2023-10,Israeli forces kill four Palestinians in occupied West Bank: WAFA,0.5714285714285714
-2023-10-21_2956.txt,2023-10,"Gaza’s next big threat: Cholera, infectious diseases amid Israeli blockade",0.7358490566037735
-2023-10-30_2729.txt,2023-10,Russia’s Dagestan airport closed after anti-Israel protests: What to know,0.8064516129032258
-2024-01-10_1450.txt,2024-01,WHO facing ‘near insurmountable challenges’ in Gaza aid delivery,0.7407407407407407
-2023-10-07_3303.txt,2023-10,Hamas says it has enough Israeli captives to free all Palestinian prisoners,0.8333333333333334
-2023-10-17_3063.txt,2023-10,‘Bodies all around’ as Israeli air raids hit homes in Khan Younis and Rafah,0.42857142857142855
-2024-01-20_1332.txt,2024-01,"‘Refuse to fight’: Jewish, Arab activists call for peace in Israel’s Haifa",0.6428571428571429
-2023-10-09_3286.txt,2023-10,"UN Security Council meets on Gaza-Israel, but fails to agree on statement",0.7419354838709677
-2023-10-08_3294.txt,2023-10,Israeli lawmaker blames pogroms against Palestinians for ‘terrible’ attacks,0.5714285714285714
-2023-10-30_2710.txt,2023-10,Lebanon fears regional war as Hezbollah-Israel fighting intensifies,0.8541666666666666
-2023-10-12_3193.txt,2023-10,"US top diplomat Blinken visits Israel, urges protection of Gaza civilians",0.7241379310344828
-2023-10-19_3015.txt,2023-10,‘Can’t stay silent any more’: Rage in Lebanon over Israel’s war on Gaza,0.6792452830188679
-2023-10-18_3028.txt,2023-10,‘We were in hell’: Day after deadly attack on Gaza’s al-Ahli Arab Hospital,0.42105263157894735
-2023-10-18_3039.txt,2023-10,UN chief Guterres condemns ‘collective punishment’ of Palestinians,0.5833333333333334
-2023-10-22_2924.txt,2023-10,The American centre’s embrace of the far right fuels Israel’s war machine,0.8032786885245902
+2024-01-15_1387.txt,2024-01,Are the Houthi Red Sea interceptions going to bring about a regional war?,0.69
+2024-01-19_1350.txt,2024-01,‘Credibility at stake’: Why did Iran strike inside Pakistan amid Gaza war?,0.9
+2024-01-17_1362.txt,2024-01,Biden ‘playing with fire’ by re-designating Yemen’s Houthis as ‘terrorists’,0.83
+2023-10-28_2785.txt,2023-10,"Protests, confrontations in Jerusalem and West Bank amid Israel-Gaza war",0.67
+2023-10-27_2805.txt,2023-10,Israeli forces kill four Palestinians in occupied West Bank: WAFA,0.57
+2023-10-21_2956.txt,2023-10,"Gaza’s next big threat: Cholera, infectious diseases amid Israeli blockade",0.74
+2023-10-30_2729.txt,2023-10,Russia’s Dagestan airport closed after anti-Israel protests: What to know,0.81
+2024-01-10_1450.txt,2024-01,WHO facing ‘near insurmountable challenges’ in Gaza aid delivery,0.74
+2023-10-07_3303.txt,2023-10,Hamas says it has enough Israeli captives to free all Palestinian prisoners,0.83
+2023-10-17_3063.txt,2023-10,‘Bodies all around’ as Israeli air raids hit homes in Khan Younis and Rafah,0.43
+2024-01-20_1332.txt,2024-01,"‘Refuse to fight’: Jewish, Arab activists call for peace in Israel’s Haifa",0.64
+2023-10-09_3286.txt,2023-10,"UN Security Council meets on Gaza-Israel, but fails to agree on statement",0.74
+2023-10-08_3294.txt,2023-10,Israeli lawmaker blames pogroms against Palestinians for ‘terrible’ attacks,0.57
+2023-10-30_2710.txt,2023-10,Lebanon fears regional war as Hezbollah-Israel fighting intensifies,0.85
+2023-10-12_3193.txt,2023-10,"US top diplomat Blinken visits Israel, urges protection of Gaza civilians",0.72
+2023-10-19_3015.txt,2023-10,‘Can’t stay silent any more’: Rage in Lebanon over Israel’s war on Gaza,0.68
+2023-10-18_3028.txt,2023-10,‘We were in hell’: Day after deadly attack on Gaza’s al-Ahli Arab Hospital,0.42
+2023-10-18_3039.txt,2023-10,UN chief Guterres condemns ‘collective punishment’ of Palestinians,0.58
+2023-10-22_2924.txt,2023-10,The American centre’s embrace of the far right fuels Israel’s war machine,0.8
 2024-01-25_1276.txt,2024-01,Families of Israeli captives deny leaking Netanyahu Qatar tape,0.25
 2023-10-17_3053.txt,2023-10,"Israeli air raid on al-Ahli Arab Hospital kills 500, Gaza officials say",0.7
-2023-10-16_3086.txt,2023-10,Humanitarian aid stuck at Gaza border as WHO warns of ‘catastrophe’,0.4117647058823529
-2024-01-02_1532.txt,2024-01,"Israel’s war on Gaza: List of key events, day 88",0.625
-2023-10-24_2878.txt,2023-10,Israel’s war of self-deceit,0.59375
-2023-10-19_2994.txt,2023-10,Several Palestinians killed by Israeli forces in the occupied West Bank,0.625
-2023-10-10_3255.txt,2023-10,"Harvard students blame ‘apartheid regime’ for Israel-Gaza war, alumni react",0.5454545454545454
-2024-01-04_1508.txt,2024-01,Netanyahu’s bait: Why Israel might have killed Hamas leaders in Beirut now,0.8297872340425532
-2023-10-30_2713.txt,2023-10,Israeli military says it freed captured soldier in Gaza ground operations,0.5333333333333333
+2023-10-16_3086.txt,2023-10,Humanitarian aid stuck at Gaza border as WHO warns of ‘catastrophe’,0.41
+2024-01-02_1532.txt,2024-01,"Israel’s war on Gaza: List of key events, day 88",0.62
+2023-10-24_2878.txt,2023-10,Israel’s war of self-deceit,0.59
+2023-10-19_2994.txt,2023-10,Several Palestinians killed by Israeli forces in the occupied West Bank,0.62
+2023-10-10_3255.txt,2023-10,"Harvard students blame ‘apartheid regime’ for Israel-Gaza war, alumni react",0.55
+2024-01-04_1508.txt,2024-01,Netanyahu’s bait: Why Israel might have killed Hamas leaders in Beirut now,0.83
+2023-10-30_2713.txt,2023-10,Israeli military says it freed captured soldier in Gaza ground operations,0.53
 2023-10-13_3138.txt,2023-10,Israel-Hamas war updates: Iran tells Israel to stop before ‘it’s too late’,1.0
-2023-10-20_2977.txt,2023-10,The Biden hug,0.6097560975609756
-2023-10-29_2752.txt,2023-10,Joy and horror as communications come back on in the Gaza Strip,0.7678571428571429
-2023-10-16_3093.txt,2023-10,Five films that tell the human stories behind the Israel-Palestine conflict,0.8421052631578947
-2023-10-30_2725.txt,2023-10,Israeli raids kill five in occupied West Bank,0.5555555555555556
-2023-10-20_2961.txt,2023-10,Biden asks US Congress for $105bn in assistance for Israel and Ukraine,0.8461538461538461
+2023-10-20_2977.txt,2023-10,The Biden hug,0.61
+2023-10-29_2752.txt,2023-10,Joy and horror as communications come back on in the Gaza Strip,0.77
+2023-10-16_3093.txt,2023-10,Five films that tell the human stories behind the Israel-Palestine conflict,0.84
+2023-10-30_2725.txt,2023-10,Israeli raids kill five in occupied West Bank,0.56
+2023-10-20_2961.txt,2023-10,Biden asks US Congress for $105bn in assistance for Israel and Ukraine,0.85
 2024-01-04_1505.txt,2024-01,"Israel’s war on Gaza: List of key events, day 90",1.0
-2023-10-18_3033.txt,2023-10,Iran urges Muslim countries to sanction Israel after Gaza hospital strike,0.4666666666666667
-2023-10-10_3257.txt,2023-10,Hamas says will kill hostages if Israeli attacks on Gaza civilians continue,0.6764705882352942
+2023-10-18_3033.txt,2023-10,Iran urges Muslim countries to sanction Israel after Gaza hospital strike,0.47
+2023-10-10_3257.txt,2023-10,Hamas says will kill hostages if Israeli attacks on Gaza civilians continue,0.68
 2023-10-30_2715.txt,2023-10,‘Never seen such atrocities’: Palestine reporters recount Israel war horror,0.8
-2023-10-12_3177.txt,2023-10,"France bans pro-Palestine rallies, cracks down on protesters amid Gaza war",0.6470588235294118
+2023-10-12_3177.txt,2023-10,"France bans pro-Palestine rallies, cracks down on protesters amid Gaza war",0.65
 2023-10-25_2850.txt,2023-10,Family of Al Jazeera Gaza bureau chief killed in Israeli air raid,0.8
-2023-10-19_3013.txt,2023-10,Israel police boss threatens to send anti-war protesters to Gaza ‘on buses’,0.6086956521739131
-2023-10-30_2716.txt,2023-10,US officials to meet Jewish leaders as anti-Semitism surges on campuses,0.8333333333333334
-2023-10-07_3310.txt,2023-10,Israel retaliation kills 230 Palestinians after Hamas operation,0.6808510638297872
-2023-10-11_3222.txt,2023-10,How are Palestinian children affected by the Israel-Hamas war?,0.43478260869565216
-2023-10-23_2901.txt,2023-10,How Israeli bombing turned Gaza’s desperate situation into a ‘catastrophe’,0.4642857142857143
+2023-10-19_3013.txt,2023-10,Israel police boss threatens to send anti-war protesters to Gaza ‘on buses’,0.61
+2023-10-30_2716.txt,2023-10,US officials to meet Jewish leaders as anti-Semitism surges on campuses,0.83
+2023-10-07_3310.txt,2023-10,Israel retaliation kills 230 Palestinians after Hamas operation,0.68
+2023-10-11_3222.txt,2023-10,How are Palestinian children affected by the Israel-Hamas war?,0.43
+2023-10-23_2901.txt,2023-10,How Israeli bombing turned Gaza’s desperate situation into a ‘catastrophe’,0.46
 2023-10-17_3071.txt,2023-10,Beyond Hezbollah: The history of tensions between Lebanon and Israel,0.88
 2023-10-21_2942.txt,2023-10,Why does the US not support a ceasefire in Gaza?,0.5
 2023-10-16_3076.txt,2023-10,Israel-Hamas war updates: Hundreds killed in Gaza hospital ‘massacre’,1.0
-2023-10-21_2953.txt,2023-10,Biden says Hamas attack on Israel aimed at disrupting Israel-Saudi thaw,0.6363636363636364
-2023-10-13_3148.txt,2023-10,Israel-Hamas war: A list of governments repatriating citizens from Israel,0.9565217391304348
-2024-01-10_1449.txt,2024-01,"US top diplomat Blinken meets Abbas, discusses Palestinian statehood",0.90625
-2024-01-16_1379.txt,2024-01,Israel’s war on Gaza and the West’s credibility crisis,0.7021276595744681
+2023-10-21_2953.txt,2023-10,Biden says Hamas attack on Israel aimed at disrupting Israel-Saudi thaw,0.64
+2023-10-13_3148.txt,2023-10,Israel-Hamas war: A list of governments repatriating citizens from Israel,0.96
+2024-01-10_1449.txt,2024-01,"US top diplomat Blinken meets Abbas, discusses Palestinian statehood",0.91
+2024-01-16_1379.txt,2024-01,Israel’s war on Gaza and the West’s credibility crisis,0.7
 2023-10-27_2787.txt,2023-10,UNGA calls for humanitarian truce in Israel-Gaza war: How countries voted,0.25
-2024-01-20_1338.txt,2024-01,Iran’s IRGC says 5 members killed in Israeli attack on Syria’s Damascus,0.7931034482758621
+2024-01-20_1338.txt,2024-01,Iran’s IRGC says 5 members killed in Israeli attack on Syria’s Damascus,0.79
 2023-10-19_2985.txt,2023-10,Israel-Gaza war updates: Biden welcomes release of US captives from Gaza,1.0
-2023-10-17_3047.txt,2023-10,Outrage spreads across Middle East after attack on Gaza hospital,0.631578947368421
-2024-01-31_1217.txt,2024-01,What’s behind Israel’s decision to target UNRWA?,0.6170212765957447
-2023-10-27_2809.txt,2023-10,Hamas cannot free captives until Israel-Gaza ceasefire: Official,0.625
+2023-10-17_3047.txt,2023-10,Outrage spreads across Middle East after attack on Gaza hospital,0.63
+2024-01-31_1217.txt,2024-01,What’s behind Israel’s decision to target UNRWA?,0.62
+2023-10-27_2809.txt,2023-10,Hamas cannot free captives until Israel-Gaza ceasefire: Official,0.62
 2023-10-26_2837.txt,2023-10,Red Cross’s Mamadou Sow: ‘I wish we could shield hospitals in Gaza’,0.8
-2024-01-13_1411.txt,2024-01,Have the Houthi Red Sea attacks hurt Israel’s economy?,0.725
-2023-10-29_2746.txt,2023-10,More children’s deaths in Gaza in 3 weeks than annual total since 2019: NGO,0.6551724137931034
-2023-10-13_3152.txt,2023-10,Palestinians flee their homes towards southern Gaza after Israeli order,0.375
-2023-10-26_2834.txt,2023-10,How far will Europe back Israel in its war on Gaza?,0.8666666666666667
-2024-01-18_1361.txt,2024-01,US launches new strikes on Houthi targets in Yemen,0.7368421052631579
-2024-01-13_1412.txt,2024-01,"Blackout in Gaza’s Al-Aqsa Hospital as fuel runs out, babies at high risk",0.7142857142857143
-2023-10-24_2879.txt,2023-10,What do we know about Israeli captives taken by Hamas and their release?,0.6595744680851063
-2023-10-31_2685.txt,2023-10,"Shopping, queuing for bread, looking for water: Life in Gaza City continues",0.6666666666666666
-2024-01-29_1229.txt,2024-01,"Qatar PM says ‘good progress’ in Gaza truce, captives negotiations",0.7777777777777778
-2024-01-26_1263.txt,2024-01,‘This court is a failure’: Palestinians in Gaza decry ICJ’s interim ruling,0.7142857142857143
+2024-01-13_1411.txt,2024-01,Have the Houthi Red Sea attacks hurt Israel’s economy?,0.72
+2023-10-29_2746.txt,2023-10,More children’s deaths in Gaza in 3 weeks than annual total since 2019: NGO,0.66
+2023-10-13_3152.txt,2023-10,Palestinians flee their homes towards southern Gaza after Israeli order,0.38
+2023-10-26_2834.txt,2023-10,How far will Europe back Israel in its war on Gaza?,0.87
+2024-01-18_1361.txt,2024-01,US launches new strikes on Houthi targets in Yemen,0.74
+2024-01-13_1412.txt,2024-01,"Blackout in Gaza’s Al-Aqsa Hospital as fuel runs out, babies at high risk",0.71
+2023-10-24_2879.txt,2023-10,What do we know about Israeli captives taken by Hamas and their release?,0.66
+2023-10-31_2685.txt,2023-10,"Shopping, queuing for bread, looking for water: Life in Gaza City continues",0.67
+2024-01-29_1229.txt,2024-01,"Qatar PM says ‘good progress’ in Gaza truce, captives negotiations",0.78
+2024-01-26_1263.txt,2024-01,‘This court is a failure’: Palestinians in Gaza decry ICJ’s interim ruling,0.71
 2024-01-12_1429.txt,2024-01,"Israel’s war on Gaza: List of key events, day 98",1.0
 2023-10-07_3302.txt,2023-10,Israel pummels Gaza after Hamas’s unprecedented attack,0.5
 2024-01-29_1237.txt,2024-01,"Israel’s war on Gaza: List of key events, day 115",1.0
-2024-01-07_1475.txt,2024-01,Jordan’s King Abdullah II presses Blinken to push for a ceasefire in Gaza,0.9130434782608695
+2024-01-07_1475.txt,2024-01,Jordan’s King Abdullah II presses Blinken to push for a ceasefire in Gaza,0.91
 2023-10-18_3040.txt,2023-10,"Israel-Hamas war: List of key events, day 12",1.0
-2024-01-13_1410.txt,2024-01,How I stopped being a cartoonist and became a ‘troll’,0.8275862068965517
-2023-10-17_3072.txt,2023-10,Iran warns of ‘preemptive’ action against Israel amid Gaza war,0.6111111111111112
-2023-10-06_3311.txt,2023-10,Palestinian killed as Israeli settlers attack West Bank town of Huwara,0.8181818181818182
+2024-01-13_1410.txt,2024-01,How I stopped being a cartoonist and became a ‘troll’,0.83
+2023-10-17_3072.txt,2023-10,Iran warns of ‘preemptive’ action against Israel amid Gaza war,0.61
+2023-10-06_3311.txt,2023-10,Palestinian killed as Israeli settlers attack West Bank town of Huwara,0.82
 2023-10-28_2783.txt,2023-10,"The Take: With communications cut off, Gaza goes dark amid Israeli attacks",1.0
-2023-10-26_2828.txt,2023-10,Arab world condemns Al Jazeera journalist’s family killing in Israeli raid,0.8125
-2024-01-13_1409.txt,2024-01,Pro-Palestine protests held around the world as Gaza war nears 100 days,0.78125
-2023-10-14_3127.txt,2023-10,Palestinians fleeing Gaza’s north face air attacks in southern Khan Younis,0.5714285714285714
+2023-10-26_2828.txt,2023-10,Arab world condemns Al Jazeera journalist’s family killing in Israeli raid,0.81
+2024-01-13_1409.txt,2024-01,Pro-Palestine protests held around the world as Gaza war nears 100 days,0.78
+2023-10-14_3127.txt,2023-10,Palestinians fleeing Gaza’s north face air attacks in southern Khan Younis,0.57
 2023-10-28_2786.txt,2023-10,Israel-Hamas war updates: ‘Long and difficult’ fight as Israel pummels Gaza,1.0
-2023-10-22_2928.txt,2023-10,Web Summit CEO Paddy Cosgrave resigns over Israel ‘war crimes’ post,0.7586206896551724
-2023-10-09_3280.txt,2023-10,Israel announces ‘total’ blockade on Gaza,0.6363636363636364
+2023-10-22_2928.txt,2023-10,Web Summit CEO Paddy Cosgrave resigns over Israel ‘war crimes’ post,0.76
+2023-10-09_3280.txt,2023-10,Israel announces ‘total’ blockade on Gaza,0.64
 2023-10-27_2821.txt,2023-10,Israel-Hamas war updates: Israeli ground forces expanding Gaza operations,0.5
-2023-10-19_3000.txt,2023-10,The Take: Will the Gaza hospital attack be a turning point for the world?,0.8666666666666667
-2023-10-16_3097.txt,2023-10,Israel’s evacuation order is nothing but cover for ethnic cleansing,0.6944444444444444
-2023-10-13_3164.txt,2023-10,"Fear, confusion as Israel issues evacuation order for northern Gaza",0.6428571428571429
+2023-10-19_3000.txt,2023-10,The Take: Will the Gaza hospital attack be a turning point for the world?,0.87
+2023-10-16_3097.txt,2023-10,Israel’s evacuation order is nothing but cover for ethnic cleansing,0.69
+2023-10-13_3164.txt,2023-10,"Fear, confusion as Israel issues evacuation order for northern Gaza",0.64
 2024-01-31_1221.txt,2024-01,"Israel’s war on Gaza: List of key events, day 117",1.0
-2023-10-17_3052.txt,2023-10,World reacts as Gaza officials say 500 killed in Israeli strike on hospital,0.6506024096385542
-2024-01-10_1448.txt,2024-01,Is Israel committing genocide in Gaza?,0.7142857142857143
+2023-10-17_3052.txt,2023-10,World reacts as Gaza officials say 500 killed in Israeli strike on hospital,0.65
+2024-01-10_1448.txt,2024-01,Is Israel committing genocide in Gaza?,0.71
 2023-10-13_3166.txt,2023-10,"Israel-Hamas war: List of key events, day 7",1.0
-2024-01-17_1369.txt,2024-01,Al Jazeera’s Gaza bureau chief Wael Dahdouh in Qatar for medical treatment,0.7222222222222222
-2023-10-13_3170.txt,2023-10,WHO warns hospitals in besieged Gaza Strip are at ‘breaking point’,0.631578947368421
-2023-10-26_2842.txt,2023-10,"What is Hamas’s armed wing, the Qassam Brigades?",0.9090909090909091
-2023-10-17_3051.txt,2023-10,‘We only wanted to leave’: One Palestinian family’s attempt to flee Gaza,0.8372093023255814
+2024-01-17_1369.txt,2024-01,Al Jazeera’s Gaza bureau chief Wael Dahdouh in Qatar for medical treatment,0.72
+2023-10-13_3170.txt,2023-10,WHO warns hospitals in besieged Gaza Strip are at ‘breaking point’,0.63
+2023-10-26_2842.txt,2023-10,"What is Hamas’s armed wing, the Qassam Brigades?",0.91
+2023-10-17_3051.txt,2023-10,‘We only wanted to leave’: One Palestinian family’s attempt to flee Gaza,0.84
 2024-01-01_1533.txt,2024-01,How has Israel’s brutal Gaza war mobilised international youth?,0.75
-2023-10-09_3272.txt,2023-10,"Western leaders accused of hypocrisy over response to Palestine, Ukraine",0.7017543859649122
+2023-10-09_3272.txt,2023-10,"Western leaders accused of hypocrisy over response to Palestine, Ukraine",0.7
 2024-01-22_1314.txt,2024-01,Iran and Pakistan rebuilding diplomatic ties following tit-for-tat strikes,1.0
 2023-10-12_3207.txt,2023-10,Time running out at Gaza hospitals amid power blackout after Israeli siege,0.8
 2024-01-15_1388.txt,2024-01,The Take: The discontent brewing in the Biden administration over Gaza,1.0
 2023-10-31_2707.txt,2023-10,The Take: Are the captives a priority in Israel’s war on Gaza?,1.0
-2023-10-18_3020.txt,2023-10,Al-Ahli hospital bombing: Israel performing its usual post-atrocity routine,0.47058823529411764
+2023-10-18_3020.txt,2023-10,Al-Ahli hospital bombing: Israel performing its usual post-atrocity routine,0.47
 2024-01-27_1257.txt,2024-01,"Israel’s war on Gaza: List of key events, day 113",1.0
-2023-10-10_3250.txt,2023-10,Families of Hamas captives worry over loved ones as Israel pummels Gaza,0.8148148148148148
-2023-10-25_2861.txt,2023-10,Israel air raids kill eight soldiers in southern Syria: State media,0.6666666666666666
-2023-10-12_3191.txt,2023-10,"How the Israel war, blockade affect mental health of Palestinian children",0.8148148148148148
-2024-01-01_1537.txt,2024-01,"‘Completely alienated’: British Muslims on Labour, Tory stance on Gaza war",0.7435897435897436
+2023-10-10_3250.txt,2023-10,Families of Hamas captives worry over loved ones as Israel pummels Gaza,0.81
+2023-10-25_2861.txt,2023-10,Israel air raids kill eight soldiers in southern Syria: State media,0.67
+2023-10-12_3191.txt,2023-10,"How the Israel war, blockade affect mental health of Palestinian children",0.81
+2024-01-01_1537.txt,2024-01,"‘Completely alienated’: British Muslims on Labour, Tory stance on Gaza war",0.74
 2024-01-11_1440.txt,2024-01,The Take: The last keffiyeh factory in Palestine,1.0
-2023-10-20_2982.txt,2023-10,McDonald’s franchises in Middle East at odds over Israel-Hamas war,0.7916666666666666
-2024-01-03_1521.txt,2024-01,"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?",0.6666666666666666
-2024-01-20_1331.txt,2024-01,Can international justice stop Israel?,0.7142857142857143
-2023-10-20_2965.txt,2023-10,How Israel will stage its land incursion into Gaza,0.8529411764705882
+2023-10-20_2982.txt,2023-10,McDonald’s franchises in Middle East at odds over Israel-Hamas war,0.79
+2024-01-03_1521.txt,2024-01,"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?",0.67
+2024-01-20_1331.txt,2024-01,Can international justice stop Israel?,0.71
+2023-10-20_2965.txt,2023-10,How Israel will stage its land incursion into Gaza,0.85
 2024-01-27_1250.txt,2024-01,Will Israel obey the ruling of the UN’s top court?,1.0
 2023-10-20_2980.txt,2023-10,Israel bombs Greek Orthodox Gaza church sheltering displaced people,0.6
 2024-01-17_1364.txt,2024-01,US designates Yemen’s Houthis as ‘global terrorists’,0.84
-2023-10-17_3062.txt,2023-10,Israel could be in breach of global law with Gaza relocation order: UN,0.5625
-2023-10-27_2811.txt,2023-10,Israeli bombing levels a residential square on Gaza City’s Jalaa Street,0.3333333333333333
+2023-10-17_3062.txt,2023-10,Israel could be in breach of global law with Gaza relocation order: UN,0.56
+2023-10-27_2811.txt,2023-10,Israeli bombing levels a residential square on Gaza City’s Jalaa Street,0.33
 2024-01-03_1518.txt,2024-01,Algerian footballer Youcef Atal convicted in France over post on Gaza war,0.7
-2023-10-14_3125.txt,2023-10,"Water a ‘matter of life and death’ for Gaza after Israeli siege, says UN",0.6666666666666666
-2024-01-02_1526.txt,2024-01,Israel promises to fight South Africa genocide accusation at ICJ,0.6923076923076923
-2023-10-19_3005.txt,2023-10,State Department official resigns over Biden’s handling of Israel-Gaza war,0.6666666666666666
-2024-01-22_1316.txt,2024-01,How Israel has repeatedly rejected Hamas truce offers,0.7021276595744681
+2023-10-14_3125.txt,2023-10,"Water a ‘matter of life and death’ for Gaza after Israeli siege, says UN",0.67
+2024-01-02_1526.txt,2024-01,Israel promises to fight South Africa genocide accusation at ICJ,0.69
+2023-10-19_3005.txt,2023-10,State Department official resigns over Biden’s handling of Israel-Gaza war,0.67
+2024-01-22_1316.txt,2024-01,How Israel has repeatedly rejected Hamas truce offers,0.7
 2023-10-16_3104.txt,2023-10,"Israel-Hamas war: List of key events, day 10",1.0
-2024-01-04_1509.txt,2024-01,Hunger hits displaced Palestinians and animals in Gaza zoo,0.6153846153846154
-2024-01-26_1266.txt,2024-01,"What has the ICJ ordered Israel to do on Gaza war, and what’s next?",0.8309859154929577
-2024-01-26_1271.txt,2024-01,What the ICJ’s interim ruling means for Israel’s war on Gaza,0.6956521739130435
+2024-01-04_1509.txt,2024-01,Hunger hits displaced Palestinians and animals in Gaza zoo,0.62
+2024-01-26_1266.txt,2024-01,"What has the ICJ ordered Israel to do on Gaza war, and what’s next?",0.83
+2024-01-26_1271.txt,2024-01,What the ICJ’s interim ruling means for Israel’s war on Gaza,0.7
 2024-01-26_1270.txt,2024-01,The Take: How long can Israel afford its war on Gaza?,1.0
-2023-10-09_3284.txt,2023-10,US’s Schumer expresses ‘disappointment’ at Beijing’s Israel-Gaza response,0.6666666666666666
+2023-10-09_3284.txt,2023-10,US’s Schumer expresses ‘disappointment’ at Beijing’s Israel-Gaza response,0.67
 2023-10-17_3060.txt,2023-10,"The Take: The other blockade – As Gaza escalates, so does the West Bank",0.9
-2023-10-20_2983.txt,2023-10,Biden says US ‘holds world together’ as he condemns Putin and Hamas,0.625
-2023-10-26_2835.txt,2023-10,"Guterres, Gaza and the consequences of countering ‘Israelspeak’",0.39285714285714285
-2023-10-25_2860.txt,2023-10,"Hezbollah, Hamas, Islamic Jihad chiefs discuss route to ‘victory’ on Israel",0.8333333333333334
-2023-10-08_3288.txt,2023-10,The Take: The shockwaves of the Hamas assault on Israel,1.1666666666666667
-2024-01-28_1246.txt,2024-01,The ICJ ruling was a legal victory at the cost of Palestinian lives,0.7586206896551724
-2024-01-24_1294.txt,2024-01,"UN, UK push Israel on role of two-state solution in ending Gaza war",0.782608695652174
-2023-10-19_3012.txt,2023-10,Joe Biden owns this,0.625
-2023-10-31_2684.txt,2023-10,Al Jazeera engineer loses 19 family members in Israeli air raid,0.6428571428571429
-2023-10-19_3001.txt,2023-10,EU’s Palestine envoy: Bloc lacks sympathy for victims of Israel’s bombing,0.775
+2023-10-20_2983.txt,2023-10,Biden says US ‘holds world together’ as he condemns Putin and Hamas,0.62
+2023-10-26_2835.txt,2023-10,"Guterres, Gaza and the consequences of countering ‘Israelspeak’",0.39
+2023-10-25_2860.txt,2023-10,"Hezbollah, Hamas, Islamic Jihad chiefs discuss route to ‘victory’ on Israel",0.83
+2023-10-08_3288.txt,2023-10,The Take: The shockwaves of the Hamas assault on Israel,1.17
+2024-01-28_1246.txt,2024-01,The ICJ ruling was a legal victory at the cost of Palestinian lives,0.76
+2024-01-24_1294.txt,2024-01,"UN, UK push Israel on role of two-state solution in ending Gaza war",0.78
+2023-10-19_3012.txt,2023-10,Joe Biden owns this,0.62
+2023-10-31_2684.txt,2023-10,Al Jazeera engineer loses 19 family members in Israeli air raid,0.64
+2023-10-19_3001.txt,2023-10,EU’s Palestine envoy: Bloc lacks sympathy for victims of Israel’s bombing,0.78
 2023-10-24_2873.txt,2023-10,"Israel-Hamas live updates: 6,500 Palestinians killed by Israel in Gaza",1.0
-2023-10-12_3188.txt,2023-10,Wife of Scotland’s leader says her parents trapped in Gaza are ‘terrified’,0.7083333333333334
+2023-10-12_3188.txt,2023-10,Wife of Scotland’s leader says her parents trapped in Gaza are ‘terrified’,0.71
 2023-10-12_3179.txt,2023-10,Palestinian killed in alleged clash with Israeli police in East Jerusalem,0.5
-2023-10-25_2852.txt,2023-10,"As US resists ceasefire calls, what is Biden’s endgame in Gaza?",0.6326530612244898
-2023-10-30_2738.txt,2023-10,"Israel strikes Syria, Lebanon following rocket attacks, military says",0.6666666666666666
+2023-10-25_2852.txt,2023-10,"As US resists ceasefire calls, what is Biden’s endgame in Gaza?",0.63
+2023-10-30_2738.txt,2023-10,"Israel strikes Syria, Lebanon following rocket attacks, military says",0.67
 2023-10-26_2844.txt,2023-10,Israel-Hamas war updates: Names of Palestinians killed in Gaza released,1.0
-2023-10-16_3081.txt,2023-10,Gaza’s dire humanitarian crisis explained,0.5595238095238095
-2023-10-19_3009.txt,2023-10,"A romance, a birthplace: Destroyed memories of Gaza’s bombed Ahli Hospital",0.813953488372093
-2023-10-15_3111.txt,2023-10,Palestinian-American boy stabbed to death in Gaza war-related killing in US,0.5789473684210527
+2023-10-16_3081.txt,2023-10,Gaza’s dire humanitarian crisis explained,0.56
+2023-10-19_3009.txt,2023-10,"A romance, a birthplace: Destroyed memories of Gaza’s bombed Ahli Hospital",0.81
+2023-10-15_3111.txt,2023-10,Palestinian-American boy stabbed to death in Gaza war-related killing in US,0.58
 2024-01-29_1239.txt,2024-01,"Israel, genocide and whether the ICJ matters",1.0
 2023-10-11_3213.txt,2023-10,Israel army says ‘aerial infiltration’ on Lebanon border was a false alarm,0.6
-2023-10-30_2709.txt,2023-10,Bernie Sanders’s failure to back Israel-Gaza ceasefire upsets US followers,0.6909090909090909
-2024-01-30_1227.txt,2024-01,Israeli forces kill three Palestinians in West Bank hospital raid,0.6888888888888889
-2024-01-01_1536.txt,2024-01,"Israel flattened my home, killed my family. I still lit a candle for 2024",0.5932203389830508
+2023-10-30_2709.txt,2023-10,Bernie Sanders’s failure to back Israel-Gaza ceasefire upsets US followers,0.69
+2024-01-30_1227.txt,2024-01,Israeli forces kill three Palestinians in West Bank hospital raid,0.69
+2024-01-01_1536.txt,2024-01,"Israel flattened my home, killed my family. I still lit a candle for 2024",0.59
 2024-01-26_1274.txt,2024-01,ICJ updates: Court orders Israel to prevent acts of genocide in Gaza,1.0
 2024-01-23_1305.txt,2024-01,"Israel, Gaza, Germany and the genocide in Namibia",1.0
-2023-10-22_2935.txt,2023-10,Canada says it is confident Israel not behind deadly blast at Gaza hospital,0.625
+2023-10-22_2935.txt,2023-10,Canada says it is confident Israel not behind deadly blast at Gaza hospital,0.62
 2023-10-24_2892.txt,2023-10,"China’s Wang urges peace in calls with Israeli, Palestinian counterparts",0.65
 2023-10-20_2964.txt,2023-10,Israel aims to end its responsibility for Gaza as ground offensive looms,0.68
-2023-10-12_3206.txt,2023-10,"‘This is different’: At a West Bank cafe, Israel’s assault edges closer",0.859375
+2023-10-12_3206.txt,2023-10,"‘This is different’: At a West Bank cafe, Israel’s assault edges closer",0.86
 2023-10-22_2926.txt,2023-10,Over 100 incubator babies at risk due to Israel’s fuel cuts to Gaza: UN,0.65
-2023-10-14_3129.txt,2023-10,"Saudi Arabia puts Israel deal on ice amid war, engages with Iran: Report",0.8333333333333334
-2023-10-31_2699.txt,2023-10,Israel demolishes senior Hamas leader’s house in occupied West Bank,0.6111111111111112
-2024-01-20_1336.txt,2024-01,Oil supply tightens in Europe over Red Sea disruptions,0.7407407407407407
-2024-01-12_1427.txt,2024-01,"How the US, UK bombing of Yemen might help the Houthis",0.8378378378378378
-2023-10-30_2711.txt,2023-10,Israeli forces move further into Gaza as Netanyahu declares ‘time for war’,0.5925925925925926
-2023-10-17_3070.txt,2023-10,Biden to visit Israel as Gaza faces humanitarian catastrophe,0.8205128205128205
-2023-10-12_3185.txt,2023-10,"Under Israeli bombs, Gaza’s Palestinians worry they may die of hunger",0.5581395348837209
-2023-10-27_2803.txt,2023-10,Displaced Palestinians in overcrowded UN schools face outbreak of disease,0.41304347826086957
+2023-10-14_3129.txt,2023-10,"Saudi Arabia puts Israel deal on ice amid war, engages with Iran: Report",0.83
+2023-10-31_2699.txt,2023-10,Israel demolishes senior Hamas leader’s house in occupied West Bank,0.61
+2024-01-20_1336.txt,2024-01,Oil supply tightens in Europe over Red Sea disruptions,0.74
+2024-01-12_1427.txt,2024-01,"How the US, UK bombing of Yemen might help the Houthis",0.84
+2023-10-30_2711.txt,2023-10,Israeli forces move further into Gaza as Netanyahu declares ‘time for war’,0.59
+2023-10-17_3070.txt,2023-10,Biden to visit Israel as Gaza faces humanitarian catastrophe,0.82
+2023-10-12_3185.txt,2023-10,"Under Israeli bombs, Gaza’s Palestinians worry they may die of hunger",0.56
+2023-10-27_2803.txt,2023-10,Displaced Palestinians in overcrowded UN schools face outbreak of disease,0.41
 2023-10-14_3128.txt,2023-10,Israel at war against Gaza: At what cost to both economies?,0.5
-2023-10-23_2910.txt,2023-10,EU’s foreign policy chief Borrell backs pause in Israel-Hamas war,0.7647058823529411
-2023-10-18_3038.txt,2023-10,Analysis: Will Gaza be Israel’s Stalingrad?,0.6585365853658537
-2023-10-16_3105.txt,2023-10,Egypt’s tricky calculation as Israel’s assault on Gaza continues,0.6333333333333333
+2023-10-23_2910.txt,2023-10,EU’s foreign policy chief Borrell backs pause in Israel-Hamas war,0.76
+2023-10-18_3038.txt,2023-10,Analysis: Will Gaza be Israel’s Stalingrad?,0.66
+2023-10-16_3105.txt,2023-10,Egypt’s tricky calculation as Israel’s assault on Gaza continues,0.63
 2023-10-17_3067.txt,2023-10,"Israel-Hamas war: List of key events, day 11",1.0
-2023-10-25_2858.txt,2023-10,Turkey’s Erdogan scraps Israel trip over ‘inhumane’ Gaza war,0.6470588235294118
-2023-10-10_3239.txt,2023-10,Alarm as Israel again hits Rafah border crossing between Gaza and Egypt,0.7083333333333334
-2024-01-14_1399.txt,2024-01,Hezbollah says US strikes on Yemen’s Houthis harm maritime security,0.6818181818181818
-2024-01-12_1426.txt,2024-01,"World reacts to US, UK attacks on Houthi targets in Yemen",0.8888888888888888
-2024-01-09_1463.txt,2024-01,Which countries back South Africa’s genocide case against Israel at ICJ?,0.7368421052631579
-2024-01-21_1322.txt,2024-01,Israel approves plan to transfer Gaza tax funds to Norway,0.47368421052631576
-2023-10-10_3234.txt,2023-10,Social media platforms swamped with fake news on the Israel-Hamas war,0.7037037037037037
-2023-10-19_3003.txt,2023-10,Russia’s Lavrov warns Israel-Gaza war could spark regional crisis,0.3333333333333333
+2023-10-25_2858.txt,2023-10,Turkey’s Erdogan scraps Israel trip over ‘inhumane’ Gaza war,0.65
+2023-10-10_3239.txt,2023-10,Alarm as Israel again hits Rafah border crossing between Gaza and Egypt,0.71
+2024-01-14_1399.txt,2024-01,Hezbollah says US strikes on Yemen’s Houthis harm maritime security,0.68
+2024-01-12_1426.txt,2024-01,"World reacts to US, UK attacks on Houthi targets in Yemen",0.89
+2024-01-09_1463.txt,2024-01,Which countries back South Africa’s genocide case against Israel at ICJ?,0.74
+2024-01-21_1322.txt,2024-01,Israel approves plan to transfer Gaza tax funds to Norway,0.47
+2023-10-10_3234.txt,2023-10,Social media platforms swamped with fake news on the Israel-Hamas war,0.7
+2023-10-19_3003.txt,2023-10,Russia’s Lavrov warns Israel-Gaza war could spark regional crisis,0.33
 2023-10-29_2760.txt,2023-10,"Internet, phone services return to Gaza after Israeli communications cutoff",0.75
-2024-01-26_1261.txt,2024-01,US court hears civil case accusing Biden of ‘complicity’ in Gaza ‘genocide’,0.631578947368421
+2024-01-26_1261.txt,2024-01,US court hears civil case accusing Biden of ‘complicity’ in Gaza ‘genocide’,0.63
 2023-10-17_3068.txt,2023-10,Gaza at breaking point as Israel evacuates north,0.6
 2023-10-27_2790.txt,2023-10,Analysis: Does Israel’s land operation mean captives won’t be released?,0.68
-2024-01-27_1253.txt,2024-01,UN Security Council to discuss ICJ ruling in Israel genocide case,0.6666666666666666
+2024-01-27_1253.txt,2024-01,UN Security Council to discuss ICJ ruling in Israel genocide case,0.67
 2023-10-28_2774.txt,2023-10,UN’s Navi Pillay: Israel has ‘no intention of ending occupation’,1.0
