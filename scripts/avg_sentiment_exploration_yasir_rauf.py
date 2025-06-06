@@ -1,7 +1,7 @@
 """This script is a part of our Digital Humanities Mini Project No. 3, where we are learning different ways to visualize data using Python.
 In this script, I am exploring different methods to visualize my own created DataFrame named "avg_sentiment_results.csv", which is located inside the
-data/sentiment analysis folder of FASDH25-portfolio3 repository. I start by creating a bar chart using absolute counts, then move on to relative counts,
-and finally, we makea scatter plot.
+outputs/sentiment analysis folder of FASDH25-portfolio3 repository. I start by creating a bar chart using absolute counts, then move on to relative counts,
+and finally, through a scatter plot.
 
 All the visualization code blocks are currently commented out because running them all together can cause errors — one visualization might interfere
 with another. If you want to explore a specific visualization, just remove the comment (i.e., the #) from the line of code you’re interested in and run
@@ -12,7 +12,7 @@ import pandas as pd
 import plotly.express as px
 
 # Loading our avg_sentiment_results.csv file as a panda dataframe
-df = pd.read_csv("../data/dataframes/sentiment-analysis/avg_sentiment_results.csv")
+df = pd.read_csv("../outputs/sentiment-analysis/avg_sentiment_results.csv")
 
 # Printing the head of the dataframe to explore columns and rows
 print(df.head())

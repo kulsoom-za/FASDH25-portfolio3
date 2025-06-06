@@ -1,5 +1,5 @@
 """This script is part of our Digital Humanities Mini Project 3, where we are exploring different ways of visualizing data using Python.
-In this script, I first load the avg_sentiment_results.csv file located inside the data/sentiment_analysis folder of our repository
+In this script, I first load the avg_sentiment_results.csv file located inside the outputs/sentiment_analysis folder of our repository
 FASDH25-portfolio3 as a pandas DataFrame. Then, I defined a function to categorize numeric average sentiment into Negative, Neutral, or
 Positive groups to simplify the analysis. Focusing on two specific months, October 2023 and January 2024, I then filtered the data accordingly.
 Next, I grouped the data by month and sentiment category to count how many articles fell into each group, then calculated the percentage
@@ -13,7 +13,7 @@ import pandas as pd
 import plotly.express as px
 
 # Loading our avg_sentiment_results.csv file as a panda dataframe
-df = pd.read_csv("../data/dataframes/sentiment-analysis/avg_sentiment_results.csv")
+df = pd.read_csv("../outputs/sentiment-analysis/avg_sentiment_results.csv")
 
 # Printing the head of the dataframe to explore columns and rows
 print(df.head())
