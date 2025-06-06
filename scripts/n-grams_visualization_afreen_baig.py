@@ -1,7 +1,5 @@
 import pandas as pd
 import plotly.express as px
-import nltk
-from nltk.corpus import stopwords
 
 # Load dataset
 df = pd.read_csv("../data/dataframes/n-grams/3-gram/3-gram.csv") #help taken from slide 13, DHFAS-13.2-plotly and Visualisation
@@ -10,13 +8,11 @@ df = pd.read_csv("../data/dataframes/n-grams/3-gram/3-gram.csv") #help taken fro
 # Define narrative phrases
 phrases = [
     "the gaza strip",
-    "told al jazeera",
-    "the israeli army",
     "occupied west bank",
-    "humanitarian aid",
+    "the israeli army",
+    "israeli air strikes",
     "palestinian health ministry",
-    "the social media",
-    "united nations says"
+    "officials told aljazeera"
 ]
 
 # Filter data frame for these phrases
@@ -40,14 +36,16 @@ grouped = df.groupby(['3-gram', 'period'], as_index=False)['count'].sum()# taken
 # Plot bar chart
 fig = px.bar(
     grouped,
-    y='3-gram',           # flip axes
     x='count',
+    y='3-gram',           
     color='period',
     barmode='group',
     title='Media Framing of Gaza: Before vs After October 2023',
     labels={'3-gram':'Narrative Phrase','count':'Total Frequency','period':'Time Period'},
     text='count'
-)
+)#learned from the slides and lectures
+
+#See ChatGPT respone No.4 in AI Documention in AI_Documnetation_Afreen_Baig
 fig.update_layout(
     yaxis={'automargin':True},    # gives room for long labels
     legend_title='Period'
